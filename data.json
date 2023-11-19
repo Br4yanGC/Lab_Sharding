@@ -1,0 +1,7914 @@
+[
+  {
+    "city": "Tokyo",
+    "date": "2023-11-14",
+    "latitude": "35.6840574",
+    "longitude": "139.7744912",
+    "max_temp": 17.0,
+    "min_temp": 8.9
+  },
+  {
+    "city": "Jakarta",
+    "date": "2023-11-14",
+    "latitude": "-6.175247",
+    "longitude": "106.8270488",
+    "max_temp": 33.3,
+    "min_temp": 25.6
+  },
+  {
+    "city": "Delhi",
+    "date": "2023-11-14",
+    "latitude": "28.6273928",
+    "longitude": "77.1716954",
+    "max_temp": 24.6,
+    "min_temp": 14.2
+  },
+  {
+    "city": "Guangzhou",
+    "date": "2023-11-14",
+    "latitude": "23.1301964",
+    "longitude": "113.2592945",
+    "max_temp": 18.7,
+    "min_temp": 13.8
+  },
+  {
+    "city": "Mumbai",
+    "date": "2023-11-14",
+    "latitude": "19.08157715",
+    "longitude": "72.88662753964906",
+    "max_temp": 34.5,
+    "min_temp": 23.3
+  },
+  {
+    "city": "Manila",
+    "date": "2023-11-14",
+    "latitude": "14.5906346",
+    "longitude": "120.9799964",
+    "max_temp": 32.9,
+    "min_temp": 26.2
+  },
+  {
+    "city": "Shanghai",
+    "date": "2023-11-14",
+    "latitude": "31.2323437",
+    "longitude": "121.4691024",
+    "max_temp": 13.6,
+    "min_temp": 8.6
+  },
+  {
+    "city": "S\u00e3o Paulo",
+    "date": "2023-11-14",
+    "latitude": "-23.5506507",
+    "longitude": "-46.6333824",
+    "max_temp": 36.3,
+    "min_temp": 21.8
+  },
+  {
+    "city": "Seoul",
+    "date": "2023-11-14",
+    "latitude": "37.5666791",
+    "longitude": "126.9782914",
+    "max_temp": 8.6,
+    "min_temp": 1.0
+  },
+  {
+    "city": "Mexico City",
+    "date": "2023-11-14",
+    "latitude": "19.4326296",
+    "longitude": "-99.1331785",
+    "max_temp": 22.1,
+    "min_temp": 14.2
+  },
+  {
+    "city": "Cairo",
+    "date": "2023-11-14",
+    "latitude": "37.0057958",
+    "longitude": "-89.1772449",
+    "max_temp": 18.1,
+    "min_temp": 3.9
+  },
+  {
+    "city": "New York",
+    "date": "2023-11-14",
+    "latitude": "40.7127281",
+    "longitude": "-74.0060152",
+    "max_temp": 11.5,
+    "min_temp": 3.9
+  },
+  {
+    "city": "Dhaka",
+    "date": "2023-11-14",
+    "latitude": "26.692203",
+    "longitude": "85.19957484645971",
+    "max_temp": 29.5,
+    "min_temp": 15.3
+  },
+  {
+    "city": "Beijing",
+    "date": "2023-11-14",
+    "latitude": "39.9057136",
+    "longitude": "116.3912972",
+    "max_temp": 10.8,
+    "min_temp": -2.3
+  },
+  {
+    "city": "Kolk\u0101ta",
+    "date": "2023-11-14",
+    "latitude": "22.5726459",
+    "longitude": "88.3638953",
+    "max_temp": 30.0,
+    "min_temp": 21.0
+  },
+  {
+    "city": "Bangkok",
+    "date": "2023-11-14",
+    "latitude": "-7.0964164",
+    "longitude": "112.5124298",
+    "max_temp": 34.5,
+    "min_temp": 26.6
+  },
+  {
+    "city": "Shenzhen",
+    "date": "2023-11-14",
+    "latitude": "22.5445741",
+    "longitude": "114.0545429",
+    "max_temp": 23.3,
+    "min_temp": 17.2
+  },
+  {
+    "city": "Moscow",
+    "date": "2023-11-14",
+    "latitude": "46.7323875",
+    "longitude": "-117.000165",
+    "max_temp": 7.9,
+    "min_temp": 0.2
+  },
+  {
+    "city": "Buenos Aires",
+    "date": "2023-11-14",
+    "latitude": "-34.6075682",
+    "longitude": "-58.4370894",
+    "max_temp": 24.5,
+    "min_temp": 10.2
+  },
+  {
+    "city": "Lagos",
+    "date": "2023-11-14",
+    "latitude": "6.4550575",
+    "longitude": "3.3941795",
+    "max_temp": 31.9,
+    "min_temp": 27.4
+  },
+  {
+    "city": "Istanbul",
+    "date": "2023-11-14",
+    "latitude": "41.0766019",
+    "longitude": "29.052495",
+    "max_temp": 16.4,
+    "min_temp": 9.4
+  },
+  {
+    "city": "Karachi",
+    "date": "2023-11-14",
+    "latitude": "24.6254905",
+    "longitude": "46.5617337",
+    "max_temp": 29.0,
+    "min_temp": 20.4
+  },
+  {
+    "city": "Bangalore",
+    "date": "2023-11-14",
+    "latitude": "12.9767936",
+    "longitude": "77.590082",
+    "max_temp": 23.8,
+    "min_temp": 18.1
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "date": "2023-11-14",
+    "latitude": "10.7763897",
+    "longitude": "106.7011391",
+    "max_temp": 32.9,
+    "min_temp": 25.4
+  },
+  {
+    "city": "\u014csaka",
+    "date": "2023-11-14",
+    "latitude": "34.7021912",
+    "longitude": "135.4955866",
+    "max_temp": 14.6,
+    "min_temp": 8.1
+  },
+  {
+    "city": "Chengdu",
+    "date": "2023-11-14",
+    "latitude": "30.6598628",
+    "longitude": "104.0633717",
+    "max_temp": 12.5,
+    "min_temp": 8.8
+  },
+  {
+    "city": "Tehran",
+    "date": "2023-11-14",
+    "latitude": "35.6892523",
+    "longitude": "51.3896004",
+    "max_temp": 21.0,
+    "min_temp": 8.3
+  },
+  {
+    "city": "Kinshasa",
+    "date": "2023-11-14",
+    "latitude": "-4.3196982",
+    "longitude": "15.3424196",
+    "max_temp": 30.5,
+    "min_temp": 25.1
+  },
+  {
+    "city": "Rio de Janeiro",
+    "date": "2023-11-14",
+    "latitude": "-22.9110137",
+    "longitude": "-43.2093727",
+    "max_temp": 36.9,
+    "min_temp": 25.8
+  },
+  {
+    "city": "Chennai",
+    "date": "2023-11-14",
+    "latitude": "13.0836939",
+    "longitude": "80.270186",
+    "max_temp": 26.5,
+    "min_temp": 24.4
+  },
+  {
+    "city": "Xi\u2019an",
+    "date": "2023-11-14",
+    "latitude": "34.2607713",
+    "longitude": "108.9423443",
+    "max_temp": 12.4,
+    "min_temp": 0.7
+  },
+  {
+    "city": "Lahore",
+    "date": "2023-11-14",
+    "latitude": "31.5656822",
+    "longitude": "74.3141829",
+    "max_temp": 25.0,
+    "min_temp": 13.8
+  },
+  {
+    "city": "Chongqing",
+    "date": "2023-11-14",
+    "latitude": "30.05518",
+    "longitude": "107.8748712",
+    "max_temp": 12.5,
+    "min_temp": 10.3
+  },
+  {
+    "city": "Los Angeles",
+    "date": "2023-11-14",
+    "latitude": "34.0536909",
+    "longitude": "-118.242766",
+    "max_temp": 25.6,
+    "min_temp": 9.4
+  },
+  {
+    "city": "Baoding",
+    "date": "2023-11-14",
+    "latitude": "38.8579735",
+    "longitude": "115.490696",
+    "max_temp": 10.3,
+    "min_temp": -3.1
+  },
+  {
+    "city": "London",
+    "date": "2023-11-14",
+    "latitude": "51.5074456",
+    "longitude": "-0.1277653",
+    "max_temp": 13.1,
+    "min_temp": 9.4
+  },
+  {
+    "city": "Paris",
+    "date": "2023-11-14",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766",
+    "max_temp": 13.3,
+    "min_temp": 11.2
+  },
+  {
+    "city": "Linyi",
+    "date": "2023-11-14",
+    "latitude": "35.1032403",
+    "longitude": "118.3506988",
+    "max_temp": 10.3,
+    "min_temp": 1.8
+  },
+  {
+    "city": "Dongguan",
+    "date": "2023-11-14",
+    "latitude": "23.0205969",
+    "longitude": "113.7457788",
+    "max_temp": 21.0,
+    "min_temp": 14.6
+  },
+  {
+    "city": "Hyder\u0101b\u0101d",
+    "date": "2023-11-14",
+    "latitude": "17.360589",
+    "longitude": "78.4740613",
+    "max_temp": 30.2,
+    "min_temp": 21.3
+  },
+  {
+    "city": "Tianjin",
+    "date": "2023-11-14",
+    "latitude": "39.1175488",
+    "longitude": "117.1913008",
+    "max_temp": 10.3,
+    "min_temp": 0.0
+  },
+  {
+    "city": "Lima",
+    "date": "2023-11-14",
+    "latitude": "-12.0621065",
+    "longitude": "-77.0365256",
+    "max_temp": 24.0,
+    "min_temp": 18.6
+  },
+  {
+    "city": "Wuhan",
+    "date": "2023-11-14",
+    "latitude": "30.5951051",
+    "longitude": "114.2999353",
+    "max_temp": 14.3,
+    "min_temp": 5.3
+  },
+  {
+    "city": "Nanyang",
+    "date": "2023-11-14",
+    "latitude": "33.0010496",
+    "longitude": "112.5292693",
+    "max_temp": 13.3,
+    "min_temp": 2.8
+  },
+  {
+    "city": "Hangzhou",
+    "date": "2023-11-14",
+    "latitude": "30.2489634",
+    "longitude": "120.2052342",
+    "max_temp": 13.6,
+    "min_temp": 6.5
+  },
+  {
+    "city": "Foshan",
+    "date": "2023-11-14",
+    "latitude": "23.0239788",
+    "longitude": "113.1159558",
+    "max_temp": 19.4,
+    "min_temp": 13.5
+  },
+  {
+    "city": "Nagoya",
+    "date": "2023-11-14",
+    "latitude": "35.1851045",
+    "longitude": "136.8998438",
+    "max_temp": 14.3,
+    "min_temp": 7.7
+  },
+  {
+    "city": "Taipei",
+    "date": "2023-11-14",
+    "latitude": "25.0375198",
+    "longitude": "121.5636796",
+    "max_temp": 20.0,
+    "min_temp": 18.8
+  },
+  {
+    "city": "Tongshan",
+    "date": "2023-11-14",
+    "latitude": "34.1824217",
+    "longitude": "117.1638669",
+    "max_temp": 11.4,
+    "min_temp": 0.8
+  },
+  {
+    "city": "Luanda",
+    "date": "2023-11-14",
+    "latitude": "-8.8272699",
+    "longitude": "13.2439512",
+    "max_temp": 30.2,
+    "min_temp": 25.1
+  },
+  {
+    "city": "Zhoukou",
+    "date": "2023-11-14",
+    "latitude": "33.808333",
+    "longitude": "114.911944",
+    "max_temp": 13.6,
+    "min_temp": 2.1
+  },
+  {
+    "city": "Ganzhou",
+    "date": "2023-11-14",
+    "latitude": "25.703866",
+    "longitude": "115.348216",
+    "max_temp": 11.5,
+    "min_temp": 6.5
+  },
+  {
+    "city": "Kuala Lumpur",
+    "date": "2023-11-14",
+    "latitude": "3.1516964",
+    "longitude": "101.6942371",
+    "max_temp": 30.7,
+    "min_temp": 24.2
+  },
+  {
+    "city": "Heze",
+    "date": "2023-11-14",
+    "latitude": "35.2477266",
+    "longitude": "115.4464761",
+    "max_temp": 12.2,
+    "min_temp": 0.7
+  },
+  {
+    "city": "Quanzhou",
+    "date": "2023-11-14",
+    "latitude": "24.8755492",
+    "longitude": "118.6723605",
+    "max_temp": 20.5,
+    "min_temp": 16.6
+  },
+  {
+    "city": "Chicago",
+    "date": "2023-11-14",
+    "latitude": "41.8755616",
+    "longitude": "-87.6244212",
+    "max_temp": 15.2,
+    "min_temp": 0.2
+  },
+  {
+    "city": "Nanjing",
+    "date": "2023-11-14",
+    "latitude": "25.24475795",
+    "longitude": "55.17926285998681",
+    "max_temp": 33.0,
+    "min_temp": 22.3
+  },
+  {
+    "city": "Jining",
+    "date": "2023-11-14",
+    "latitude": "35.4125047",
+    "longitude": "116.5849266",
+    "max_temp": 11.2,
+    "min_temp": 0.7
+  },
+  {
+    "city": "Hanoi",
+    "date": "2023-11-14",
+    "latitude": "21.0283334",
+    "longitude": "105.854041",
+    "max_temp": 19.7,
+    "min_temp": 16.1
+  },
+  {
+    "city": "Pune",
+    "date": "2023-11-14",
+    "latitude": "18.521428",
+    "longitude": "73.8544541",
+    "max_temp": 31.8,
+    "min_temp": 19.0
+  },
+  {
+    "city": "Fuyang",
+    "date": "2023-11-14",
+    "latitude": "32.8926763",
+    "longitude": "115.8090001",
+    "max_temp": 13.3,
+    "min_temp": 1.8
+  },
+  {
+    "city": "Ahmedabad",
+    "date": "2023-11-14",
+    "latitude": "23.0216238",
+    "longitude": "72.5797068",
+    "max_temp": 33.0,
+    "min_temp": 17.0
+  },
+  {
+    "city": "Johannesburg",
+    "date": "2023-11-14",
+    "latitude": "-26.205",
+    "longitude": "28.049722",
+    "max_temp": 20.4,
+    "min_temp": 11.4
+  },
+  {
+    "city": "Bogot\u00e1",
+    "date": "2023-11-14",
+    "latitude": "4.6529539",
+    "longitude": "-74.0835643",
+    "max_temp": 19.8,
+    "min_temp": 11.6
+  },
+  {
+    "city": "Dar es Salaam",
+    "date": "2023-11-14",
+    "latitude": "-6.8160837",
+    "longitude": "39.2803583",
+    "max_temp": 31.1,
+    "min_temp": 24.8
+  },
+  {
+    "city": "Shenyang",
+    "date": "2023-11-14",
+    "latitude": "41.8026095",
+    "longitude": "123.4279105",
+    "max_temp": 6.2,
+    "min_temp": -5.3
+  },
+  {
+    "city": "Khartoum",
+    "date": "2023-11-14",
+    "latitude": "-4.3554206",
+    "longitude": "15.306724334350495",
+    "max_temp": 30.0,
+    "min_temp": 24.5
+  },
+  {
+    "city": "Shangqiu",
+    "date": "2023-11-14",
+    "latitude": "34.4168215",
+    "longitude": "115.6507447",
+    "max_temp": 12.6,
+    "min_temp": 0.8
+  },
+  {
+    "city": "Cangzhou",
+    "date": "2023-11-14",
+    "latitude": "38.3042796",
+    "longitude": "116.8511597",
+    "max_temp": 9.6,
+    "min_temp": -0.6
+  },
+  {
+    "city": "Hong Kong",
+    "date": "2023-11-14",
+    "latitude": "22.350627",
+    "longitude": "114.1849161",
+    "max_temp": 21.1,
+    "min_temp": 13.3
+  },
+  {
+    "city": "Shaoyang",
+    "date": "2023-11-14",
+    "latitude": "26.9443424",
+    "longitude": "110.9631102",
+    "max_temp": 10.3,
+    "min_temp": 6.6
+  },
+  {
+    "city": "Zhanjiang",
+    "date": "2023-11-14",
+    "latitude": "21.2737079",
+    "longitude": "110.3548318",
+    "max_temp": 22.8,
+    "min_temp": 15.1
+  },
+  {
+    "city": "Yancheng",
+    "date": "2023-11-14",
+    "latitude": "33.349559",
+    "longitude": "120.1577019",
+    "max_temp": 10.6,
+    "min_temp": 2.8
+  },
+  {
+    "city": "Hengyang",
+    "date": "2023-11-14",
+    "latitude": "26.8971898",
+    "longitude": "112.5665703",
+    "max_temp": 13.4,
+    "min_temp": 8.4
+  },
+  {
+    "city": "Riyadh",
+    "date": "2023-11-14",
+    "latitude": "17.9909945",
+    "longitude": "-15.931358244103087",
+    "max_temp": 38.2,
+    "min_temp": 21.4
+  },
+  {
+    "city": "Zhumadian",
+    "date": "2023-11-14",
+    "latitude": "33.0115818",
+    "longitude": "114.0164565",
+    "max_temp": 14.2,
+    "min_temp": 2.8
+  },
+  {
+    "city": "Santiago",
+    "date": "2023-11-14",
+    "latitude": "9.8694792",
+    "longitude": "-83.7980749",
+    "max_temp": 26.7,
+    "min_temp": 17.9
+  },
+  {
+    "city": "Xingtai",
+    "date": "2023-11-14",
+    "latitude": "37.0616519",
+    "longitude": "114.499746",
+    "max_temp": 11.5,
+    "min_temp": -1.1
+  },
+  {
+    "city": "Chattogram",
+    "date": "2023-11-14",
+    "latitude": "22.333778",
+    "longitude": "91.8344348",
+    "max_temp": 33.0,
+    "min_temp": 21.1
+  },
+  {
+    "city": "Bijie",
+    "date": "2023-11-14",
+    "latitude": "27.2858633",
+    "longitude": "105.2865997",
+    "max_temp": 10.4,
+    "min_temp": 5.7
+  },
+  {
+    "city": "Shangrao",
+    "date": "2023-11-14",
+    "latitude": "28.7435852",
+    "longitude": "117.40539",
+    "max_temp": 15.0,
+    "min_temp": 7.9
+  },
+  {
+    "city": "Zunyi",
+    "date": "2023-11-14",
+    "latitude": "27.7254142",
+    "longitude": "107.0269573",
+    "max_temp": 9.8,
+    "min_temp": 6.6
+  },
+  {
+    "city": "S\u016brat",
+    "date": "2023-11-14",
+    "latitude": "45.9383",
+    "longitude": "3.2553",
+    "max_temp": 17.0,
+    "min_temp": 10.4
+  },
+  {
+    "city": "Surabaya",
+    "date": "2023-11-14",
+    "latitude": "-7.2459717",
+    "longitude": "112.7378266",
+    "max_temp": 34.8,
+    "min_temp": 26.8
+  },
+  {
+    "city": "Huanggang",
+    "date": "2023-11-14",
+    "latitude": "30.4560187",
+    "longitude": "114.8673226",
+    "max_temp": 14.1,
+    "min_temp": 5.1
+  },
+  {
+    "city": "Maoming",
+    "date": "2023-11-14",
+    "latitude": "21.6656961",
+    "longitude": "110.9209511",
+    "max_temp": 24.6,
+    "min_temp": 16.7
+  },
+  {
+    "city": "Nanchong",
+    "date": "2023-11-14",
+    "latitude": "30.8401171",
+    "longitude": "106.1066076",
+    "max_temp": 11.8,
+    "min_temp": 9.8
+  },
+  {
+    "city": "Xinyang",
+    "date": "2023-11-14",
+    "latitude": "32.075",
+    "longitude": "114.853333",
+    "max_temp": 14.2,
+    "min_temp": 2.0
+  },
+  {
+    "city": "Madrid",
+    "date": "2023-11-14",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825",
+    "max_temp": 16.3,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Baghdad",
+    "date": "2023-11-14",
+    "latitude": "2.1565307",
+    "longitude": "42.1630707",
+    "max_temp": 30.1,
+    "min_temp": 24.6
+  },
+  {
+    "city": "Qujing",
+    "date": "2023-11-14",
+    "latitude": "25.4936418",
+    "longitude": "103.7943084",
+    "max_temp": 22.7,
+    "min_temp": 12.5
+  },
+  {
+    "city": "Jieyang",
+    "date": "2023-11-14",
+    "latitude": "23.553156",
+    "longitude": "116.3680354",
+    "max_temp": 22.9,
+    "min_temp": 15.3
+  },
+  {
+    "city": "Singapore",
+    "date": "2023-11-14",
+    "latitude": "1.357107",
+    "longitude": "103.8194992",
+    "max_temp": 30.0,
+    "min_temp": 25.2
+  },
+  {
+    "city": "Prayagraj",
+    "date": "2023-11-14",
+    "latitude": "25.4381302",
+    "longitude": "81.8338005",
+    "max_temp": 28.2,
+    "min_temp": 16.9
+  },
+  {
+    "city": "Liaocheng",
+    "date": "2023-11-14",
+    "latitude": "36.4441808",
+    "longitude": "115.9642007",
+    "max_temp": 10.1,
+    "min_temp": 1.1
+  },
+  {
+    "city": "Dalian",
+    "date": "2023-11-14",
+    "latitude": "56.5278708",
+    "longitude": "16.392166612719393",
+    "max_temp": 6.5,
+    "min_temp": 3.4
+  },
+  {
+    "city": "Yulin",
+    "date": "2023-11-14",
+    "latitude": "38.2851657",
+    "longitude": "109.7290619",
+    "max_temp": 9.0,
+    "min_temp": -3.8
+  },
+  {
+    "city": "Changde",
+    "date": "2023-11-14",
+    "latitude": "29.034552",
+    "longitude": "111.6928724",
+    "max_temp": 14.8,
+    "min_temp": 5.1
+  },
+  {
+    "city": "Qingdao",
+    "date": "2023-11-14",
+    "latitude": "36.0638034",
+    "longitude": "120.3781372",
+    "max_temp": 9.8,
+    "min_temp": 5.8
+  },
+  {
+    "city": "Douala",
+    "date": "2023-11-14",
+    "latitude": "4.0429408",
+    "longitude": "9.706203",
+    "max_temp": 32.5,
+    "min_temp": 24.9
+  },
+  {
+    "city": "Miami",
+    "date": "2023-11-14",
+    "latitude": "25.7741728",
+    "longitude": "-80.19362",
+    "max_temp": 26.5,
+    "min_temp": 23.2
+  },
+  {
+    "city": "Pudong",
+    "date": "2023-11-14",
+    "latitude": "16.6087327",
+    "longitude": "120.6074059",
+    "max_temp": 25.7,
+    "min_temp": 19.1
+  },
+  {
+    "city": "Xiangyang",
+    "date": "2023-11-14",
+    "latitude": "32.010998",
+    "longitude": "112.1163785",
+    "max_temp": 15.1,
+    "min_temp": 5.3
+  },
+  {
+    "city": "Dallas",
+    "date": "2023-11-14",
+    "latitude": "32.7762719",
+    "longitude": "-96.7968559",
+    "max_temp": 19.2,
+    "min_temp": 10.8
+  },
+  {
+    "city": "Houston",
+    "date": "2023-11-14",
+    "latitude": "29.7589382",
+    "longitude": "-95.3676974",
+    "max_temp": 19.0,
+    "min_temp": 14.8
+  },
+  {
+    "city": "Zhengzhou",
+    "date": "2023-11-14",
+    "latitude": "34.7487244",
+    "longitude": "113.6191483",
+    "max_temp": 14.8,
+    "min_temp": 2.2
+  },
+  {
+    "city": "Lu\u2019an",
+    "date": "2023-11-14",
+    "latitude": "31.7383487",
+    "longitude": "116.5142252",
+    "max_temp": 13.2,
+    "min_temp": 1.2
+  },
+  {
+    "city": "Dezhou",
+    "date": "2023-11-14",
+    "latitude": "37.4363704",
+    "longitude": "116.3534091",
+    "max_temp": 9.6,
+    "min_temp": 0.9
+  },
+  {
+    "city": "Jinan",
+    "date": "2023-11-14",
+    "latitude": "12.0678",
+    "longitude": "8.91971",
+    "max_temp": 36.3,
+    "min_temp": 20.9
+  },
+  {
+    "city": "Giza",
+    "date": "2023-11-14",
+    "latitude": "12.2321782",
+    "longitude": "13.3830375",
+    "max_temp": 35.8,
+    "min_temp": 23.6
+  },
+  {
+    "city": "Zhaotong",
+    "date": "2023-11-14",
+    "latitude": "27.3417508",
+    "longitude": "103.7146923",
+    "max_temp": 21.7,
+    "min_temp": 4.0
+  },
+  {
+    "city": "Yichun",
+    "date": "2023-11-14",
+    "latitude": "27.81697",
+    "longitude": "114.4112498",
+    "max_temp": 14.8,
+    "min_temp": 8.3
+  },
+  {
+    "city": "Nairobi",
+    "date": "2023-11-14",
+    "latitude": "-1.2832533",
+    "longitude": "36.8172449",
+    "max_temp": 23.4,
+    "min_temp": 16.4
+  },
+  {
+    "city": "Guadalajara",
+    "date": "2023-11-14",
+    "latitude": "20.6720375",
+    "longitude": "-103.338396",
+    "max_temp": 27.0,
+    "min_temp": 17.2
+  },
+  {
+    "city": "Philadelphia",
+    "date": "2023-11-14",
+    "latitude": "39.9527237",
+    "longitude": "-75.1635262",
+    "max_temp": 12.9,
+    "min_temp": 3.7
+  },
+  {
+    "city": "Ankara",
+    "date": "2023-11-14",
+    "latitude": "39.9207759",
+    "longitude": "32.8540497",
+    "max_temp": 13.3,
+    "min_temp": 4.4
+  },
+  {
+    "city": "Tai\u2019an",
+    "date": "2023-11-14",
+    "latitude": "36.2002968",
+    "longitude": "117.0809316",
+    "max_temp": 9.3,
+    "min_temp": -1.0
+  },
+  {
+    "city": "Dazhou",
+    "date": "2023-11-14",
+    "latitude": "31.2101038",
+    "longitude": "107.4629791",
+    "max_temp": 13.1,
+    "min_temp": 9.9
+  },
+  {
+    "city": "Langfang",
+    "date": "2023-11-14",
+    "latitude": "39.5302055",
+    "longitude": "116.6926134",
+    "max_temp": 10.6,
+    "min_temp": -2.6
+  },
+  {
+    "city": "Yongzhou",
+    "date": "2023-11-14",
+    "latitude": "25.781344",
+    "longitude": "111.6979977",
+    "max_temp": 10.1,
+    "min_temp": 6.2
+  },
+  {
+    "city": "Toronto",
+    "date": "2023-11-14",
+    "latitude": "43.6534817",
+    "longitude": "-79.3839347",
+    "max_temp": 8.4,
+    "min_temp": 2.8
+  },
+  {
+    "city": "Suihua",
+    "date": "2023-11-14",
+    "latitude": "46.6520483",
+    "longitude": "126.9607485",
+    "max_temp": -5.1,
+    "min_temp": -11.6
+  },
+  {
+    "city": "Saint Petersburg",
+    "date": "2023-11-14",
+    "latitude": "27.7700475",
+    "longitude": "-82.6359078",
+    "max_temp": 25.5,
+    "min_temp": 20.0
+  },
+  {
+    "city": "Qiqihar",
+    "date": "2023-11-14",
+    "latitude": "47.7363891",
+    "longitude": "124.6567611",
+    "max_temp": 0.5,
+    "min_temp": -11.3
+  },
+  {
+    "city": "Suzhou",
+    "date": "2023-11-14",
+    "latitude": "31.3016935",
+    "longitude": "120.5810725",
+    "max_temp": 12.4,
+    "min_temp": 3.7
+  },
+  {
+    "city": "Monterrey",
+    "date": "2023-11-14",
+    "latitude": "25.6802019",
+    "longitude": "-100.315258",
+    "max_temp": 17.4,
+    "min_temp": 14.5
+  },
+  {
+    "city": "Belo Horizonte",
+    "date": "2023-11-14",
+    "latitude": "-19.9227318",
+    "longitude": "-43.9450948",
+    "max_temp": 36.8,
+    "min_temp": 25.2
+  },
+  {
+    "city": "Weinan",
+    "date": "2023-11-14",
+    "latitude": "34.5169112",
+    "longitude": "109.4643291",
+    "max_temp": 12.4,
+    "min_temp": 1.5
+  },
+  {
+    "city": "Rangoon",
+    "date": "2023-11-14",
+    "latitude": "16.7967129",
+    "longitude": "96.1609916",
+    "max_temp": 32.1,
+    "min_temp": 25.3
+  },
+  {
+    "city": "Zhangzhou",
+    "date": "2023-11-14",
+    "latitude": "24.2388257",
+    "longitude": "117.4524304",
+    "max_temp": 15.8,
+    "min_temp": 11.2
+  },
+  {
+    "city": "Yuncheng",
+    "date": "2023-11-14",
+    "latitude": "35.218039",
+    "longitude": "111.053715",
+    "max_temp": 11.8,
+    "min_temp": -0.8
+  },
+  {
+    "city": "Xianyang",
+    "date": "2023-11-14",
+    "latitude": "34.3312012",
+    "longitude": "108.7043813",
+    "max_temp": 12.4,
+    "min_temp": 1.3
+  },
+  {
+    "city": "Guilin",
+    "date": "2023-11-14",
+    "latitude": "13.9450528",
+    "longitude": "20.8921337",
+    "max_temp": 37.4,
+    "min_temp": 25.7
+  },
+  {
+    "city": "Atlanta",
+    "date": "2023-11-14",
+    "latitude": "33.7489924",
+    "longitude": "-84.3902644",
+    "max_temp": 18.9,
+    "min_temp": 9.6
+  },
+  {
+    "city": "Taizhou",
+    "date": "2023-11-14",
+    "latitude": "28.6581723",
+    "longitude": "121.4163876",
+    "max_temp": 16.8,
+    "min_temp": 6.9
+  },
+  {
+    "city": "K\u0101sh\u0101n",
+    "date": "2023-11-14",
+    "latitude": "33.9876533",
+    "longitude": "51.4428856",
+    "max_temp": 23.4,
+    "min_temp": 9.8
+  },
+  {
+    "city": "Bozhou",
+    "date": "2023-11-14",
+    "latitude": "33.8579594",
+    "longitude": "115.772453",
+    "max_temp": 12.8,
+    "min_temp": 1.7
+  },
+  {
+    "city": "Abidjan",
+    "date": "2023-11-14",
+    "latitude": "5.320357",
+    "longitude": "-4.016107",
+    "max_temp": 30.5,
+    "min_temp": 26.0
+  },
+  {
+    "city": "Suqian",
+    "date": "2023-11-14",
+    "latitude": "33.9644701",
+    "longitude": "118.2696994",
+    "max_temp": 10.6,
+    "min_temp": 1.7
+  },
+  {
+    "city": "Huaihua",
+    "date": "2023-11-14",
+    "latitude": "-13.2621964",
+    "longitude": "-73.600025",
+    "max_temp": 16.5,
+    "min_temp": 9.0
+  },
+  {
+    "city": "Ji\u2019an",
+    "date": "2023-11-14",
+    "latitude": "27.0937349",
+    "longitude": "114.961355",
+    "max_temp": 15.1,
+    "min_temp": 9.3
+  },
+  {
+    "city": "Pingdingshan",
+    "date": "2023-11-14",
+    "latitude": "33.7374744",
+    "longitude": "113.2981436",
+    "max_temp": 14.5,
+    "min_temp": 3.3
+  },
+  {
+    "city": "Jiujiang",
+    "date": "2023-11-14",
+    "latitude": "29.388607",
+    "longitude": "115.3820227",
+    "max_temp": 14.7,
+    "min_temp": 2.6
+  },
+  {
+    "city": "Alexandria",
+    "date": "2023-11-14",
+    "latitude": "44.83495335",
+    "longitude": "8.745030418605868",
+    "max_temp": 13.6,
+    "min_temp": 8.9
+  },
+  {
+    "city": "Mianyang",
+    "date": "2023-11-14",
+    "latitude": "31.4602714",
+    "longitude": "104.7160723",
+    "max_temp": 12.3,
+    "min_temp": 8.6
+  },
+  {
+    "city": "Sydney",
+    "date": "2023-11-14",
+    "latitude": "-33.8698439",
+    "longitude": "151.2082848",
+    "max_temp": 25.5,
+    "min_temp": 18.1
+  },
+  {
+    "city": "Huanglongsi",
+    "date": "2023-11-14",
+    "latitude": "29.041098",
+    "longitude": "114.002551",
+    "max_temp": 14.1,
+    "min_temp": 4.3
+  },
+  {
+    "city": "Washington",
+    "date": "2023-11-14",
+    "latitude": "38.8950368",
+    "longitude": "-77.0365427",
+    "max_temp": 14.6,
+    "min_temp": 3.1
+  },
+  {
+    "city": "Barcelona",
+    "date": "2023-11-14",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322",
+    "max_temp": 26.5,
+    "min_temp": 18.3
+  },
+  {
+    "city": "Changsha",
+    "date": "2023-11-14",
+    "latitude": "28.1450774",
+    "longitude": "113.2384362",
+    "max_temp": 13.9,
+    "min_temp": 7.7
+  },
+  {
+    "city": "Chenzhou",
+    "date": "2023-11-14",
+    "latitude": "25.7733598",
+    "longitude": "113.0094337",
+    "max_temp": 11.8,
+    "min_temp": 8.3
+  },
+  {
+    "city": "Anqing",
+    "date": "2023-11-14",
+    "latitude": "30.6592336",
+    "longitude": "116.6302585",
+    "max_temp": 13.7,
+    "min_temp": 2.7
+  },
+  {
+    "city": "Jiangmen",
+    "date": "2023-11-14",
+    "latitude": "22.5816619",
+    "longitude": "113.0761073",
+    "max_temp": 20.3,
+    "min_temp": 13.9
+  },
+  {
+    "city": "Xinpu",
+    "date": "2023-11-14",
+    "latitude": "24.8280421",
+    "longitude": "121.0712198",
+    "max_temp": 20.0,
+    "min_temp": 18.5
+  },
+  {
+    "city": "Yibin",
+    "date": "2023-11-14",
+    "latitude": "28.58689",
+    "longitude": "104.718661",
+    "max_temp": 12.0,
+    "min_temp": 10.1
+  },
+  {
+    "city": "Yangzhou",
+    "date": "2023-11-14",
+    "latitude": "32.3968554",
+    "longitude": "119.4077658",
+    "max_temp": 12.3,
+    "min_temp": 3.0
+  },
+  {
+    "city": "Melbourne",
+    "date": "2023-11-14",
+    "latitude": "-37.8142454",
+    "longitude": "144.9631732",
+    "max_temp": 15.9,
+    "min_temp": 12.5
+  },
+  {
+    "city": "Berlin",
+    "date": "2023-11-14",
+    "latitude": "52.5170365",
+    "longitude": "13.3888599",
+    "max_temp": 12.8,
+    "min_temp": 9.2
+  },
+  {
+    "city": "Hengshui",
+    "date": "2023-11-14",
+    "latitude": "37.7364305",
+    "longitude": "115.6677229",
+    "max_temp": 10.3,
+    "min_temp": -0.5
+  },
+  {
+    "city": "Timb\u00edo",
+    "date": "2023-11-14",
+    "latitude": "2.352893",
+    "longitude": "-76.6838869",
+    "max_temp": 24.9,
+    "min_temp": 15.7
+  },
+  {
+    "city": "Kunming",
+    "date": "2023-11-14",
+    "latitude": "25.0363006",
+    "longitude": "102.7086139",
+    "max_temp": 22.1,
+    "min_temp": 13.2
+  },
+  {
+    "city": "Yiyang",
+    "date": "2023-11-14",
+    "latitude": "28.438707",
+    "longitude": "112.056694",
+    "max_temp": 14.7,
+    "min_temp": 5.7
+  },
+  {
+    "city": "Guigang",
+    "date": "2023-11-14",
+    "latitude": "8.0034308",
+    "longitude": "123.0541499",
+    "max_temp": 29.7,
+    "min_temp": 22.2
+  },
+  {
+    "city": "Changchun",
+    "date": "2023-11-14",
+    "latitude": "43.8844201",
+    "longitude": "125.3180998",
+    "max_temp": 1.4,
+    "min_temp": -6.1
+  },
+  {
+    "city": "Jiangguanchi",
+    "date": "2023-11-14",
+    "latitude": "34.0006",
+    "longitude": "113.869",
+    "max_temp": 14.6,
+    "min_temp": 2.7
+  },
+  {
+    "city": "Casablanca",
+    "date": "2023-11-14",
+    "latitude": "33.5945144",
+    "longitude": "-7.6200284",
+    "max_temp": 24.8,
+    "min_temp": 14.3
+  },
+  {
+    "city": "Meizhou",
+    "date": "2023-11-14",
+    "latitude": "24.2918414",
+    "longitude": "116.1171428",
+    "max_temp": 18.3,
+    "min_temp": 13.4
+  },
+  {
+    "city": "Zhangjiakou",
+    "date": "2023-11-14",
+    "latitude": "40.8171433",
+    "longitude": "114.8782861",
+    "max_temp": 8.0,
+    "min_temp": -8.8
+  },
+  {
+    "city": "Chifeng",
+    "date": "2023-11-14",
+    "latitude": "42.2811677",
+    "longitude": "118.9426564",
+    "max_temp": 5.2,
+    "min_temp": -6.4
+  },
+  {
+    "city": "\u00dcr\u00fcmqi",
+    "date": "2023-11-14",
+    "latitude": "43.7861941",
+    "longitude": "87.5958668",
+    "max_temp": 2.8,
+    "min_temp": -2.3
+  },
+  {
+    "city": "Suzhou",
+    "date": "2023-11-14",
+    "latitude": "31.3016935",
+    "longitude": "120.5810725",
+    "max_temp": 12.4,
+    "min_temp": 3.7
+  },
+  {
+    "city": "\u0130zmir",
+    "date": "2023-11-14",
+    "latitude": "38.23166",
+    "longitude": "27.02997",
+    "max_temp": 19.6,
+    "min_temp": 9.3
+  },
+  {
+    "city": "Linfen",
+    "date": "2023-11-14",
+    "latitude": "36.229963",
+    "longitude": "111.381767",
+    "max_temp": 9.6,
+    "min_temp": -1.7
+  },
+  {
+    "city": "Shantou",
+    "date": "2023-11-14",
+    "latitude": "23.3563921",
+    "longitude": "116.6775856",
+    "max_temp": 23.3,
+    "min_temp": 18.3
+  },
+  {
+    "city": "Kabul",
+    "date": "2023-11-14",
+    "latitude": "7.87471",
+    "longitude": "38.0311",
+    "max_temp": 17.4,
+    "min_temp": 10.1
+  },
+  {
+    "city": "Mogadishu",
+    "date": "2023-11-14",
+    "latitude": "2.0349312",
+    "longitude": "45.3419183",
+    "max_temp": 30.4,
+    "min_temp": 25.1
+  },
+  {
+    "city": "Luzhou",
+    "date": "2023-11-14",
+    "latitude": "28.5297899",
+    "longitude": "105.5382725",
+    "max_temp": 12.1,
+    "min_temp": 10.5
+  },
+  {
+    "city": "Hefei",
+    "date": "2023-11-14",
+    "latitude": "31.8228094",
+    "longitude": "117.2218033",
+    "max_temp": 12.6,
+    "min_temp": 2.7
+  },
+  {
+    "city": "Boston",
+    "date": "2023-11-14",
+    "latitude": "42.3554334",
+    "longitude": "-71.060511",
+    "max_temp": 8.4,
+    "min_temp": -2.9
+  },
+  {
+    "city": "Liuzhou",
+    "date": "2023-11-14",
+    "latitude": "24.3284746",
+    "longitude": "109.4239676",
+    "max_temp": 13.2,
+    "min_temp": 10.0
+  },
+  {
+    "city": "Zhaoqing",
+    "date": "2023-11-14",
+    "latitude": "23.0501661",
+    "longitude": "112.4603629",
+    "max_temp": 20.0,
+    "min_temp": 13.4
+  },
+  {
+    "city": "Xiaoxita",
+    "date": "2023-11-14",
+    "latitude": "30.7704342",
+    "longitude": "111.3142024",
+    "max_temp": 15.1,
+    "min_temp": 3.5
+  },
+  {
+    "city": "Shijiazhuang",
+    "date": "2023-11-14",
+    "latitude": "38.0429742",
+    "longitude": "114.5088385",
+    "max_temp": 11.4,
+    "min_temp": -0.1
+  },
+  {
+    "city": "Ningbo",
+    "date": "2023-11-14",
+    "latitude": "29.8622194",
+    "longitude": "121.6203873",
+    "max_temp": 15.1,
+    "min_temp": 4.9
+  },
+  {
+    "city": "Fuzhou",
+    "date": "2023-11-14",
+    "latitude": "27.9511188",
+    "longitude": "116.3530413",
+    "max_temp": 15.2,
+    "min_temp": 7.5
+  },
+  {
+    "city": "Phoenix",
+    "date": "2023-11-14",
+    "latitude": "33.4484367",
+    "longitude": "-112.074141",
+    "max_temp": 30.5,
+    "min_temp": 19.8
+  },
+  {
+    "city": "Zhuzhou",
+    "date": "2023-11-14",
+    "latitude": "27.049812",
+    "longitude": "113.55087",
+    "max_temp": 10.4,
+    "min_temp": 7.0
+  },
+  {
+    "city": "Amman",
+    "date": "2023-11-14",
+    "latitude": "38.1360906",
+    "longitude": "40.0540976",
+    "max_temp": 15.8,
+    "min_temp": 12.3
+  },
+  {
+    "city": "Chuzhou",
+    "date": "2023-11-14",
+    "latitude": "32.2545901",
+    "longitude": "118.3280486",
+    "max_temp": 12.3,
+    "min_temp": 3.1
+  },
+  {
+    "city": "Jeddah",
+    "date": "2023-11-14",
+    "latitude": "21.5810088",
+    "longitude": "39.1653612",
+    "max_temp": 34.5,
+    "min_temp": 28.2
+  },
+  {
+    "city": "Qingyuan",
+    "date": "2023-11-14",
+    "latitude": "23.6832984",
+    "longitude": "113.0505994",
+    "max_temp": 17.2,
+    "min_temp": 14.4
+  },
+  {
+    "city": "Loudi",
+    "date": "2023-11-14",
+    "latitude": "27.6995215",
+    "longitude": "111.9890658",
+    "max_temp": 13.1,
+    "min_temp": 8.1
+  },
+  {
+    "city": "Binzhou",
+    "date": "2023-11-14",
+    "latitude": "37.3821206",
+    "longitude": "117.9647262",
+    "max_temp": 10.3,
+    "min_temp": 0.1
+  },
+  {
+    "city": "Deyang",
+    "date": "2023-11-14",
+    "latitude": "27.8852661",
+    "longitude": "93.2892168",
+    "max_temp": 21.6,
+    "min_temp": 9.3
+  },
+  {
+    "city": "Taiyuan",
+    "date": "2023-11-14",
+    "latitude": "37.870009",
+    "longitude": "112.5452739",
+    "max_temp": 9.2,
+    "min_temp": -3.3
+  },
+  {
+    "city": "Kano",
+    "date": "2023-11-14",
+    "latitude": "11.8948389",
+    "longitude": "8.5364136",
+    "max_temp": 35.6,
+    "min_temp": 18.1
+  },
+  {
+    "city": "Wuhu",
+    "date": "2023-11-14",
+    "latitude": "31.1800568",
+    "longitude": "118.2141777",
+    "max_temp": 12.5,
+    "min_temp": 3.3
+  },
+  {
+    "city": "Nanning",
+    "date": "2023-11-14",
+    "latitude": "22.8193063",
+    "longitude": "108.3627211",
+    "max_temp": 16.2,
+    "min_temp": 12.9
+  },
+  {
+    "city": "Harbin",
+    "date": "2023-11-14",
+    "latitude": "32.1168093",
+    "longitude": "-98.2733756",
+    "max_temp": 18.5,
+    "min_temp": 9.5
+  },
+  {
+    "city": "Abuja",
+    "date": "2023-11-14",
+    "latitude": "9.0643305",
+    "longitude": "7.4892974",
+    "max_temp": 33.4,
+    "min_temp": 22.8
+  },
+  {
+    "city": "Yokohama",
+    "date": "2023-11-14",
+    "latitude": "35.4443947",
+    "longitude": "139.6367727",
+    "max_temp": 16.4,
+    "min_temp": 10.3
+  },
+  {
+    "city": "Zaozhuang",
+    "date": "2023-11-14",
+    "latitude": "34.8108822",
+    "longitude": "117.3178922",
+    "max_temp": 10.0,
+    "min_temp": 1.0
+  },
+  {
+    "city": "Xiamen",
+    "date": "2023-11-14",
+    "latitude": "24.5438732",
+    "longitude": "118.0768065",
+    "max_temp": 21.6,
+    "min_temp": 17.0
+  },
+  {
+    "city": "Neijiang",
+    "date": "2023-11-14",
+    "latitude": "29.6602202",
+    "longitude": "104.9192806",
+    "max_temp": 13.0,
+    "min_temp": 10.1
+  },
+  {
+    "city": "Fuzhou",
+    "date": "2023-11-14",
+    "latitude": "27.9511188",
+    "longitude": "116.3530413",
+    "max_temp": 15.2,
+    "min_temp": 7.5
+  },
+  {
+    "city": "Baicheng",
+    "date": "2023-11-14",
+    "latitude": "45.6156275",
+    "longitude": "122.8360811",
+    "max_temp": 3.5,
+    "min_temp": -10.4
+  },
+  {
+    "city": "Anshan",
+    "date": "2023-11-14",
+    "latitude": "40.822222",
+    "longitude": "122.8275",
+    "max_temp": 8.6,
+    "min_temp": -1.1
+  },
+  {
+    "city": "Medan",
+    "date": "2023-11-14",
+    "latitude": "3.5896654",
+    "longitude": "98.6738261",
+    "max_temp": 29.7,
+    "min_temp": 24.5
+  },
+  {
+    "city": "Wenzhou",
+    "date": "2023-11-14",
+    "latitude": "27.9963899",
+    "longitude": "120.695345",
+    "max_temp": 17.3,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Changzhou",
+    "date": "2023-11-14",
+    "latitude": "31.8122623",
+    "longitude": "119.9691539",
+    "max_temp": 12.0,
+    "min_temp": 2.3
+  },
+  {
+    "city": "Puyang",
+    "date": "2023-11-14",
+    "latitude": "35.7631348",
+    "longitude": "115.0234071",
+    "max_temp": 12.2,
+    "min_temp": 1.3
+  },
+  {
+    "city": "Jiaozuo",
+    "date": "2023-11-14",
+    "latitude": "35.2075729",
+    "longitude": "113.2533977",
+    "max_temp": 14.5,
+    "min_temp": 3.1
+  },
+  {
+    "city": "Nanchang",
+    "date": "2023-11-14",
+    "latitude": "28.687547",
+    "longitude": "115.8540042",
+    "max_temp": 15.4,
+    "min_temp": 8.4
+  },
+  {
+    "city": "Ibadan",
+    "date": "2023-11-14",
+    "latitude": "7.3777462",
+    "longitude": "3.8972497",
+    "max_temp": 33.6,
+    "min_temp": 23.5
+  },
+  {
+    "city": "Hechi",
+    "date": "2023-11-14",
+    "latitude": "24.7169004",
+    "longitude": "107.8857367",
+    "max_temp": 13.0,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Detroit",
+    "date": "2023-11-14",
+    "latitude": "42.3315509",
+    "longitude": "-83.0466403",
+    "max_temp": 10.8,
+    "min_temp": -0.4
+  },
+  {
+    "city": "Montr\u00e9al",
+    "date": "2023-11-14",
+    "latitude": "45.5031824",
+    "longitude": "-73.5698065",
+    "max_temp": 3.4,
+    "min_temp": -0.3
+  },
+  {
+    "city": "Busan",
+    "date": "2023-11-14",
+    "latitude": "35.1799528",
+    "longitude": "129.0752365",
+    "max_temp": 11.5,
+    "min_temp": 4.9
+  },
+  {
+    "city": "Hohhot",
+    "date": "2023-11-14",
+    "latitude": "40.8337963",
+    "longitude": "111.6730788",
+    "max_temp": 4.7,
+    "min_temp": -10.9
+  },
+  {
+    "city": "Seattle",
+    "date": "2023-11-14",
+    "latitude": "47.6038321",
+    "longitude": "-122.330062",
+    "max_temp": 8.8,
+    "min_temp": 1.2
+  },
+  {
+    "city": "Algiers",
+    "date": "2023-11-14",
+    "latitude": "36.7753606",
+    "longitude": "3.0601882",
+    "max_temp": 27.2,
+    "min_temp": 13.2
+  },
+  {
+    "city": "Hanzhong",
+    "date": "2023-11-14",
+    "latitude": "33.171124",
+    "longitude": "107.045009",
+    "max_temp": 12.6,
+    "min_temp": 6.2
+  },
+  {
+    "city": "Tangshan",
+    "date": "2023-11-14",
+    "latitude": "39.6295951",
+    "longitude": "118.1738712",
+    "max_temp": 8.8,
+    "min_temp": -1.7
+  },
+  {
+    "city": "Shiyan",
+    "date": "2023-11-14",
+    "latitude": "32.45269",
+    "longitude": "110.560812",
+    "max_temp": 13.1,
+    "min_temp": 2.7
+  },
+  {
+    "city": "Lucknow",
+    "date": "2023-11-14",
+    "latitude": "26.8381",
+    "longitude": "80.9346001",
+    "max_temp": 26.2,
+    "min_temp": 16.9
+  },
+  {
+    "city": "Siping",
+    "date": "2023-11-14",
+    "latitude": "43.1669821",
+    "longitude": "124.364739",
+    "max_temp": 2.7,
+    "min_temp": -6.7
+  },
+  {
+    "city": "Mashhad",
+    "date": "2023-11-14",
+    "latitude": "36.2974945",
+    "longitude": "59.6059232",
+    "max_temp": 22.0,
+    "min_temp": 4.8
+  },
+  {
+    "city": "Boankra",
+    "date": "2023-11-14",
+    "latitude": "6.6951423",
+    "longitude": "-1.4040121",
+    "max_temp": 32.6,
+    "min_temp": 23.0
+  },
+  {
+    "city": "Changzhi",
+    "date": "2023-11-14",
+    "latitude": "36.1830167",
+    "longitude": "113.0992929",
+    "max_temp": 10.2,
+    "min_temp": -4.0
+  },
+  {
+    "city": "Dubai",
+    "date": "2023-11-14",
+    "latitude": "0.2786339",
+    "longitude": "32.5798768",
+    "max_temp": 23.9,
+    "min_temp": 21.2
+  },
+  {
+    "city": "Qinzhou",
+    "date": "2023-11-14",
+    "latitude": "34.5797531",
+    "longitude": "105.7062921",
+    "max_temp": 11.0,
+    "min_temp": -0.9
+  },
+  {
+    "city": "Guiyang",
+    "date": "2023-11-14",
+    "latitude": "26.6499922",
+    "longitude": "106.6246178",
+    "max_temp": 10.1,
+    "min_temp": 5.3
+  },
+  {
+    "city": "Bengbu",
+    "date": "2023-11-14",
+    "latitude": "32.9176422",
+    "longitude": "117.3825673",
+    "max_temp": 11.7,
+    "min_temp": -0.1
+  },
+  {
+    "city": "San Francisco",
+    "date": "2023-11-14",
+    "latitude": "37.7790262",
+    "longitude": "-122.419906",
+    "max_temp": 20.2,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Bazhou",
+    "date": "2023-11-14",
+    "latitude": "31.8537757",
+    "longitude": "106.764686",
+    "max_temp": 12.5,
+    "min_temp": 9.0
+  },
+  {
+    "city": "Qincheng",
+    "date": "2023-11-14",
+    "latitude": "39.9541469",
+    "longitude": "113.7362046",
+    "max_temp": 6.2,
+    "min_temp": -8.4
+  },
+  {
+    "city": "Suining",
+    "date": "2023-11-14",
+    "latitude": "30.5061493",
+    "longitude": "105.574542",
+    "max_temp": 12.0,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Wuxi",
+    "date": "2023-11-14",
+    "latitude": "31.5776626",
+    "longitude": "120.2952752",
+    "max_temp": 12.2,
+    "min_temp": 3.4
+  },
+  {
+    "city": "Leshan",
+    "date": "2023-11-14",
+    "latitude": "42.328283",
+    "longitude": "20.781755",
+    "max_temp": 16.1,
+    "min_temp": 6.5
+  },
+  {
+    "city": "Putian",
+    "date": "2023-11-14",
+    "latitude": "11.2968856",
+    "longitude": "122.8170889",
+    "max_temp": 28.0,
+    "min_temp": 24.6
+  },
+  {
+    "city": "Zhenjiang",
+    "date": "2023-11-14",
+    "latitude": "32.1891959",
+    "longitude": "119.4200069",
+    "max_temp": 12.2,
+    "min_temp": 4.3
+  },
+  {
+    "city": "Faisalabad",
+    "date": "2023-11-14",
+    "latitude": "31.4220558",
+    "longitude": "73.0923253",
+    "max_temp": 25.1,
+    "min_temp": 14.1
+  },
+  {
+    "city": "Guang\u2019an",
+    "date": "2023-11-14",
+    "latitude": "30.4593051",
+    "longitude": "106.6286646",
+    "max_temp": 12.8,
+    "min_temp": 10.7
+  },
+  {
+    "city": "Tongren",
+    "date": "2023-11-14",
+    "latitude": "27.952938",
+    "longitude": "108.584018",
+    "max_temp": 7.7,
+    "min_temp": 5.2
+  },
+  {
+    "city": "Santa Cruz",
+    "date": "2023-11-14",
+    "latitude": "28.467178",
+    "longitude": "-16.2507843",
+    "max_temp": 27.4,
+    "min_temp": 21.1
+  },
+  {
+    "city": "Qinhuangdao",
+    "date": "2023-11-14",
+    "latitude": "39.9395724",
+    "longitude": "119.5894129",
+    "max_temp": 9.7,
+    "min_temp": -2.6
+  },
+  {
+    "city": "Tongliao",
+    "date": "2023-11-14",
+    "latitude": "43.6165326",
+    "longitude": "122.2601837",
+    "max_temp": 2.8,
+    "min_temp": -9.9
+  },
+  {
+    "city": "Jinzhou",
+    "date": "2023-11-14",
+    "latitude": "41.494444",
+    "longitude": "121.615278",
+    "max_temp": 6.6,
+    "min_temp": -0.3
+  },
+  {
+    "city": "Heyuan",
+    "date": "2023-11-14",
+    "latitude": "24.1014769",
+    "longitude": "115.0577538",
+    "max_temp": 11.1,
+    "min_temp": 7.8
+  },
+  {
+    "city": "San Diego",
+    "date": "2023-11-14",
+    "latitude": "32.7174202",
+    "longitude": "-117.1627728",
+    "max_temp": 23.1,
+    "min_temp": 10.3
+  },
+  {
+    "city": "Jaipur",
+    "date": "2023-11-14",
+    "latitude": "26.9154576",
+    "longitude": "75.8189817",
+    "max_temp": 24.6,
+    "min_temp": 14.6
+  },
+  {
+    "city": "Xinzhou",
+    "date": "2023-11-14",
+    "latitude": "38.4139173",
+    "longitude": "112.730463",
+    "max_temp": 10.4,
+    "min_temp": -8.6
+  },
+  {
+    "city": "Lanzhou",
+    "date": "2023-11-14",
+    "latitude": "36.0620781",
+    "longitude": "103.8318566",
+    "max_temp": 9.7,
+    "min_temp": -4.3
+  },
+  {
+    "city": "Wuzhou",
+    "date": "2023-11-14",
+    "latitude": "23.5715402",
+    "longitude": "111.0139268",
+    "max_temp": 12.9,
+    "min_temp": 10.3
+  },
+  {
+    "city": "Athens",
+    "date": "2023-11-14",
+    "latitude": "33.9597677",
+    "longitude": "-83.376398",
+    "max_temp": 19.1,
+    "min_temp": 6.7
+  },
+  {
+    "city": "Addis Ababa",
+    "date": "2023-11-14",
+    "latitude": "9.0358287",
+    "longitude": "38.7524127",
+    "max_temp": 21.3,
+    "min_temp": 8.9
+  },
+  {
+    "city": "Chaoyang",
+    "date": "2023-11-14",
+    "latitude": "41.5754767",
+    "longitude": "120.4390738",
+    "max_temp": 7.2,
+    "min_temp": -5.5
+  },
+  {
+    "city": "Bras\u00edlia",
+    "date": "2023-11-14",
+    "latitude": "-10.3333333",
+    "longitude": "-53.2",
+    "max_temp": 38.5,
+    "min_temp": 23.3
+  },
+  {
+    "city": "Taichung",
+    "date": "2023-11-14",
+    "latitude": "24.163162",
+    "longitude": "120.6478282",
+    "max_temp": 22.6,
+    "min_temp": 18.0
+  },
+  {
+    "city": "Kuwait City",
+    "date": "2023-11-14",
+    "latitude": "29.3796532",
+    "longitude": "47.9734174",
+    "max_temp": 30.0,
+    "min_temp": 21.1
+  },
+  {
+    "city": "Budapest",
+    "date": "2023-11-14",
+    "latitude": "47.4978918",
+    "longitude": "19.0401609",
+    "max_temp": 13.9,
+    "min_temp": 8.1
+  },
+  {
+    "city": "Shaoguan",
+    "date": "2023-11-14",
+    "latitude": "24.8136095",
+    "longitude": "113.5922116",
+    "max_temp": 13.5,
+    "min_temp": 11.0
+  },
+  {
+    "city": "Shanwei",
+    "date": "2023-11-14",
+    "latitude": "22.7891796",
+    "longitude": "115.3704551",
+    "max_temp": 24.2,
+    "min_temp": 17.1
+  },
+  {
+    "city": "Quezon City",
+    "date": "2023-11-14",
+    "latitude": "14.6508",
+    "longitude": "121.04821",
+    "max_temp": 32.6,
+    "min_temp": 25.9
+  },
+  {
+    "city": "Rizhao",
+    "date": "2023-11-14",
+    "latitude": "35.4178833",
+    "longitude": "119.5213994",
+    "max_temp": 10.0,
+    "min_temp": 1.5
+  },
+  {
+    "city": "Kyiv",
+    "date": "2023-11-14",
+    "latitude": "50.4500336",
+    "longitude": "30.5241361",
+    "max_temp": 7.3,
+    "min_temp": 2.1
+  },
+  {
+    "city": "Sanaa",
+    "date": "2023-11-14",
+    "latitude": "15.35",
+    "longitude": "44.2",
+    "max_temp": 24.1,
+    "min_temp": 8.5
+  },
+  {
+    "city": "Meishan",
+    "date": "2023-11-14",
+    "latitude": "29.9866838",
+    "longitude": "103.7790009",
+    "max_temp": 12.2,
+    "min_temp": 9.7
+  },
+  {
+    "city": "Incheon",
+    "date": "2023-11-14",
+    "latitude": "37.456",
+    "longitude": "126.7052",
+    "max_temp": 9.0,
+    "min_temp": 1.6
+  },
+  {
+    "city": "Guatemala City",
+    "date": "2023-11-14",
+    "latitude": "14.6424667",
+    "longitude": "-90.5131361",
+    "max_temp": 22.9,
+    "min_temp": 17.8
+  },
+  {
+    "city": "Birmingham",
+    "date": "2023-11-14",
+    "latitude": "52.4796992",
+    "longitude": "-1.9026911",
+    "max_temp": 12.2,
+    "min_temp": 8.4
+  },
+  {
+    "city": "Zhongshan",
+    "date": "2023-11-14",
+    "latitude": "22.5196895",
+    "longitude": "113.3870834",
+    "max_temp": 21.1,
+    "min_temp": 13.9
+  },
+  {
+    "city": "Ningde",
+    "date": "2023-11-14",
+    "latitude": "27.0143281",
+    "longitude": "119.4385501",
+    "max_temp": 11.5,
+    "min_temp": 6.6
+  },
+  {
+    "city": "Weihai",
+    "date": "2023-11-14",
+    "latitude": "37.5120997",
+    "longitude": "122.1152599",
+    "max_temp": 9.6,
+    "min_temp": 5.6
+  },
+  {
+    "city": "Daqing",
+    "date": "2023-11-14",
+    "latitude": "46.3240228",
+    "longitude": "124.5598093",
+    "max_temp": -0.1,
+    "min_temp": -10.0
+  },
+  {
+    "city": "Bursa",
+    "date": "2023-11-14",
+    "latitude": "39.9895878",
+    "longitude": "28.8944669",
+    "max_temp": 14.7,
+    "min_temp": 6.3
+  },
+  {
+    "city": "Salvador",
+    "date": "2023-11-14",
+    "latitude": "13.8000382",
+    "longitude": "-88.9140683",
+    "max_temp": 29.1,
+    "min_temp": 21.4
+  },
+  {
+    "city": "Rome",
+    "date": "2023-11-14",
+    "latitude": "41.8933203",
+    "longitude": "12.4829321",
+    "max_temp": 20.5,
+    "min_temp": 17.8
+  },
+  {
+    "city": "Haikou",
+    "date": "2023-11-14",
+    "latitude": "20.0462328",
+    "longitude": "110.1956502",
+    "max_temp": 23.2,
+    "min_temp": 21.4
+  },
+  {
+    "city": "La Paz",
+    "date": "2023-11-14",
+    "latitude": "-16.4955455",
+    "longitude": "-68.1336229",
+    "max_temp": 23.4,
+    "min_temp": 5.0
+  },
+  {
+    "city": "Xiangtan",
+    "date": "2023-11-14",
+    "latitude": "27.681864",
+    "longitude": "112.626292",
+    "max_temp": 13.4,
+    "min_temp": 7.8
+  },
+  {
+    "city": "Pyongyang",
+    "date": "2023-11-14",
+    "latitude": "39.0167979",
+    "longitude": "125.7473609",
+    "max_temp": 7.4,
+    "min_temp": -0.9
+  },
+  {
+    "city": "Minneapolis",
+    "date": "2023-11-14",
+    "latitude": "44.9772995",
+    "longitude": "-93.2654692",
+    "max_temp": 17.8,
+    "min_temp": 5.8
+  },
+  {
+    "city": "Omdurman",
+    "date": "2023-11-14",
+    "latitude": "9.5921523",
+    "longitude": "27.3911545",
+    "max_temp": 37.1,
+    "min_temp": 25.4
+  },
+  {
+    "city": "Malang",
+    "date": "2023-11-14",
+    "latitude": "-7.9771206",
+    "longitude": "112.6340291",
+    "max_temp": 31.9,
+    "min_temp": 22.8
+  },
+  {
+    "city": "Mudanjiang",
+    "date": "2023-11-14",
+    "latitude": "44.635006",
+    "longitude": "130.013384",
+    "max_temp": -3.7,
+    "min_temp": -9.1
+  },
+  {
+    "city": "Stuttgart",
+    "date": "2023-11-14",
+    "latitude": "48.7784485",
+    "longitude": "9.1800132",
+    "max_temp": 12.5,
+    "min_temp": 10.0
+  },
+  {
+    "city": "Brooklyn",
+    "date": "2023-11-14",
+    "latitude": "40.6526006",
+    "longitude": "-73.9497211",
+    "max_temp": 11.7,
+    "min_temp": 3.5
+  },
+  {
+    "city": "Kaohsiung",
+    "date": "2023-11-14",
+    "latitude": "22.6203348",
+    "longitude": "120.3120375",
+    "max_temp": 24.8,
+    "min_temp": 19.4
+  },
+  {
+    "city": "Guayaquil",
+    "date": "2023-11-14",
+    "latitude": "-2.1900563",
+    "longitude": "-79.8868741",
+    "max_temp": 30.9,
+    "min_temp": 23.4
+  },
+  {
+    "city": "Lisbon",
+    "date": "2023-11-14",
+    "latitude": "38.7077507",
+    "longitude": "-9.1365919",
+    "max_temp": 19.9,
+    "min_temp": 14.1
+  },
+  {
+    "city": "Longyan",
+    "date": "2023-11-14",
+    "latitude": "25.0767425",
+    "longitude": "117.0123483",
+    "max_temp": 17.1,
+    "min_temp": 12.8
+  },
+  {
+    "city": "Tieling",
+    "date": "2023-11-14",
+    "latitude": "42.2895233",
+    "longitude": "123.8394899",
+    "max_temp": 5.2,
+    "min_temp": -6.7
+  },
+  {
+    "city": "Manchester",
+    "date": "2023-11-14",
+    "latitude": "53.4794892",
+    "longitude": "-2.2451148",
+    "max_temp": 11.6,
+    "min_temp": 8.5
+  },
+  {
+    "city": "Baotou",
+    "date": "2023-11-14",
+    "latitude": "40.6538754",
+    "longitude": "109.8729897",
+    "max_temp": 5.2,
+    "min_temp": -9.6
+  },
+  {
+    "city": "Handan",
+    "date": "2023-11-14",
+    "latitude": "36.583333",
+    "longitude": "114.483333",
+    "max_temp": 12.0,
+    "min_temp": -0.1
+  },
+  {
+    "city": "Cawnpore",
+    "date": "2023-11-14",
+    "latitude": "-22.728611",
+    "longitude": "141.205051",
+    "max_temp": 41.7,
+    "min_temp": 26.6
+  },
+  {
+    "city": "Dingxi",
+    "date": "2023-11-14",
+    "latitude": "35.5810207",
+    "longitude": "104.6229826",
+    "max_temp": 8.8,
+    "min_temp": -6.2
+  },
+  {
+    "city": "Nanping",
+    "date": "2023-11-14",
+    "latitude": "27.3829611",
+    "longitude": "118.0783609",
+    "max_temp": 16.7,
+    "min_temp": 7.3
+  },
+  {
+    "city": "Tampa",
+    "date": "2023-11-14",
+    "latitude": "27.9477595",
+    "longitude": "-82.458444",
+    "max_temp": 26.1,
+    "min_temp": 19.5
+  },
+  {
+    "city": "Zigong",
+    "date": "2023-11-14",
+    "latitude": "29.3419256",
+    "longitude": "104.7761224",
+    "max_temp": 13.9,
+    "min_temp": 10.7
+  },
+  {
+    "city": "Maracaibo",
+    "date": "2023-11-14",
+    "latitude": "10.6498095",
+    "longitude": "-71.6443596",
+    "max_temp": 31.6,
+    "min_temp": 26.8
+  },
+  {
+    "city": "Chaozhou",
+    "date": "2023-11-14",
+    "latitude": "23.656593",
+    "longitude": "116.6204223",
+    "max_temp": 22.8,
+    "min_temp": 16.7
+  },
+  {
+    "city": "Mbuji-Mayi",
+    "date": "2023-11-14",
+    "latitude": "-6.1258942",
+    "longitude": "23.5998111",
+    "max_temp": 29.9,
+    "min_temp": 23.0
+  },
+  {
+    "city": "Denver",
+    "date": "2023-11-14",
+    "latitude": "39.7392364",
+    "longitude": "-104.984862",
+    "max_temp": 20.3,
+    "min_temp": 2.9
+  },
+  {
+    "city": "Gulou",
+    "date": "2023-11-14",
+    "latitude": "26.0850844",
+    "longitude": "119.2990881",
+    "max_temp": 18.0,
+    "min_temp": 14.4
+  },
+  {
+    "city": "Weifang",
+    "date": "2023-11-14",
+    "latitude": "36.7071591",
+    "longitude": "119.1557441",
+    "max_temp": 10.7,
+    "min_temp": -1.7
+  },
+  {
+    "city": "Huai\u2019an",
+    "date": "2023-11-14",
+    "latitude": "33.5524785",
+    "longitude": "119.1075773",
+    "max_temp": 10.9,
+    "min_temp": 0.4
+  },
+  {
+    "city": "Zibo",
+    "date": "2023-11-14",
+    "latitude": "41.5102144",
+    "longitude": "35.4569763",
+    "max_temp": 12.5,
+    "min_temp": 7.1
+  },
+  {
+    "city": "Ankang",
+    "date": "2023-11-14",
+    "latitude": "32.7165184",
+    "longitude": "108.9912989",
+    "max_temp": 14.1,
+    "min_temp": 3.7
+  },
+  {
+    "city": "Baoshan",
+    "date": "2023-11-14",
+    "latitude": "25.1147115",
+    "longitude": "99.1591622",
+    "max_temp": 23.1,
+    "min_temp": 10.0
+  },
+  {
+    "city": "Antananarivo",
+    "date": "2023-11-14",
+    "latitude": "-18.9100122",
+    "longitude": "47.5255809",
+    "max_temp": 27.6,
+    "min_temp": 16.1
+  },
+  {
+    "city": "Huludao",
+    "date": "2023-11-14",
+    "latitude": "40.7515443",
+    "longitude": "120.8404789",
+    "max_temp": 7.1,
+    "min_temp": -3.5
+  },
+  {
+    "city": "Munich",
+    "date": "2023-11-14",
+    "latitude": "48.1371079",
+    "longitude": "11.5753822",
+    "max_temp": 13.1,
+    "min_temp": 8.5
+  },
+  {
+    "city": "Yanjiang",
+    "date": "2023-11-14",
+    "latitude": "30.1248239",
+    "longitude": "104.6467977",
+    "max_temp": 12.9,
+    "min_temp": 9.7
+  },
+  {
+    "city": "Santo Domingo",
+    "date": "2023-11-14",
+    "latitude": "18.4801972",
+    "longitude": "-69.942111",
+    "max_temp": 30.6,
+    "min_temp": 22.9
+  },
+  {
+    "city": "Sanming",
+    "date": "2023-11-14",
+    "latitude": "26.3355765",
+    "longitude": "117.442474",
+    "max_temp": 15.9,
+    "min_temp": 8.0
+  },
+  {
+    "city": "Tashkent",
+    "date": "2023-11-14",
+    "latitude": "41.3123363",
+    "longitude": "69.2787079",
+    "max_temp": 17.7,
+    "min_temp": 0.6
+  },
+  {
+    "city": "Longba",
+    "date": "2023-11-14",
+    "latitude": "34.2145325",
+    "longitude": "105.368515",
+    "max_temp": 8.6,
+    "min_temp": -1.0
+  },
+  {
+    "city": "Yangjiang",
+    "date": "2023-11-14",
+    "latitude": "21.8603337",
+    "longitude": "111.9776773",
+    "max_temp": 20.8,
+    "min_temp": 15.9
+  },
+  {
+    "city": "Jiamusi",
+    "date": "2023-11-14",
+    "latitude": "46.8037423",
+    "longitude": "130.3747185",
+    "max_temp": -2.5,
+    "min_temp": -11.2
+  },
+  {
+    "city": "Luohe",
+    "date": "2023-11-14",
+    "latitude": "33.688056",
+    "longitude": "113.913056",
+    "max_temp": 14.6,
+    "min_temp": 3.1
+  },
+  {
+    "city": "Lincang",
+    "date": "2023-11-14",
+    "latitude": "23.88848",
+    "longitude": "100.0879344",
+    "max_temp": 23.1,
+    "min_temp": 14.6
+  },
+  {
+    "city": "Medell\u00edn",
+    "date": "2023-11-14",
+    "latitude": "6.2697018",
+    "longitude": "-75.60252574475943",
+    "max_temp": 26.7,
+    "min_temp": 17.2
+  },
+  {
+    "city": "Xuanzhou",
+    "date": "2023-11-14",
+    "latitude": "30.9486697",
+    "longitude": "118.7514279",
+    "max_temp": 12.9,
+    "min_temp": 3.5
+  },
+  {
+    "city": "Yunfu",
+    "date": "2023-11-14",
+    "latitude": "22.8546663",
+    "longitude": "111.8078586",
+    "max_temp": 18.9,
+    "min_temp": 12.0
+  },
+  {
+    "city": "Shaoxing",
+    "date": "2023-11-14",
+    "latitude": "29.9992425",
+    "longitude": "120.576854",
+    "max_temp": 14.0,
+    "min_temp": 4.2
+  },
+  {
+    "city": "Yantai",
+    "date": "2023-11-14",
+    "latitude": "37.461928",
+    "longitude": "121.4425255",
+    "max_temp": 9.4,
+    "min_temp": -0.4
+  },
+  {
+    "city": "Huizhou",
+    "date": "2023-11-14",
+    "latitude": "23.1146515",
+    "longitude": "114.4107202",
+    "max_temp": 19.9,
+    "min_temp": 13.8
+  },
+  {
+    "city": "Lishui",
+    "date": "2023-11-14",
+    "latitude": "31.6506882",
+    "longitude": "119.0262399",
+    "max_temp": 12.6,
+    "min_temp": 4.2
+  },
+  {
+    "city": "Mirz\u0101pur",
+    "date": "2023-11-14",
+    "latitude": "25.101047700000002",
+    "longitude": "82.62574935763521",
+    "max_temp": 29.6,
+    "min_temp": 17.4
+  },
+  {
+    "city": "Hamburg",
+    "date": "2023-11-14",
+    "latitude": "53.5672881",
+    "longitude": "9.941726150411604",
+    "max_temp": 11.3,
+    "min_temp": 7.2
+  },
+  {
+    "city": "Guangyuan",
+    "date": "2023-11-14",
+    "latitude": "32.4329637",
+    "longitude": "105.8563402",
+    "max_temp": 12.5,
+    "min_temp": 8.0
+  },
+  {
+    "city": "Cali",
+    "date": "2023-11-14",
+    "latitude": "3.4520339",
+    "longitude": "-76.5329352",
+    "max_temp": 30.4,
+    "min_temp": 19.6
+  },
+  {
+    "city": "Lusaka",
+    "date": "2023-11-14",
+    "latitude": "-15.357609",
+    "longitude": "29.1653092",
+    "max_temp": 30.6,
+    "min_temp": 21.0
+  },
+  {
+    "city": "Huangshi",
+    "date": "2023-11-14",
+    "latitude": "30.2024971",
+    "longitude": "115.0334144",
+    "max_temp": 14.8,
+    "min_temp": 3.5
+  },
+  {
+    "city": "Xining",
+    "date": "2023-11-14",
+    "latitude": "36.824463",
+    "longitude": "101.440811",
+    "max_temp": 5.3,
+    "min_temp": -5.9
+  },
+  {
+    "city": "Ouagadougou",
+    "date": "2023-11-14",
+    "latitude": "12.3681873",
+    "longitude": "-1.5270944",
+    "max_temp": 37.7,
+    "min_temp": 21.2
+  },
+  {
+    "city": "Daegu",
+    "date": "2023-11-14",
+    "latitude": "35.8713",
+    "longitude": "128.6018",
+    "max_temp": 10.3,
+    "min_temp": 3.4
+  },
+  {
+    "city": "Fortaleza",
+    "date": "2023-11-14",
+    "latitude": "-3.7304512",
+    "longitude": "-38.5217989",
+    "max_temp": 30.2,
+    "min_temp": 26.5
+  },
+  {
+    "city": "Yaound\u00e9",
+    "date": "2023-11-14",
+    "latitude": "3.8689867",
+    "longitude": "11.5213344",
+    "max_temp": 29.6,
+    "min_temp": 21.8
+  },
+  {
+    "city": "Jilin",
+    "date": "2023-11-14",
+    "latitude": "10.82841",
+    "longitude": "47.38506",
+    "max_temp": 20.3,
+    "min_temp": 12.0
+  },
+  {
+    "city": "Dandong",
+    "date": "2023-11-14",
+    "latitude": "-8.066312",
+    "longitude": "112.073518",
+    "max_temp": 32.8,
+    "min_temp": 25.0
+  },
+  {
+    "city": "Zhuhai",
+    "date": "2023-11-14",
+    "latitude": "22.273734",
+    "longitude": "113.5721327",
+    "max_temp": 21.2,
+    "min_temp": 16.6
+  },
+  {
+    "city": "Lianshan",
+    "date": "2023-11-14",
+    "latitude": "40.8738239",
+    "longitude": "120.6240121",
+    "max_temp": 7.2,
+    "min_temp": -3.3
+  },
+  {
+    "city": "Yingkou",
+    "date": "2023-11-14",
+    "latitude": "40.6747155",
+    "longitude": "122.2357736",
+    "max_temp": 8.8,
+    "min_temp": -1.1
+  },
+  {
+    "city": "Antalya",
+    "date": "2023-11-14",
+    "latitude": "36.8864752",
+    "longitude": "30.7029585",
+    "max_temp": 24.7,
+    "min_temp": 17.0
+  },
+  {
+    "city": "N\u0101gpur",
+    "date": "2023-11-14",
+    "latitude": "21.1498134",
+    "longitude": "79.0820556",
+    "max_temp": 30.7,
+    "min_temp": 16.3
+  },
+  {
+    "city": "Queens",
+    "date": "2023-11-14",
+    "latitude": "40.7135078",
+    "longitude": "-73.8283132",
+    "max_temp": 11.5,
+    "min_temp": 4.5
+  },
+  {
+    "city": "Accra",
+    "date": "2023-11-14",
+    "latitude": "5.5571096",
+    "longitude": "-0.2012376",
+    "max_temp": 32.2,
+    "min_temp": 26.4
+  },
+  {
+    "city": "Bekasi",
+    "date": "2023-11-14",
+    "latitude": "-6.2349858",
+    "longitude": "106.9945444",
+    "max_temp": 34.1,
+    "min_temp": 25.5
+  },
+  {
+    "city": "Gh\u0101zi\u0101b\u0101d",
+    "date": "2023-11-14",
+    "latitude": "28.6711527",
+    "longitude": "77.4120356",
+    "max_temp": 24.4,
+    "min_temp": 14.0
+  },
+  {
+    "city": "Yuxi",
+    "date": "2023-11-14",
+    "latitude": "24.3511487",
+    "longitude": "102.527044",
+    "max_temp": 22.8,
+    "min_temp": 13.1
+  },
+  {
+    "city": "Luoyang",
+    "date": "2023-11-14",
+    "latitude": "34.6196539",
+    "longitude": "112.4477046",
+    "max_temp": 15.2,
+    "min_temp": 1.4
+  },
+  {
+    "city": "Brisbane",
+    "date": "2023-11-14",
+    "latitude": "-27.4689682",
+    "longitude": "153.0234991",
+    "max_temp": 28.3,
+    "min_temp": 20.4
+  },
+  {
+    "city": "Anshun",
+    "date": "2023-11-14",
+    "latitude": "26.254911",
+    "longitude": "105.9437773",
+    "max_temp": 11.4,
+    "min_temp": 6.1
+  },
+  {
+    "city": "Depok",
+    "date": "2023-11-14",
+    "latitude": "-6.40719",
+    "longitude": "106.8158371",
+    "max_temp": 32.5,
+    "min_temp": 24.9
+  },
+  {
+    "city": "Shangzhou",
+    "date": "2023-11-14",
+    "latitude": "33.8842669",
+    "longitude": "109.8524036",
+    "max_temp": 12.3,
+    "min_temp": 0.3
+  },
+  {
+    "city": "Huainan",
+    "date": "2023-11-14",
+    "latitude": "25.23977295",
+    "longitude": "55.178885300000005",
+    "max_temp": 33.0,
+    "min_temp": 22.3
+  },
+  {
+    "city": "Colombo",
+    "date": "2023-11-14",
+    "latitude": "6.9388614",
+    "longitude": "79.8542005",
+    "max_temp": 28.8,
+    "min_temp": 24.4
+  },
+  {
+    "city": "Kuaidamao",
+    "date": "2023-11-14",
+    "latitude": "41.674913",
+    "longitude": "125.7575487",
+    "max_temp": 3.2,
+    "min_temp": -9.2
+  },
+  {
+    "city": "Baku",
+    "date": "2023-11-14",
+    "latitude": "40.3755885",
+    "longitude": "49.8328009",
+    "max_temp": 21.3,
+    "min_temp": 12.3
+  },
+  {
+    "city": "Fukuoka",
+    "date": "2023-11-14",
+    "latitude": "33.6251241",
+    "longitude": "130.6180016",
+    "max_temp": 13.6,
+    "min_temp": 8.4
+  },
+  {
+    "city": "Yan\u2019an",
+    "date": "2023-11-14",
+    "latitude": "36.5853932",
+    "longitude": "109.4828549",
+    "max_temp": 10.7,
+    "min_temp": -5.4
+  },
+  {
+    "city": "Jincheng",
+    "date": "2023-11-14",
+    "latitude": "35.4913132",
+    "longitude": "112.8454497",
+    "max_temp": 12.0,
+    "min_temp": 0.8
+  },
+  {
+    "city": "Vancouver",
+    "date": "2023-11-14",
+    "latitude": "49.2608724",
+    "longitude": "-123.113952",
+    "max_temp": 7.4,
+    "min_temp": 1.3
+  },
+  {
+    "city": "Nantong",
+    "date": "2023-11-14",
+    "latitude": "31.9827896",
+    "longitude": "120.8904588",
+    "max_temp": 11.8,
+    "min_temp": 3.0
+  },
+  {
+    "city": "Tangerang",
+    "date": "2023-11-14",
+    "latitude": "-6.1761924",
+    "longitude": "106.6382161",
+    "max_temp": 32.0,
+    "min_temp": 24.7
+  },
+  {
+    "city": "Caracas",
+    "date": "2023-11-14",
+    "latitude": "10.5060934",
+    "longitude": "-66.9146008",
+    "max_temp": 25.7,
+    "min_temp": 19.3
+  },
+  {
+    "city": "Sanmenxia",
+    "date": "2023-11-14",
+    "latitude": "34.4228647",
+    "longitude": "111.0489969",
+    "max_temp": 9.5,
+    "min_temp": 0.9
+  },
+  {
+    "city": "Laibin",
+    "date": "2023-11-14",
+    "latitude": "46.1261146",
+    "longitude": "6.7310509",
+    "max_temp": 8.5,
+    "min_temp": 3.5
+  },
+  {
+    "city": "Konya",
+    "date": "2023-11-14",
+    "latitude": "38.0211951",
+    "longitude": "32.5224943",
+    "max_temp": 12.1,
+    "min_temp": 6.0
+  },
+  {
+    "city": "Manaus",
+    "date": "2023-11-14",
+    "latitude": "-3.1316333",
+    "longitude": "-59.9825041",
+    "max_temp": 36.6,
+    "min_temp": 28.4
+  },
+  {
+    "city": "E\u015ffah\u0101n",
+    "date": "2023-11-14",
+    "latitude": "32.6707877",
+    "longitude": "51.6650002",
+    "max_temp": 20.5,
+    "min_temp": 5.5
+  },
+  {
+    "city": "Baltimore",
+    "date": "2023-11-14",
+    "latitude": "39.2908816",
+    "longitude": "-76.610759",
+    "max_temp": 14.7,
+    "min_temp": 4.6
+  },
+  {
+    "city": "Ma\u2019anshan",
+    "date": "2023-11-14",
+    "latitude": "31.6866105",
+    "longitude": "118.5048377",
+    "max_temp": 12.2,
+    "min_temp": 3.3
+  },
+  {
+    "city": "Shengli",
+    "date": "2023-11-14",
+    "latitude": "30.4073238",
+    "longitude": "116.9834765",
+    "max_temp": 13.3,
+    "min_temp": 6.6
+  },
+  {
+    "city": "Gaoping",
+    "date": "2023-11-14",
+    "latitude": "30.7956272",
+    "longitude": "106.2581565",
+    "max_temp": 12.8,
+    "min_temp": 10.3
+  },
+  {
+    "city": "Taizhou",
+    "date": "2023-11-14",
+    "latitude": "28.6581723",
+    "longitude": "121.4163876",
+    "max_temp": 16.8,
+    "min_temp": 6.9
+  },
+  {
+    "city": "Harare",
+    "date": "2023-11-14",
+    "latitude": "-17.8567035",
+    "longitude": "31.0601584",
+    "max_temp": 28.0,
+    "min_temp": 16.4
+  },
+  {
+    "city": "Kowloon",
+    "date": "2023-11-14",
+    "latitude": "22.3116452",
+    "longitude": "114.1767885",
+    "max_temp": 22.7,
+    "min_temp": 18.0
+  },
+  {
+    "city": "Las Vegas",
+    "date": "2023-11-14",
+    "latitude": "36.1672559",
+    "longitude": "-115.148516",
+    "max_temp": 22.9,
+    "min_temp": 7.3
+  },
+  {
+    "city": "Havana",
+    "date": "2023-11-14",
+    "latitude": "23.135305",
+    "longitude": "-82.3589631",
+    "max_temp": 29.6,
+    "min_temp": 23.6
+  },
+  {
+    "city": "Perth",
+    "date": "2023-11-14",
+    "latitude": "-31.9558933",
+    "longitude": "115.8605855",
+    "max_temp": 29.2,
+    "min_temp": 19.0
+  },
+  {
+    "city": "Phnom Penh",
+    "date": "2023-11-14",
+    "latitude": "11.568271",
+    "longitude": "104.9224426",
+    "max_temp": 32.1,
+    "min_temp": 25.5
+  },
+  {
+    "city": "Puning",
+    "date": "2023-11-14",
+    "latitude": "30.8001238",
+    "longitude": "77.774899",
+    "max_temp": 18.2,
+    "min_temp": 7.5
+  },
+  {
+    "city": "Huaibei",
+    "date": "2023-11-14",
+    "latitude": "33.9566098",
+    "longitude": "116.7928916",
+    "max_temp": 11.7,
+    "min_temp": 0.9
+  },
+  {
+    "city": "Qingyang",
+    "date": "2023-11-14",
+    "latitude": "35.7106146",
+    "longitude": "107.6384287",
+    "max_temp": 9.4,
+    "min_temp": -1.6
+  },
+  {
+    "city": "Haiphong",
+    "date": "2023-11-14",
+    "latitude": "20.858864",
+    "longitude": "106.6749591",
+    "max_temp": 21.1,
+    "min_temp": 16.4
+  },
+  {
+    "city": "Chongzuo",
+    "date": "2023-11-14",
+    "latitude": "22.38",
+    "longitude": "107.360909",
+    "max_temp": 17.5,
+    "min_temp": 12.6
+  },
+  {
+    "city": "Rawalpindi",
+    "date": "2023-11-14",
+    "latitude": "33.5914237",
+    "longitude": "73.0535122",
+    "max_temp": 22.9,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Yushan",
+    "date": "2023-11-14",
+    "latitude": "28.6839525",
+    "longitude": "118.2402868",
+    "max_temp": 15.0,
+    "min_temp": 3.7
+  },
+  {
+    "city": "St. Louis",
+    "date": "2023-11-14",
+    "latitude": "38.6280278",
+    "longitude": "-90.1910154",
+    "max_temp": 17.4,
+    "min_temp": -0.8
+  },
+  {
+    "city": "Kumasi",
+    "date": "2023-11-14",
+    "latitude": "6.6985605",
+    "longitude": "-1.6233086",
+    "max_temp": 32.4,
+    "min_temp": 23.8
+  },
+  {
+    "city": "Vadodara",
+    "date": "2023-11-14",
+    "latitude": "22.2973142",
+    "longitude": "73.1942567",
+    "max_temp": 33.0,
+    "min_temp": 17.8
+  },
+  {
+    "city": "Hezhou",
+    "date": "2023-11-14",
+    "latitude": "24.3705146",
+    "longitude": "111.3590955",
+    "max_temp": 11.7,
+    "min_temp": 8.9
+  },
+  {
+    "city": "Pingliang",
+    "date": "2023-11-14",
+    "latitude": "35.22678",
+    "longitude": "106.495648",
+    "max_temp": 8.8,
+    "min_temp": -2.7
+  },
+  {
+    "city": "Portland",
+    "date": "2023-11-14",
+    "latitude": "45.5202471",
+    "longitude": "-122.674194",
+    "max_temp": 11.8,
+    "min_temp": 4.5
+  },
+  {
+    "city": "Gujranwala",
+    "date": "2023-11-14",
+    "latitude": "32.1525312",
+    "longitude": "74.1933745",
+    "max_temp": 25.1,
+    "min_temp": 13.3
+  },
+  {
+    "city": "Baicheng",
+    "date": "2023-11-14",
+    "latitude": "45.6156275",
+    "longitude": "122.8360811",
+    "max_temp": 3.5,
+    "min_temp": -10.4
+  },
+  {
+    "city": "Gaziantep",
+    "date": "2023-11-14",
+    "latitude": "37.0628317",
+    "longitude": "37.3792617",
+    "max_temp": 15.5,
+    "min_temp": 12.3
+  },
+  {
+    "city": "Fushun",
+    "date": "2023-11-14",
+    "latitude": "41.8011658",
+    "longitude": "124.7459491",
+    "max_temp": 4.4,
+    "min_temp": -6.2
+  },
+  {
+    "city": "Riverside",
+    "date": "2023-11-14",
+    "latitude": "33.7219991",
+    "longitude": "-116.0372472",
+    "max_temp": 24.3,
+    "min_temp": 15.8
+  },
+  {
+    "city": "Bamako",
+    "date": "2023-11-14",
+    "latitude": "12.61326555",
+    "longitude": "-7.984739136241295",
+    "max_temp": 37.3,
+    "min_temp": 20.6
+  },
+  {
+    "city": "Quito",
+    "date": "2023-11-14",
+    "latitude": "-0.2201641",
+    "longitude": "-78.5123274",
+    "max_temp": 21.8,
+    "min_temp": 9.3
+  },
+  {
+    "city": "Minsk",
+    "date": "2023-11-14",
+    "latitude": "53.9024716",
+    "longitude": "27.5618225",
+    "max_temp": 4.2,
+    "min_temp": 2.0
+  },
+  {
+    "city": "Tijuana",
+    "date": "2023-11-14",
+    "latitude": "32.5317397",
+    "longitude": "-117.019529",
+    "max_temp": 24.7,
+    "min_temp": 10.7
+  },
+  {
+    "city": "Bamenda",
+    "date": "2023-11-14",
+    "latitude": "5.9614117",
+    "longitude": "10.1516505",
+    "max_temp": 26.6,
+    "min_temp": 18.3
+  },
+  {
+    "city": "Boosaaso",
+    "date": "2023-11-14",
+    "latitude": "11.27848",
+    "longitude": "49.179952",
+    "max_temp": 30.2,
+    "min_temp": 24.3
+  },
+  {
+    "city": "Indore",
+    "date": "2023-11-14",
+    "latitude": "22.7203616",
+    "longitude": "75.8681996",
+    "max_temp": 27.8,
+    "min_temp": 16.6
+  },
+  {
+    "city": "\u015eanl\u0131urfa",
+    "date": "2023-11-14",
+    "latitude": "37.2595198",
+    "longitude": "39.0408174",
+    "max_temp": 17.7,
+    "min_temp": 14.3
+  },
+  {
+    "city": "Vienna",
+    "date": "2023-11-14",
+    "latitude": "48.2083537",
+    "longitude": "16.3725042",
+    "max_temp": 14.6,
+    "min_temp": 8.8
+  },
+  {
+    "city": "Karaj",
+    "date": "2023-11-14",
+    "latitude": "48.7005763",
+    "longitude": "17.6871599",
+    "max_temp": 13.0,
+    "min_temp": 6.2
+  },
+  {
+    "city": "Kananga",
+    "date": "2023-11-14",
+    "latitude": "-5.8951725",
+    "longitude": "22.408589",
+    "max_temp": 29.3,
+    "min_temp": 22.2
+  },
+  {
+    "city": "Peshawar",
+    "date": "2023-11-14",
+    "latitude": "34.0123846",
+    "longitude": "71.5787458",
+    "max_temp": 24.6,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Sapporo",
+    "date": "2023-11-14",
+    "latitude": "25.2502818",
+    "longitude": "55.180574642153914",
+    "max_temp": 33.0,
+    "min_temp": 22.4
+  },
+  {
+    "city": "Ecatepec",
+    "date": "2023-11-14",
+    "latitude": "19.5994083",
+    "longitude": "-99.0487281",
+    "max_temp": 22.1,
+    "min_temp": 13.0
+  },
+  {
+    "city": "Pingxiang",
+    "date": "2023-11-14",
+    "latitude": "37.0634355",
+    "longitude": "115.0254894",
+    "max_temp": 11.3,
+    "min_temp": -1.1
+  },
+  {
+    "city": "Orlando",
+    "date": "2023-11-14",
+    "latitude": "28.5421109",
+    "longitude": "-81.3790304",
+    "max_temp": 23.8,
+    "min_temp": 19.1
+  },
+  {
+    "city": "Aleppo",
+    "date": "2023-11-14",
+    "latitude": "39.8239684",
+    "longitude": "-80.4461845",
+    "max_temp": 13.2,
+    "min_temp": 1.4
+  },
+  {
+    "city": "Sacramento",
+    "date": "2023-11-14",
+    "latitude": "38.5810606",
+    "longitude": "-121.493895",
+    "max_temp": 22.3,
+    "min_temp": 7.1
+  },
+  {
+    "city": "Almaty",
+    "date": "2023-11-14",
+    "latitude": "43.2363924",
+    "longitude": "76.9457275",
+    "max_temp": 6.8,
+    "min_temp": -2.7
+  },
+  {
+    "city": "San Juan",
+    "date": "2023-11-14",
+    "latitude": "18.465299",
+    "longitude": "-66.116666",
+    "max_temp": 29.7,
+    "min_temp": 25.7
+  },
+  {
+    "city": "San Antonio",
+    "date": "2023-11-14",
+    "latitude": "29.4246002",
+    "longitude": "-98.4951405",
+    "max_temp": 21.5,
+    "min_temp": 13.4
+  },
+  {
+    "city": "Yinchuan",
+    "date": "2023-11-14",
+    "latitude": "38.4852037",
+    "longitude": "106.2261926",
+    "max_temp": 9.7,
+    "min_temp": -7.4
+  },
+  {
+    "city": "Th\u0101ne",
+    "date": "2023-11-14",
+    "latitude": "19.1943294",
+    "longitude": "72.9701779",
+    "max_temp": 36.2,
+    "min_temp": 22.2
+  },
+  {
+    "city": "Santos",
+    "date": "2023-11-14",
+    "latitude": "-23.9335988",
+    "longitude": "-46.3286399",
+    "max_temp": 32.3,
+    "min_temp": 23.9
+  },
+  {
+    "city": "Blantyre",
+    "date": "2023-11-14",
+    "latitude": "-15.7862543",
+    "longitude": "35.0035694",
+    "max_temp": 25.1,
+    "min_temp": 18.0
+  },
+  {
+    "city": "Bucharest",
+    "date": "2023-11-14",
+    "latitude": "44.4361414",
+    "longitude": "26.1027202",
+    "max_temp": 16.2,
+    "min_temp": 3.6
+  },
+  {
+    "city": "Curitiba",
+    "date": "2023-11-14",
+    "latitude": "-25.4295963",
+    "longitude": "-49.2712724",
+    "max_temp": 25.6,
+    "min_temp": 19.2
+  },
+  {
+    "city": "Multan",
+    "date": "2023-11-14",
+    "latitude": "30.197838",
+    "longitude": "71.4719683",
+    "max_temp": 25.7,
+    "min_temp": 15.2
+  },
+  {
+    "city": "Tainan",
+    "date": "2023-11-14",
+    "latitude": "22.9912348",
+    "longitude": "120.184982",
+    "max_temp": 24.0,
+    "min_temp": 18.3
+  },
+  {
+    "city": "Xiping",
+    "date": "2023-11-14",
+    "latitude": "33.390556",
+    "longitude": "113.9175",
+    "max_temp": 14.4,
+    "min_temp": 2.7
+  },
+  {
+    "city": "Port Harcourt",
+    "date": "2023-11-14",
+    "latitude": "4.7676576",
+    "longitude": "7.0188527",
+    "max_temp": 30.9,
+    "min_temp": 26.6
+  },
+  {
+    "city": "Warsaw",
+    "date": "2023-11-14",
+    "latitude": "52.2337172",
+    "longitude": "21.071432235636493",
+    "max_temp": 10.6,
+    "min_temp": 2.8
+  },
+  {
+    "city": "Jixi",
+    "date": "2023-11-14",
+    "latitude": "45.2928513",
+    "longitude": "130.9619259",
+    "max_temp": -2.2,
+    "min_temp": -11.5
+  },
+  {
+    "city": "Saidu Sharif",
+    "date": "2023-11-14",
+    "latitude": "34.759",
+    "longitude": "72.3570094",
+    "max_temp": 22.0,
+    "min_temp": 3.4
+  },
+  {
+    "city": "Liaoyang",
+    "date": "2023-11-14",
+    "latitude": "41.2742898",
+    "longitude": "123.1695757",
+    "max_temp": 8.3,
+    "min_temp": -2.5
+  },
+  {
+    "city": "Beihai",
+    "date": "2023-11-14",
+    "latitude": "21.6740808",
+    "longitude": "109.3729721",
+    "max_temp": 20.9,
+    "min_temp": 13.0
+  },
+  {
+    "city": "Meru",
+    "date": "2023-11-14",
+    "latitude": "-3.3253383000000003",
+    "longitude": "36.90436132877197",
+    "max_temp": 24.7,
+    "min_temp": 18.0
+  },
+  {
+    "city": "Brazzaville",
+    "date": "2023-11-14",
+    "latitude": "-4.1875125",
+    "longitude": "15.262788",
+    "max_temp": 30.2,
+    "min_temp": 24.9
+  },
+  {
+    "city": "Fuxin",
+    "date": "2023-11-14",
+    "latitude": "42.330278",
+    "longitude": "122.015278",
+    "max_temp": 7.1,
+    "min_temp": -6.1
+  },
+  {
+    "city": "Wuwei",
+    "date": "2023-11-14",
+    "latitude": "37.928881",
+    "longitude": "102.6359886",
+    "max_temp": 7.5,
+    "min_temp": -4.1
+  },
+  {
+    "city": "Mersin",
+    "date": "2023-11-14",
+    "latitude": "36.7978381",
+    "longitude": "34.6298391",
+    "max_temp": 21.2,
+    "min_temp": 17.6
+  },
+  {
+    "city": "Bhop\u0101l",
+    "date": "2023-11-14",
+    "latitude": "23.2584857",
+    "longitude": "77.401989",
+    "max_temp": 28.3,
+    "min_temp": 16.3
+  },
+  {
+    "city": "Lubumbashi",
+    "date": "2023-11-14",
+    "latitude": "-11.6642316",
+    "longitude": "27.4826264",
+    "max_temp": 27.3,
+    "min_temp": 19.6
+  },
+  {
+    "city": "Denpasar",
+    "date": "2023-11-14",
+    "latitude": "-8.6524973",
+    "longitude": "115.2191175",
+    "max_temp": 29.8,
+    "min_temp": 26.2
+  },
+  {
+    "city": "Davao",
+    "date": "2023-11-14",
+    "latitude": "7.0648306",
+    "longitude": "125.6080623",
+    "max_temp": 34.3,
+    "min_temp": 26.2
+  },
+  {
+    "city": "Adana",
+    "date": "2023-11-14",
+    "latitude": "37.1438001",
+    "longitude": "35.4984094",
+    "max_temp": 19.8,
+    "min_temp": 15.8
+  },
+  {
+    "city": "Damascus",
+    "date": "2023-11-14",
+    "latitude": "33.5130695",
+    "longitude": "36.3095814",
+    "max_temp": 23.6,
+    "min_temp": 13.1
+  },
+  {
+    "city": "Brussels",
+    "date": "2023-11-14",
+    "latitude": "50.8550018",
+    "longitude": "4.3512333761166175",
+    "max_temp": 12.3,
+    "min_temp": 10.3
+  },
+  {
+    "city": "Hyderabad City",
+    "date": "2023-11-14",
+    "latitude": "25.4075358",
+    "longitude": "68.36134563257718",
+    "max_temp": 29.6,
+    "min_temp": 17.7
+  },
+  {
+    "city": "Diyarbak\u0131r",
+    "date": "2023-11-14",
+    "latitude": "37.9162222",
+    "longitude": "40.2363542",
+    "max_temp": 16.9,
+    "min_temp": 12.0
+  },
+  {
+    "city": "San Jose",
+    "date": "2023-11-14",
+    "latitude": "37.3361663",
+    "longitude": "-121.890591",
+    "max_temp": 22.6,
+    "min_temp": 10.5
+  },
+  {
+    "city": "Montevideo",
+    "date": "2023-11-14",
+    "latitude": "-34.9058916",
+    "longitude": "-56.1913095",
+    "max_temp": 21.2,
+    "min_temp": 14.1
+  },
+  {
+    "city": "Pittsburgh",
+    "date": "2023-11-14",
+    "latitude": "40.4416941",
+    "longitude": "-79.9900861",
+    "max_temp": 12.6,
+    "min_temp": 1.6
+  },
+  {
+    "city": "Shuozhou",
+    "date": "2023-11-14",
+    "latitude": "39.592737",
+    "longitude": "112.541339",
+    "max_temp": 5.2,
+    "min_temp": -9.0
+  },
+  {
+    "city": "Cincinnati",
+    "date": "2023-11-14",
+    "latitude": "39.1014537",
+    "longitude": "-84.5124602",
+    "max_temp": 16.0,
+    "min_temp": 0.1
+  },
+  {
+    "city": "Benxi",
+    "date": "2023-11-14",
+    "latitude": "41.176944",
+    "longitude": "124.157425",
+    "max_temp": 5.8,
+    "min_temp": -2.8
+  },
+  {
+    "city": "Baiyin",
+    "date": "2023-11-14",
+    "latitude": "36.5451563",
+    "longitude": "104.1355419",
+    "max_temp": 8.8,
+    "min_temp": -3.4
+  },
+  {
+    "city": "Mosul",
+    "date": "2023-11-14",
+    "latitude": "43.1901693",
+    "longitude": "19.2889138",
+    "max_temp": 10.5,
+    "min_temp": 6.4
+  },
+  {
+    "city": "Manhattan",
+    "date": "2023-11-14",
+    "latitude": "40.7896239",
+    "longitude": "-73.9598939",
+    "max_temp": 11.4,
+    "min_temp": 3.9
+  },
+  {
+    "city": "Caloocan City",
+    "date": "2023-11-14",
+    "latitude": "14.651348",
+    "longitude": "120.9724002",
+    "max_temp": 32.8,
+    "min_temp": 26.1
+  },
+  {
+    "city": "Kampala",
+    "date": "2023-11-14",
+    "latitude": "0.3177137",
+    "longitude": "32.5813539",
+    "max_temp": 24.0,
+    "min_temp": 19.0
+  },
+  {
+    "city": "Patna",
+    "date": "2023-11-14",
+    "latitude": "25.6093239",
+    "longitude": "85.1235252",
+    "max_temp": 28.5,
+    "min_temp": 18.1
+  },
+  {
+    "city": "Tegucigalpa",
+    "date": "2023-11-14",
+    "latitude": "14.1057433",
+    "longitude": "-87.2040052",
+    "max_temp": 25.5,
+    "min_temp": 19.7
+  },
+  {
+    "city": "Cleveland",
+    "date": "2023-11-14",
+    "latitude": "41.4996574",
+    "longitude": "-81.6936772",
+    "max_temp": 10.9,
+    "min_temp": 6.4
+  },
+  {
+    "city": "Sanzhou",
+    "date": "2023-11-14",
+    "latitude": "32.6237489",
+    "longitude": "119.65709145530079",
+    "max_temp": 12.1,
+    "min_temp": 0.9
+  },
+  {
+    "city": "Changshu",
+    "date": "2023-11-14",
+    "latitude": "31.6572954",
+    "longitude": "120.7480757",
+    "max_temp": 12.4,
+    "min_temp": 4.6
+  },
+  {
+    "city": "Mecca",
+    "date": "2023-11-14",
+    "latitude": "33.5700371",
+    "longitude": "-116.0744098",
+    "max_temp": 27.2,
+    "min_temp": 6.9
+  },
+  {
+    "city": "Heihe",
+    "date": "2023-11-14",
+    "latitude": "49.249879",
+    "longitude": "127.11731",
+    "max_temp": -3.9,
+    "min_temp": -17.3
+  },
+  {
+    "city": "Jingdezhen",
+    "date": "2023-11-14",
+    "latitude": "29.3582395",
+    "longitude": "117.2735595",
+    "max_temp": 15.2,
+    "min_temp": 2.7
+  },
+  {
+    "city": "Conakry",
+    "date": "2023-11-14",
+    "latitude": "9.5170602",
+    "longitude": "-13.6998434",
+    "max_temp": 29.0,
+    "min_temp": 28.2
+  },
+  {
+    "city": "Recife",
+    "date": "2023-11-14",
+    "latitude": "-8.0584933",
+    "longitude": "-34.8848193",
+    "max_temp": 29.7,
+    "min_temp": 26.2
+  },
+  {
+    "city": "Indianapolis",
+    "date": "2023-11-14",
+    "latitude": "39.7683331",
+    "longitude": "-86.1583502",
+    "max_temp": 15.9,
+    "min_temp": -0.6
+  },
+  {
+    "city": "Austin",
+    "date": "2023-11-14",
+    "latitude": "30.2711286",
+    "longitude": "-97.7436995",
+    "max_temp": 19.2,
+    "min_temp": 12.8
+  },
+  {
+    "city": "Sangereng",
+    "date": "2023-11-14",
+    "latitude": "-6.2195648",
+    "longitude": "106.6264535",
+    "max_temp": 33.1,
+    "min_temp": 25.0
+  },
+  {
+    "city": "Kansas City",
+    "date": "2023-11-14",
+    "latitude": "39.100105",
+    "longitude": "-94.5781416",
+    "max_temp": 19.6,
+    "min_temp": 5.0
+  },
+  {
+    "city": "Zhongli",
+    "date": "2023-11-14",
+    "latitude": "24.9653531",
+    "longitude": "121.224926",
+    "max_temp": 19.5,
+    "min_temp": 18.1
+  },
+  {
+    "city": "Novosibirsk",
+    "date": "2023-11-14",
+    "latitude": "54.96781445",
+    "longitude": "82.95159894278376",
+    "max_temp": 2.2,
+    "min_temp": 0.2
+  },
+  {
+    "city": "Bil\u0101spur",
+    "date": "2023-11-14",
+    "latitude": "28.8680526",
+    "longitude": "79.29838501460121",
+    "max_temp": 25.4,
+    "min_temp": 13.4
+  },
+  {
+    "city": "Semarang",
+    "date": "2023-11-14",
+    "latitude": "-6.9903988",
+    "longitude": "110.4229104",
+    "max_temp": 32.7,
+    "min_temp": 26.5
+  },
+  {
+    "city": "Ludhi\u0101na",
+    "date": "2023-11-14",
+    "latitude": "30.9090157",
+    "longitude": "75.851601",
+    "max_temp": 25.4,
+    "min_temp": 13.7
+  },
+  {
+    "city": "N\u0101r\u0101yanganj",
+    "date": "2023-11-14",
+    "latitude": "22.833949750000002",
+    "longitude": "80.24354925234462",
+    "max_temp": 29.5,
+    "min_temp": 14.9
+  },
+  {
+    "city": "Stockholm",
+    "date": "2023-11-14",
+    "latitude": "59.3251172",
+    "longitude": "18.0710935",
+    "max_temp": 2.8,
+    "min_temp": 1.5
+  },
+  {
+    "city": "Chengtangcun",
+    "date": "2023-11-14",
+    "latitude": "29.866445",
+    "longitude": "118.3040951",
+    "max_temp": 15.1,
+    "min_temp": 3.2
+  },
+  {
+    "city": "\u0100gra",
+    "date": "2023-11-14",
+    "latitude": "27.1752554",
+    "longitude": "78.0098161",
+    "max_temp": 24.4,
+    "min_temp": 15.1
+  },
+  {
+    "city": "Balandougou",
+    "date": "2023-11-14",
+    "latitude": "13.356639",
+    "longitude": "-9.5519412",
+    "max_temp": 37.3,
+    "min_temp": 20.6
+  },
+  {
+    "city": "Agw\u0101r",
+    "date": "2023-11-14",
+    "latitude": "2.5721609",
+    "longitude": "32.8483849",
+    "max_temp": 28.7,
+    "min_temp": 19.2
+  },
+  {
+    "city": "Le\u00f3n de los Aldama",
+    "date": "2023-11-14",
+    "latitude": "26.0223183",
+    "longitude": "-99.2030098",
+    "max_temp": 19.4,
+    "min_temp": 15.6
+  },
+  {
+    "city": "Yopougon",
+    "date": "2023-11-14",
+    "latitude": "5.335194",
+    "longitude": "-4.075756",
+    "max_temp": 29.9,
+    "min_temp": 26.1
+  },
+  {
+    "city": "Puebla",
+    "date": "2023-11-14",
+    "latitude": "18.833333",
+    "longitude": "-98.0",
+    "max_temp": 25.8,
+    "min_temp": 16.1
+  },
+  {
+    "city": "Madurai",
+    "date": "2023-11-14",
+    "latitude": "9.9261153",
+    "longitude": "78.1140983",
+    "max_temp": 27.8,
+    "min_temp": 24.0
+  },
+  {
+    "city": "Hebi",
+    "date": "2023-11-14",
+    "latitude": "35.7494986",
+    "longitude": "114.2912899",
+    "max_temp": 12.4,
+    "min_temp": 0.2
+  },
+  {
+    "city": "C\u00f3rdoba",
+    "date": "2023-11-14",
+    "latitude": "37.8845813",
+    "longitude": "-4.7760138",
+    "max_temp": 26.4,
+    "min_temp": 12.3
+  },
+  {
+    "city": "Sh\u012br\u0101z",
+    "date": "2023-11-14",
+    "latitude": "29.6060218",
+    "longitude": "52.5378041",
+    "max_temp": 23.1,
+    "min_temp": 6.3
+  },
+  {
+    "city": "Jamshedpur",
+    "date": "2023-11-14",
+    "latitude": "22.8015194",
+    "longitude": "86.2029579",
+    "max_temp": 29.7,
+    "min_temp": 17.2
+  },
+  {
+    "city": "Tabr\u012bz",
+    "date": "2023-11-14",
+    "latitude": "38.0738612",
+    "longitude": "46.2978789",
+    "max_temp": 19.2,
+    "min_temp": 6.6
+  },
+  {
+    "city": "Huzhou",
+    "date": "2023-11-14",
+    "latitude": "30.8942995",
+    "longitude": "120.0851114",
+    "max_temp": 13.1,
+    "min_temp": 3.6
+  },
+  {
+    "city": "Columbus",
+    "date": "2023-11-14",
+    "latitude": "39.9622601",
+    "longitude": "-83.0007065",
+    "max_temp": 13.6,
+    "min_temp": -1.9
+  },
+  {
+    "city": "Sofia",
+    "date": "2023-11-14",
+    "latitude": "-15.2538402",
+    "longitude": "48.2562163",
+    "max_temp": 33.4,
+    "min_temp": 23.5
+  },
+  {
+    "city": "Kawasaki",
+    "date": "2023-11-14",
+    "latitude": "-6.1746576",
+    "longitude": "106.85498680832498",
+    "max_temp": 33.3,
+    "min_temp": 25.5
+  },
+  {
+    "city": "San Jos\u00e9",
+    "date": "2023-11-14",
+    "latitude": "9.9325427",
+    "longitude": "-84.0795782",
+    "max_temp": 25.6,
+    "min_temp": 18.0
+  },
+  {
+    "city": "Aba",
+    "date": "2023-11-14",
+    "latitude": "5.1128008",
+    "longitude": "7.3651376",
+    "max_temp": 30.1,
+    "min_temp": 25.7
+  },
+  {
+    "city": "Palembang",
+    "date": "2023-11-14",
+    "latitude": "-2.9888243",
+    "longitude": "104.7568507",
+    "max_temp": 31.7,
+    "min_temp": 24.7
+  },
+  {
+    "city": "Zhangjiajie",
+    "date": "2023-11-14",
+    "latitude": "29.373828",
+    "longitude": "110.530142",
+    "max_temp": 10.6,
+    "min_temp": 3.8
+  },
+  {
+    "city": "K\u014dbe",
+    "date": "2023-11-14",
+    "latitude": "34.6932379",
+    "longitude": "135.1943764",
+    "max_temp": 12.9,
+    "min_temp": 9.8
+  },
+  {
+    "city": "Jiaxing",
+    "date": "2023-11-14",
+    "latitude": "30.7474425",
+    "longitude": "120.7510971",
+    "max_temp": 13.5,
+    "min_temp": 3.2
+  },
+  {
+    "city": "Charlotte",
+    "date": "2023-11-14",
+    "latitude": "35.2272086",
+    "longitude": "-80.8430827",
+    "max_temp": 18.7,
+    "min_temp": 5.6
+  },
+  {
+    "city": "Guiping",
+    "date": "2023-11-14",
+    "latitude": "23.2817204",
+    "longitude": "110.0967393",
+    "max_temp": 15.5,
+    "min_temp": 12.5
+  },
+  {
+    "city": "Lianjiang",
+    "date": "2023-11-14",
+    "latitude": "21.6567913",
+    "longitude": "110.148109",
+    "max_temp": 22.3,
+    "min_temp": 14.1
+  },
+  {
+    "city": "Ximeicun",
+    "date": "2023-11-14",
+    "latitude": "35.4040752",
+    "longitude": "114.7420692",
+    "max_temp": 13.1,
+    "min_temp": 1.4
+  },
+  {
+    "city": "Jianguang",
+    "date": "2023-11-14",
+    "latitude": "28.1982116",
+    "longitude": "115.7810505",
+    "max_temp": 15.2,
+    "min_temp": 8.1
+  },
+  {
+    "city": "Yucheng",
+    "date": "2023-11-14",
+    "latitude": "34.369154",
+    "longitude": "115.902169",
+    "max_temp": 12.5,
+    "min_temp": 0.4
+  },
+  {
+    "city": "Panama City",
+    "date": "2023-11-14",
+    "latitude": "30.1586518",
+    "longitude": "-85.6602936",
+    "max_temp": 19.0,
+    "min_temp": 14.2
+  },
+  {
+    "city": "Xushan",
+    "date": "2023-11-14",
+    "latitude": "31.6119157",
+    "longitude": "115.0948036",
+    "max_temp": 10.3,
+    "min_temp": 1.0
+  },
+  {
+    "city": "Bel\u00e9m",
+    "date": "2023-11-14",
+    "latitude": "-1.45056",
+    "longitude": "-48.4682453",
+    "max_temp": 35.0,
+    "min_temp": 24.9
+  },
+  {
+    "city": "Virginia Beach",
+    "date": "2023-11-14",
+    "latitude": "36.8529841",
+    "longitude": "-75.9774183",
+    "max_temp": 13.8,
+    "min_temp": 4.9
+  },
+  {
+    "city": "Leizhou",
+    "date": "2023-11-14",
+    "latitude": "20.7610912",
+    "longitude": "110.027989",
+    "max_temp": 22.3,
+    "min_temp": 14.9
+  },
+  {
+    "city": "Gwangju",
+    "date": "2023-11-14",
+    "latitude": "35.1594647",
+    "longitude": "126.8515034",
+    "max_temp": 11.6,
+    "min_temp": 5.3
+  },
+  {
+    "city": "N\u0101sik",
+    "date": "2023-11-14",
+    "latitude": "-2.8338744",
+    "longitude": "107.4174285",
+    "max_temp": 31.8,
+    "min_temp": 27.0
+  },
+  {
+    "city": "Porto Alegre",
+    "date": "2023-11-14",
+    "latitude": "-30.0324999",
+    "longitude": "-51.2303767",
+    "max_temp": 23.6,
+    "min_temp": 20.5
+  },
+  {
+    "city": "Valencia",
+    "date": "2023-11-14",
+    "latitude": "39.4697065",
+    "longitude": "-0.3763353",
+    "max_temp": 28.9,
+    "min_temp": 18.3
+  },
+  {
+    "city": "Onitsha",
+    "date": "2023-11-14",
+    "latitude": "6.1461619",
+    "longitude": "6.8019088",
+    "max_temp": 28.8,
+    "min_temp": 25.7
+  },
+  {
+    "city": "Abu Dhabi",
+    "date": "2023-11-14",
+    "latitude": "24.4538352",
+    "longitude": "54.3774014",
+    "max_temp": 32.8,
+    "min_temp": 24.1
+  },
+  {
+    "city": "Daejeon",
+    "date": "2023-11-14",
+    "latitude": "36.3497007",
+    "longitude": "127.3849016",
+    "max_temp": 9.8,
+    "min_temp": 1.4
+  },
+  {
+    "city": "Zapopan",
+    "date": "2023-11-14",
+    "latitude": "20.7211203",
+    "longitude": "-103.3913671",
+    "max_temp": 26.7,
+    "min_temp": 16.7
+  },
+  {
+    "city": "Bronx",
+    "date": "2023-11-14",
+    "latitude": "40.8466508",
+    "longitude": "-73.8785937",
+    "max_temp": 11.4,
+    "min_temp": 2.6
+  },
+  {
+    "city": "Yekaterinburg",
+    "date": "2023-11-14",
+    "latitude": "56.839104",
+    "longitude": "60.60825",
+    "max_temp": 5.3,
+    "min_temp": 0.6
+  },
+  {
+    "city": "Huazhou",
+    "date": "2023-11-14",
+    "latitude": "21.6669324",
+    "longitude": "110.6352871",
+    "max_temp": 23.1,
+    "min_temp": 15.2
+  },
+  {
+    "city": "Ky\u014dto",
+    "date": "2023-11-14",
+    "latitude": "35.021041",
+    "longitude": "135.7556075",
+    "max_temp": 15.4,
+    "min_temp": 7.1
+  },
+  {
+    "city": "Jinhua",
+    "date": "2023-11-14",
+    "latitude": "29.1080344",
+    "longitude": "119.6486487",
+    "max_temp": 15.5,
+    "min_temp": 4.4
+  },
+  {
+    "city": "Amsterdam",
+    "date": "2023-11-14",
+    "latitude": "52.3730796",
+    "longitude": "4.8924534",
+    "max_temp": 13.3,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Shuangyashan",
+    "date": "2023-11-14",
+    "latitude": "46.522721",
+    "longitude": "132.645516",
+    "max_temp": -3.1,
+    "min_temp": -14.1
+  },
+  {
+    "city": "Pizhou",
+    "date": "2023-11-14",
+    "latitude": "34.3402702",
+    "longitude": "118.0068173",
+    "max_temp": 10.8,
+    "min_temp": 1.0
+  },
+  {
+    "city": "El Kelaa des Srarhna",
+    "date": "2023-11-14",
+    "latitude": "32.0590296",
+    "longitude": "-7.4099759",
+    "max_temp": 30.8,
+    "min_temp": 14.1
+  },
+  {
+    "city": "Dakar",
+    "date": "2023-11-14",
+    "latitude": "14.693425",
+    "longitude": "-17.447938",
+    "max_temp": 34.1,
+    "min_temp": 25.6
+  },
+  {
+    "city": "Kharkiv",
+    "date": "2023-11-14",
+    "latitude": "49.9923181",
+    "longitude": "36.2310146",
+    "max_temp": 8.8,
+    "min_temp": 1.4
+  },
+  {
+    "city": "Yangshe",
+    "date": "2023-11-14",
+    "latitude": "31.8641913",
+    "longitude": "120.5110609",
+    "max_temp": 12.1,
+    "min_temp": 3.1
+  },
+  {
+    "city": "Guyuan",
+    "date": "2023-11-14",
+    "latitude": "36.0148906",
+    "longitude": "106.2379036",
+    "max_temp": 10.9,
+    "min_temp": -3.9
+  },
+  {
+    "city": "Rui\u2019an",
+    "date": "2023-11-14",
+    "latitude": "27.7809047",
+    "longitude": "120.6512652",
+    "max_temp": 16.8,
+    "min_temp": 10.8
+  },
+  {
+    "city": "Khulna",
+    "date": "2023-11-14",
+    "latitude": "22.9372087",
+    "longitude": "89.2852741",
+    "max_temp": 30.7,
+    "min_temp": 19.5
+  },
+  {
+    "city": "Muscat",
+    "date": "2023-11-14",
+    "latitude": "31.63825455",
+    "longitude": "35.06595915096024",
+    "max_temp": 20.1,
+    "min_temp": 15.2
+  },
+  {
+    "city": "Wenling",
+    "date": "2023-11-14",
+    "latitude": "28.3761941",
+    "longitude": "121.3808408",
+    "max_temp": 15.9,
+    "min_temp": 5.8
+  },
+  {
+    "city": "Gaozhou",
+    "date": "2023-11-14",
+    "latitude": "22.0461477",
+    "longitude": "110.9644447",
+    "max_temp": 23.9,
+    "min_temp": 17.0
+  },
+  {
+    "city": "Far\u012bd\u0101b\u0101d",
+    "date": "2023-11-14",
+    "latitude": "28.4031478",
+    "longitude": "77.3105561",
+    "max_temp": 24.6,
+    "min_temp": 14.0
+  },
+  {
+    "city": "Chizhou",
+    "date": "2023-11-14",
+    "latitude": "30.6671088",
+    "longitude": "117.4859885",
+    "max_temp": 13.3,
+    "min_temp": 5.2
+  },
+  {
+    "city": "Tel Aviv-Yafo",
+    "date": "2023-11-14",
+    "latitude": "32.0852997",
+    "longitude": "34.7818064",
+    "max_temp": 22.7,
+    "min_temp": 18.7
+  },
+  {
+    "city": "Ulaanbaatar",
+    "date": "2023-11-14",
+    "latitude": "47.9184676",
+    "longitude": "106.9177016",
+    "max_temp": -11.1,
+    "min_temp": -23.6
+  },
+  {
+    "city": "Goi\u00e2nia",
+    "date": "2023-11-14",
+    "latitude": "-16.680882",
+    "longitude": "-49.2532691",
+    "max_temp": 36.3,
+    "min_temp": 23.0
+  },
+  {
+    "city": "Fuqing",
+    "date": "2023-11-14",
+    "latitude": "25.7237321",
+    "longitude": "119.3795377",
+    "max_temp": 17.3,
+    "min_temp": 15.2
+  },
+  {
+    "city": "Kayseri",
+    "date": "2023-11-14",
+    "latitude": "38.6582232",
+    "longitude": "35.5546374",
+    "max_temp": 10.2,
+    "min_temp": 5.0
+  },
+  {
+    "city": "Wuzhong",
+    "date": "2023-11-14",
+    "latitude": "37.4922984",
+    "longitude": "106.5151923",
+    "max_temp": 9.9,
+    "min_temp": -5.7
+  },
+  {
+    "city": "Belgrade",
+    "date": "2023-11-14",
+    "latitude": "45.773279",
+    "longitude": "-111.184535",
+    "max_temp": 11.9,
+    "min_temp": -1.2
+  },
+  {
+    "city": "Pingdu",
+    "date": "2023-11-14",
+    "latitude": "36.7842974",
+    "longitude": "119.9493639",
+    "max_temp": 8.6,
+    "min_temp": -1.1
+  },
+  {
+    "city": "Milan",
+    "date": "2023-11-14",
+    "latitude": "45.4641943",
+    "longitude": "9.1896346",
+    "max_temp": 13.3,
+    "min_temp": 7.6
+  },
+  {
+    "city": "Aurang\u0101b\u0101d",
+    "date": "2023-11-14",
+    "latitude": "24.75",
+    "longitude": "84.5",
+    "max_temp": 28.2,
+    "min_temp": 14.4
+  },
+  {
+    "city": "Copenhagen",
+    "date": "2023-11-14",
+    "latitude": "55.6867243",
+    "longitude": "12.5700724",
+    "max_temp": 7.3,
+    "min_temp": 5.2
+  },
+  {
+    "city": "Yangquan",
+    "date": "2023-11-14",
+    "latitude": "37.8568575",
+    "longitude": "113.5739616",
+    "max_temp": 13.1,
+    "min_temp": -2.5
+  },
+  {
+    "city": "Yutan",
+    "date": "2023-11-14",
+    "latitude": "41.244922",
+    "longitude": "-96.3972555",
+    "max_temp": 20.0,
+    "min_temp": 6.6
+  },
+  {
+    "city": "Huangshan",
+    "date": "2023-11-14",
+    "latitude": "29.7172627",
+    "longitude": "118.3324811",
+    "max_temp": 14.7,
+    "min_temp": 3.0
+  },
+  {
+    "city": "Auckland",
+    "date": "2023-11-14",
+    "latitude": "-36.852095",
+    "longitude": "174.7631803",
+    "max_temp": 19.0,
+    "min_temp": 14.4
+  },
+  {
+    "city": "Makassar",
+    "date": "2023-11-14",
+    "latitude": "-5.1342962",
+    "longitude": "119.4124282",
+    "max_temp": 33.1,
+    "min_temp": 26.0
+  },
+  {
+    "city": "Santiago",
+    "date": "2023-11-14",
+    "latitude": "9.8694792",
+    "longitude": "-83.7980749",
+    "max_temp": 26.7,
+    "min_temp": 17.9
+  },
+  {
+    "city": "Milwaukee",
+    "date": "2023-11-14",
+    "latitude": "43.0349931",
+    "longitude": "-87.922497",
+    "max_temp": 14.9,
+    "min_temp": -2.5
+  },
+  {
+    "city": "R\u0101jkot",
+    "date": "2023-11-14",
+    "latitude": "22.3053263",
+    "longitude": "70.8028377",
+    "max_temp": 33.3,
+    "min_temp": 19.4
+  },
+  {
+    "city": "Prague",
+    "date": "2023-11-14",
+    "latitude": "50.0874654",
+    "longitude": "14.4212535",
+    "max_temp": 12.6,
+    "min_temp": 8.1
+  },
+  {
+    "city": "Samsun",
+    "date": "2023-11-14",
+    "latitude": "41.2946149",
+    "longitude": "36.3320596",
+    "max_temp": 17.0,
+    "min_temp": 13.3
+  },
+  {
+    "city": "Liangshi",
+    "date": "2023-11-14",
+    "latitude": "27.6326381",
+    "longitude": "115.1328563",
+    "max_temp": 15.5,
+    "min_temp": 8.0
+  },
+  {
+    "city": "Barranquilla",
+    "date": "2023-11-14",
+    "latitude": "10.9938698",
+    "longitude": "-74.7927177",
+    "max_temp": 31.3,
+    "min_temp": 27.0
+  },
+  {
+    "city": "Saitama",
+    "date": "2023-11-14",
+    "latitude": "35.9754168",
+    "longitude": "139.4160114",
+    "max_temp": 16.9,
+    "min_temp": 8.9
+  },
+  {
+    "city": "Guarulhos",
+    "date": "2023-11-14",
+    "latitude": "-23.4675941",
+    "longitude": "-46.5277704",
+    "max_temp": 37.1,
+    "min_temp": 20.6
+  },
+  {
+    "city": "Al Ba\u015frah",
+    "date": "2023-11-14",
+    "latitude": "30.4952371",
+    "longitude": "47.8090981",
+    "max_temp": 31.7,
+    "min_temp": 18.1
+  },
+  {
+    "city": "Mandalay",
+    "date": "2023-11-14",
+    "latitude": "-20.2648675",
+    "longitude": "148.7391272",
+    "max_temp": 27.8,
+    "min_temp": 19.7
+  },
+  {
+    "city": "Ju\u00e1rez",
+    "date": "2023-11-14",
+    "latitude": "17.700662299999998",
+    "longitude": "-93.19789166206073",
+    "max_temp": 26.8,
+    "min_temp": 23.6
+  },
+  {
+    "city": "Xintai",
+    "date": "2023-11-14",
+    "latitude": "35.9094557",
+    "longitude": "117.7620286",
+    "max_temp": 9.3,
+    "min_temp": -1.8
+  },
+  {
+    "city": "Wusong",
+    "date": "2023-11-14",
+    "latitude": "22.5978339",
+    "longitude": "120.2796",
+    "max_temp": 24.4,
+    "min_temp": 21.8
+  },
+  {
+    "city": "Meerut",
+    "date": "2023-11-14",
+    "latitude": "28.9826533",
+    "longitude": "77.7081013",
+    "max_temp": 24.6,
+    "min_temp": 13.5
+  },
+  {
+    "city": "Yushu",
+    "date": "2023-11-14",
+    "latitude": "34.3980247",
+    "longitude": "94.1902137",
+    "max_temp": -0.1,
+    "min_temp": -14.4
+  },
+  {
+    "city": "Rongcheng",
+    "date": "2023-11-14",
+    "latitude": "37.1649467",
+    "longitude": "122.482296",
+    "max_temp": 10.1,
+    "min_temp": 4.6
+  },
+  {
+    "city": "Huazhou",
+    "date": "2023-11-14",
+    "latitude": "21.6669324",
+    "longitude": "110.6352871",
+    "max_temp": 23.1,
+    "min_temp": 15.2
+  },
+  {
+    "city": "Adelaide",
+    "date": "2023-11-14",
+    "latitude": "-34.9281805",
+    "longitude": "138.5999312",
+    "max_temp": 19.4,
+    "min_temp": 12.6
+  },
+  {
+    "city": "Baishan",
+    "date": "2023-11-14",
+    "latitude": "41.9369269",
+    "longitude": "126.4184919",
+    "max_temp": 2.5,
+    "min_temp": -10.2
+  },
+  {
+    "city": "Dayan",
+    "date": "2023-11-14",
+    "latitude": "7.1957728",
+    "longitude": "125.5028155",
+    "max_temp": 33.3,
+    "min_temp": 23.3
+  },
+  {
+    "city": "Haicheng",
+    "date": "2023-11-14",
+    "latitude": "40.8522995",
+    "longitude": "122.7477959",
+    "max_temp": 8.9,
+    "min_temp": -1.1
+  },
+  {
+    "city": "Tripoli",
+    "date": "2023-11-14",
+    "latitude": "42.8023164",
+    "longitude": "-92.2581376",
+    "max_temp": 17.5,
+    "min_temp": 1.4
+  },
+  {
+    "city": "Jiangyin",
+    "date": "2023-11-14",
+    "latitude": "31.9092756",
+    "longitude": "120.2630426",
+    "max_temp": 11.8,
+    "min_temp": 5.2
+  },
+  {
+    "city": "Yicheng",
+    "date": "2023-11-14",
+    "latitude": "32.941419",
+    "longitude": "113.93606",
+    "max_temp": 14.0,
+    "min_temp": 2.0
+  },
+  {
+    "city": "Huaiyin",
+    "date": "2023-11-14",
+    "latitude": "36.6522591",
+    "longitude": "116.8955753",
+    "max_temp": 10.3,
+    "min_temp": 0.3
+  },
+  {
+    "city": "Porto",
+    "date": "2023-11-14",
+    "latitude": "41.1494512",
+    "longitude": "-8.6107884",
+    "max_temp": 18.9,
+    "min_temp": 16.3
+  },
+  {
+    "city": "Cacuaco",
+    "date": "2023-11-14",
+    "latitude": "-8.828238299999999",
+    "longitude": "13.433754417033436",
+    "max_temp": 31.2,
+    "min_temp": 24.6
+  },
+  {
+    "city": "Soweto",
+    "date": "2023-11-14",
+    "latitude": "-26.2227778",
+    "longitude": "27.89",
+    "max_temp": 21.6,
+    "min_temp": 12.2
+  },
+  {
+    "city": "Rosario",
+    "date": "2023-11-14",
+    "latitude": "-32.9593609",
+    "longitude": "-60.6617024",
+    "max_temp": 25.3,
+    "min_temp": 12.5
+  },
+  {
+    "city": "Canagatan",
+    "date": "2023-11-14",
+    "latitude": "17.925036650000003",
+    "longitude": "121.78122253382243",
+    "max_temp": 28.6,
+    "min_temp": 23.2
+  },
+  {
+    "city": "Helsinki",
+    "date": "2023-11-14",
+    "latitude": "60.1674881",
+    "longitude": "24.9427473",
+    "max_temp": 1.5,
+    "min_temp": -1.0
+  },
+  {
+    "city": "Jabalpur",
+    "date": "2023-11-14",
+    "latitude": "23.1608938",
+    "longitude": "79.9497702",
+    "max_temp": 28.7,
+    "min_temp": 14.6
+  },
+  {
+    "city": "Providence",
+    "date": "2023-11-14",
+    "latitude": "41.8239891",
+    "longitude": "-71.4128343",
+    "max_temp": 8.2,
+    "min_temp": 0.5
+  },
+  {
+    "city": "Rucheng",
+    "date": "2023-11-14",
+    "latitude": "25.5500532",
+    "longitude": "113.6665846",
+    "max_temp": 11.1,
+    "min_temp": 6.8
+  },
+  {
+    "city": "Nizhniy Novgorod",
+    "date": "2023-11-14",
+    "latitude": "56.3264816",
+    "longitude": "44.0051395",
+    "max_temp": 5.1,
+    "min_temp": 2.4
+  },
+  {
+    "city": "Ahv\u0101z",
+    "date": "2023-11-14",
+    "latitude": "31.3230637",
+    "longitude": "48.67932",
+    "max_temp": 31.6,
+    "min_temp": 16.4
+  },
+  {
+    "city": "Jepara",
+    "date": "2023-11-14",
+    "latitude": "-6.5899148",
+    "longitude": "110.6672987",
+    "max_temp": 33.8,
+    "min_temp": 26.1
+  },
+  {
+    "city": "Shaoyang",
+    "date": "2023-11-14",
+    "latitude": "26.9443424",
+    "longitude": "110.9631102",
+    "max_temp": 10.3,
+    "min_temp": 6.6
+  },
+  {
+    "city": "Comayag\u00fcela",
+    "date": "2023-11-14",
+    "latitude": "14.0980079",
+    "longitude": "-87.2099671",
+    "max_temp": 25.6,
+    "min_temp": 19.7
+  },
+  {
+    "city": "Laiwu",
+    "date": "2023-11-14",
+    "latitude": "36.2150252",
+    "longitude": "117.6698329",
+    "max_temp": 9.1,
+    "min_temp": -3.9
+  },
+  {
+    "city": "Sharjah",
+    "date": "2023-11-14",
+    "latitude": "25.21700105",
+    "longitude": "51.475684279931336",
+    "max_temp": 30.8,
+    "min_temp": 21.2
+  },
+  {
+    "city": "Kalamboli",
+    "date": "2023-11-14",
+    "latitude": "19.0358309",
+    "longitude": "73.1034796",
+    "max_temp": 34.4,
+    "min_temp": 19.1
+  },
+  {
+    "city": "Jingling",
+    "date": "2023-11-14",
+    "latitude": "32.1318644",
+    "longitude": "77.0424016",
+    "max_temp": 17.3,
+    "min_temp": 8.0
+  },
+  {
+    "city": "Kazan",
+    "date": "2023-11-14",
+    "latitude": "39.5854048",
+    "longitude": "44.0041981",
+    "max_temp": 13.7,
+    "min_temp": 2.5
+  },
+  {
+    "city": "Suwon",
+    "date": "2023-11-14",
+    "latitude": "37.2633325",
+    "longitude": "127.0287472",
+    "max_temp": 8.6,
+    "min_temp": -0.2
+  },
+  {
+    "city": "Yongcheng",
+    "date": "2023-11-14",
+    "latitude": "33.9311614",
+    "longitude": "116.4440806",
+    "max_temp": 11.9,
+    "min_temp": 1.0
+  },
+  {
+    "city": "Sumedang",
+    "date": "2023-11-14",
+    "latitude": "-6.80987135",
+    "longitude": "107.98177315918636",
+    "max_temp": 30.0,
+    "min_temp": 22.0
+  },
+  {
+    "city": "Calgary",
+    "date": "2023-11-14",
+    "latitude": "51.0456064",
+    "longitude": "-114.057541",
+    "max_temp": 8.1,
+    "min_temp": 0.5
+  },
+  {
+    "city": "C\u1ea7n Th\u01a1",
+    "date": "2023-11-14",
+    "latitude": "10.0364216",
+    "longitude": "105.7875219",
+    "max_temp": 32.0,
+    "min_temp": 25.9
+  },
+  {
+    "city": "Yiwu",
+    "date": "2023-11-14",
+    "latitude": "29.3093002",
+    "longitude": "120.0703805",
+    "max_temp": 14.6,
+    "min_temp": 3.0
+  },
+  {
+    "city": "Bagam",
+    "date": "2023-11-14",
+    "latitude": "5.683722",
+    "longitude": "10.295333",
+    "max_temp": 24.8,
+    "min_temp": 17.8
+  },
+  {
+    "city": "Beidao",
+    "date": "2023-11-14",
+    "latitude": "16.96255",
+    "longitude": "112.3116439756453",
+    "max_temp": 27.4,
+    "min_temp": 26.9
+  },
+  {
+    "city": "Vasai",
+    "date": "2023-11-14",
+    "latitude": "19.4404562",
+    "longitude": "72.88229422832666",
+    "max_temp": 35.1,
+    "min_temp": 20.5
+  },
+  {
+    "city": "Xiangshui",
+    "date": "2023-11-14",
+    "latitude": "34.232687",
+    "longitude": "119.7893472",
+    "max_temp": 10.6,
+    "min_temp": 0.7
+  },
+  {
+    "city": "Jacksonville",
+    "date": "2023-11-14",
+    "latitude": "30.3321838",
+    "longitude": "-81.655651",
+    "max_temp": 20.3,
+    "min_temp": 16.1
+  },
+  {
+    "city": "Ak\u00e7aabat",
+    "date": "2023-11-14",
+    "latitude": "41.0216276",
+    "longitude": "39.5706735",
+    "max_temp": 19.4,
+    "min_temp": 11.9
+  },
+  {
+    "city": "Campinas",
+    "date": "2023-11-14",
+    "latitude": "-22.9056391",
+    "longitude": "-47.059564",
+    "max_temp": 37.2,
+    "min_temp": 22.8
+  },
+  {
+    "city": "Dadukou",
+    "date": "2023-11-14",
+    "latitude": "29.4227309",
+    "longitude": "106.457056",
+    "max_temp": 12.1,
+    "min_temp": 10.9
+  },
+  {
+    "city": "Mombasa",
+    "date": "2023-11-14",
+    "latitude": "-4.05052",
+    "longitude": "39.667169",
+    "max_temp": 31.6,
+    "min_temp": 24.7
+  },
+  {
+    "city": "Lingcheng",
+    "date": "2023-11-14",
+    "latitude": "22.278889",
+    "longitude": "107.715556",
+    "max_temp": 19.4,
+    "min_temp": 12.5
+  },
+  {
+    "city": "Najafgarh",
+    "date": "2023-11-14",
+    "latitude": "28.6122962",
+    "longitude": "76.98238682303287",
+    "max_temp": 24.3,
+    "min_temp": 13.0
+  },
+  {
+    "city": "Vila Velha",
+    "date": "2023-11-14",
+    "latitude": "-20.3297037",
+    "longitude": "-40.2920174",
+    "max_temp": 34.6,
+    "min_temp": 24.1
+  },
+  {
+    "city": "G\u0101zipura",
+    "date": "2023-11-14",
+    "latitude": "26.0367141",
+    "longitude": "74.2363572",
+    "max_temp": 26.2,
+    "min_temp": 11.6
+  },
+  {
+    "city": "Chelyabinsk",
+    "date": "2023-11-14",
+    "latitude": "55.1598408",
+    "longitude": "61.4025547",
+    "max_temp": 5.3,
+    "min_temp": 2.6
+  },
+  {
+    "city": "V\u0101r\u0101nasi",
+    "date": "2023-11-14",
+    "latitude": "25.3561323",
+    "longitude": "82.8819789",
+    "max_temp": 29.0,
+    "min_temp": 15.6
+  },
+  {
+    "city": "Xinyu",
+    "date": "2023-11-14",
+    "latitude": "7.3930264",
+    "longitude": "125.7669704",
+    "max_temp": 34.1,
+    "min_temp": 24.5
+  },
+  {
+    "city": "Qom",
+    "date": "2023-11-14",
+    "latitude": "34.1756302",
+    "longitude": "50.5497801",
+    "max_temp": 23.1,
+    "min_temp": 7.5
+  },
+  {
+    "city": "Hargeysa",
+    "date": "2023-11-14",
+    "latitude": "9.561733",
+    "longitude": "44.061803",
+    "max_temp": 25.8,
+    "min_temp": 15.7
+  },
+  {
+    "city": "Zhangye",
+    "date": "2023-11-14",
+    "latitude": "39.121833",
+    "longitude": "99.924947",
+    "max_temp": 3.4,
+    "min_temp": -5.1
+  },
+  {
+    "city": "Hiroshima",
+    "date": "2023-11-14",
+    "latitude": "-17.3515187",
+    "longitude": "-66.1668133",
+    "max_temp": 29.9,
+    "min_temp": 11.6
+  },
+  {
+    "city": "Maiduguri",
+    "date": "2023-11-14",
+    "latitude": "11.8395375",
+    "longitude": "13.1536214",
+    "max_temp": 35.9,
+    "min_temp": 23.2
+  },
+  {
+    "city": "Chiang Mai",
+    "date": "2023-11-14",
+    "latitude": "18.7882778",
+    "longitude": "98.9858802",
+    "max_temp": 30.3,
+    "min_temp": 22.3
+  },
+  {
+    "city": "Doha",
+    "date": "2023-11-14",
+    "latitude": "24.736770149999998",
+    "longitude": "81.44660220014936",
+    "max_temp": 28.3,
+    "min_temp": 18.2
+  },
+  {
+    "city": "Maputo",
+    "date": "2023-11-14",
+    "latitude": "-25.966213",
+    "longitude": "32.56745",
+    "max_temp": 20.5,
+    "min_temp": 18.2
+  },
+  {
+    "city": "Mbandaka",
+    "date": "2023-11-14",
+    "latitude": "0.0470732",
+    "longitude": "18.2564803",
+    "max_temp": 29.0,
+    "min_temp": 24.3
+  },
+  {
+    "city": "Pikine",
+    "date": "2023-11-14",
+    "latitude": "14.751544",
+    "longitude": "-17.396413",
+    "max_temp": 34.1,
+    "min_temp": 25.5
+  },
+  {
+    "city": "Medina",
+    "date": "2023-11-14",
+    "latitude": "29.2836281",
+    "longitude": "-99.1126826",
+    "max_temp": 20.7,
+    "min_temp": 12.9
+  },
+  {
+    "city": "Sr\u012bnagar",
+    "date": "2023-11-14",
+    "latitude": "34.083333",
+    "longitude": "74.833333",
+    "max_temp": 16.2,
+    "min_temp": 0.8
+  },
+  {
+    "city": "Omsk",
+    "date": "2023-11-14",
+    "latitude": "25.23781005",
+    "longitude": "55.16889625630513",
+    "max_temp": 33.0,
+    "min_temp": 22.4
+  },
+  {
+    "city": "Dublin",
+    "date": "2023-11-14",
+    "latitude": "53.3493795",
+    "longitude": "-6.2605593",
+    "max_temp": 12.6,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Liaoyuan",
+    "date": "2023-11-14",
+    "latitude": "42.8863846",
+    "longitude": "125.1374905",
+    "max_temp": 4.2,
+    "min_temp": -6.7
+  },
+  {
+    "city": "Cilacap",
+    "date": "2023-11-14",
+    "latitude": "-7.46167105",
+    "longitude": "108.80461463117007",
+    "max_temp": 31.1,
+    "min_temp": 25.4
+  },
+  {
+    "city": "Yingtan",
+    "date": "2023-11-14",
+    "latitude": "28.2378405",
+    "longitude": "117.1143221",
+    "max_temp": 15.4,
+    "min_temp": 6.1
+  },
+  {
+    "city": "Bandar Lampung",
+    "date": "2023-11-14",
+    "latitude": "-5.4460713",
+    "longitude": "105.2643742",
+    "max_temp": 30.1,
+    "min_temp": 26.4
+  },
+  {
+    "city": "Samara",
+    "date": "2023-11-14",
+    "latitude": "40.4385875",
+    "longitude": "-86.91665347584745",
+    "max_temp": 16.0,
+    "min_temp": -2.5
+  },
+  {
+    "city": "Guankou",
+    "date": "2023-11-14",
+    "latitude": "30.55",
+    "longitude": "115.333333",
+    "max_temp": 14.4,
+    "min_temp": 2.1
+  },
+  {
+    "city": "Ulsan",
+    "date": "2023-11-14",
+    "latitude": "35.5391697",
+    "longitude": "129.3119136",
+    "max_temp": 12.4,
+    "min_temp": 3.3
+  },
+  {
+    "city": "Dhanb\u0101d",
+    "date": "2023-11-14",
+    "latitude": "23.7952809",
+    "longitude": "86.4309638",
+    "max_temp": 28.5,
+    "min_temp": 17.8
+  },
+  {
+    "city": "Dingzhou",
+    "date": "2023-11-14",
+    "latitude": "38.5112175",
+    "longitude": "114.9970044",
+    "max_temp": 11.0,
+    "min_temp": -2.7
+  },
+  {
+    "city": "Lianyuan",
+    "date": "2023-11-14",
+    "latitude": "27.6958345",
+    "longitude": "111.6593577",
+    "max_temp": 12.5,
+    "min_temp": 8.0
+  },
+  {
+    "city": "Rongcheng",
+    "date": "2023-11-14",
+    "latitude": "37.1649467",
+    "longitude": "122.482296",
+    "max_temp": 10.1,
+    "min_temp": 4.6
+  },
+  {
+    "city": "Kaiyuan",
+    "date": "2023-11-14",
+    "latitude": "42.4067626",
+    "longitude": "124.245093",
+    "max_temp": 4.5,
+    "min_temp": -4.7
+  },
+  {
+    "city": "Nay Pyi Taw",
+    "date": "2023-11-14",
+    "latitude": "19.7540045",
+    "longitude": "96.1344976",
+    "max_temp": 33.2,
+    "min_temp": 22.5
+  },
+  {
+    "city": "Zhuji",
+    "date": "2023-11-14",
+    "latitude": "29.7296617",
+    "longitude": "120.1805427",
+    "max_temp": 14.4,
+    "min_temp": 4.7
+  },
+  {
+    "city": "Kigali",
+    "date": "2023-11-14",
+    "latitude": "-1.8859597",
+    "longitude": "30.1296751",
+    "max_temp": 22.5,
+    "min_temp": 15.7
+  },
+  {
+    "city": "Bukavu",
+    "date": "2023-11-14",
+    "latitude": "-2.5055839",
+    "longitude": "28.8594885",
+    "max_temp": 22.4,
+    "min_temp": 17.6
+  },
+  {
+    "city": "Leiyang",
+    "date": "2023-11-14",
+    "latitude": "26.4255243",
+    "longitude": "112.8545783",
+    "max_temp": 12.7,
+    "min_temp": 8.6
+  },
+  {
+    "city": "Bafoussam",
+    "date": "2023-11-14",
+    "latitude": "5.4758844",
+    "longitude": "10.4217852",
+    "max_temp": 23.7,
+    "min_temp": 17.7
+  },
+  {
+    "city": "Yichun",
+    "date": "2023-11-14",
+    "latitude": "27.81697",
+    "longitude": "114.4112498",
+    "max_temp": 14.8,
+    "min_temp": 8.3
+  },
+  {
+    "city": "Benin City",
+    "date": "2023-11-14",
+    "latitude": "6.3330586",
+    "longitude": "5.6221058",
+    "max_temp": 30.7,
+    "min_temp": 25.5
+  },
+  {
+    "city": "Rostov",
+    "date": "2023-11-14",
+    "latitude": "37.1648288",
+    "longitude": "72.2641249",
+    "max_temp": -4.0,
+    "min_temp": -13.3
+  },
+  {
+    "city": "Xiantao",
+    "date": "2023-11-14",
+    "latitude": "30.364029",
+    "longitude": "113.4486702",
+    "max_temp": 14.9,
+    "min_temp": 2.9
+  },
+  {
+    "city": "Amritsar",
+    "date": "2023-11-14",
+    "latitude": "31.6343083",
+    "longitude": "74.8736788",
+    "max_temp": 24.9,
+    "min_temp": 13.2
+  },
+  {
+    "city": "Callao",
+    "date": "2023-11-14",
+    "latitude": "-12.066667",
+    "longitude": "-77.15",
+    "max_temp": 21.3,
+    "min_temp": 18.7
+  },
+  {
+    "city": "Salt Lake City",
+    "date": "2023-11-14",
+    "latitude": "40.7596198",
+    "longitude": "-111.886797",
+    "max_temp": 18.4,
+    "min_temp": 8.0
+  },
+  {
+    "city": "Al\u012bgarh",
+    "date": "2023-11-14",
+    "latitude": "27.833333",
+    "longitude": "78.166667",
+    "max_temp": 25.0,
+    "min_temp": 13.6
+  },
+  {
+    "city": "Shagamu",
+    "date": "2023-11-14",
+    "latitude": "6.8477165",
+    "longitude": "3.6440551",
+    "max_temp": 34.0,
+    "min_temp": 24.8
+  },
+  {
+    "city": "Yingchuan",
+    "date": "2023-11-14",
+    "latitude": "34.5483305",
+    "longitude": "105.9151761",
+    "max_temp": 11.6,
+    "min_temp": -0.3
+  },
+  {
+    "city": "Ciudad Nezahualc\u00f3yotl",
+    "date": "2023-11-14",
+    "latitude": "19.4079028",
+    "longitude": "-99.0181547",
+    "max_temp": 21.8,
+    "min_temp": 13.8
+  },
+  {
+    "city": "Tbilisi",
+    "date": "2023-11-14",
+    "latitude": "41.6934591",
+    "longitude": "44.8014495",
+    "max_temp": 17.2,
+    "min_temp": 9.9
+  },
+  {
+    "city": "Guw\u0101h\u0101ti",
+    "date": "2023-11-14",
+    "latitude": "26.1805978",
+    "longitude": "91.753943",
+    "max_temp": 29.1,
+    "min_temp": 17.2
+  },
+  {
+    "city": "Ufa",
+    "date": "2023-11-14",
+    "latitude": "52.3870936",
+    "longitude": "13.122814833095239",
+    "max_temp": 13.1,
+    "min_temp": 9.4
+  },
+  {
+    "city": "F\u00e8s",
+    "date": "2023-11-14",
+    "latitude": "34.0346534",
+    "longitude": "-5.0161926",
+    "max_temp": 30.1,
+    "min_temp": 13.4
+  },
+  {
+    "city": "S\u00e3o Lu\u00eds",
+    "date": "2023-11-14",
+    "latitude": "-2.5295265",
+    "longitude": "-44.2963942",
+    "max_temp": 33.4,
+    "min_temp": 25.9
+  },
+  {
+    "city": "Bi\u00ean H\u00f2a",
+    "date": "2023-11-14",
+    "latitude": "10.9509538",
+    "longitude": "106.8226134",
+    "max_temp": 32.7,
+    "min_temp": 25.3
+  },
+  {
+    "city": "Sevilla",
+    "date": "2023-11-14",
+    "latitude": "37.3886303",
+    "longitude": "-5.9953403",
+    "max_temp": 26.4,
+    "min_temp": 13.0
+  },
+  {
+    "city": "N\u2019Djamena",
+    "date": "2023-11-14",
+    "latitude": "12.1191543",
+    "longitude": "15.0502758",
+    "max_temp": 38.3,
+    "min_temp": 25.3
+  },
+  {
+    "city": "Mexicali",
+    "date": "2023-11-14",
+    "latitude": "32.6405247",
+    "longitude": "-115.474899",
+    "max_temp": 28.6,
+    "min_temp": 11.5
+  },
+  {
+    "city": "Nezahualc\u00f3yotl",
+    "date": "2023-11-14",
+    "latitude": "19.4079028",
+    "longitude": "-99.0181547",
+    "max_temp": 21.8,
+    "min_temp": 13.8
+  },
+  {
+    "city": "Ikare",
+    "date": "2023-11-14",
+    "latitude": "6.418407",
+    "longitude": "3.2355625",
+    "max_temp": 31.1,
+    "min_temp": 27.7
+  },
+  {
+    "city": "Nashville",
+    "date": "2023-11-14",
+    "latitude": "36.1622767",
+    "longitude": "-86.7742984",
+    "max_temp": 20.9,
+    "min_temp": 5.0
+  },
+  {
+    "city": "Tamale",
+    "date": "2023-11-14",
+    "latitude": "9.4051992",
+    "longitude": "-0.8423986",
+    "max_temp": 37.5,
+    "min_temp": 24.8
+  },
+  {
+    "city": "Xibeijie",
+    "date": "2023-11-14",
+    "latitude": "39.7442313",
+    "longitude": "98.506344",
+    "max_temp": 6.8,
+    "min_temp": -3.4
+  },
+  {
+    "city": "Yuyao",
+    "date": "2023-11-14",
+    "latitude": "30.0403094",
+    "longitude": "121.1500882",
+    "max_temp": 13.9,
+    "min_temp": 3.6
+  },
+  {
+    "city": "H\u0101ora",
+    "date": "2023-11-14",
+    "latitude": "22.75",
+    "longitude": "88.25",
+    "max_temp": 29.0,
+    "min_temp": 19.1
+  },
+  {
+    "city": "Hanchuan",
+    "date": "2023-11-14",
+    "latitude": "30.6562575",
+    "longitude": "113.8329583",
+    "max_temp": 14.5,
+    "min_temp": 2.5
+  },
+  {
+    "city": "Gongzhuling",
+    "date": "2023-11-14",
+    "latitude": "43.7703784",
+    "longitude": "124.7656749",
+    "max_temp": -0.2,
+    "min_temp": -11.2
+  },
+  {
+    "city": "Krasnoyarsk",
+    "date": "2023-11-14",
+    "latitude": "56.0090968",
+    "longitude": "92.8725147",
+    "max_temp": 1.5,
+    "min_temp": -4.9
+  },
+  {
+    "city": "Cologne",
+    "date": "2023-11-14",
+    "latitude": "43.7218277",
+    "longitude": "0.9774958",
+    "max_temp": 22.6,
+    "min_temp": 12.1
+  },
+  {
+    "city": "Bujumbura",
+    "date": "2023-11-14",
+    "latitude": "-3.3638125",
+    "longitude": "29.3675028",
+    "max_temp": 28.5,
+    "min_temp": 20.1
+  },
+  {
+    "city": "Bishkek",
+    "date": "2023-11-14",
+    "latitude": "42.8777895",
+    "longitude": "74.6066926",
+    "max_temp": 10.8,
+    "min_temp": -0.9
+  },
+  {
+    "city": "Zhufeng",
+    "date": "2023-11-14",
+    "latitude": "23.4956",
+    "longitude": "110.087",
+    "max_temp": 15.5,
+    "min_temp": 12.3
+  },
+  {
+    "city": "S\u00e3o Gon\u00e7alo",
+    "date": "2023-11-14",
+    "latitude": "-22.8219014",
+    "longitude": "-43.0309252",
+    "max_temp": 33.3,
+    "min_temp": 23.8
+  },
+  {
+    "city": "Yerevan",
+    "date": "2023-11-14",
+    "latitude": "40.1777112",
+    "longitude": "44.5126233",
+    "max_temp": 17.8,
+    "min_temp": 9.1
+  },
+  {
+    "city": "Ezhou",
+    "date": "2023-11-14",
+    "latitude": "30.3925379",
+    "longitude": "114.8898988",
+    "max_temp": 14.3,
+    "min_temp": 5.3
+  },
+  {
+    "city": "Nur-Sultan",
+    "date": "2023-11-14",
+    "latitude": "51.1282205",
+    "longitude": "71.4306682",
+    "max_temp": 4.5,
+    "min_temp": 0.3
+  },
+  {
+    "city": "Tongjin",
+    "date": "2023-11-14",
+    "latitude": "37.6948",
+    "longitude": "126.60312",
+    "max_temp": 8.9,
+    "min_temp": 1.7
+  },
+  {
+    "city": "Nouakchott",
+    "date": "2023-11-14",
+    "latitude": "18.061891799999998",
+    "longitude": "-15.931148157832908",
+    "max_temp": 38.2,
+    "min_temp": 21.4
+  },
+  {
+    "city": "Xiashi",
+    "date": "2023-11-14",
+    "latitude": "30.5159723",
+    "longitude": "120.7040236",
+    "max_temp": 13.6,
+    "min_temp": 2.1
+  },
+  {
+    "city": "R\u0101nchi",
+    "date": "2023-11-14",
+    "latitude": "23.3700501",
+    "longitude": "85.3250387",
+    "max_temp": 25.4,
+    "min_temp": 16.3
+  },
+  {
+    "city": "Taixing",
+    "date": "2023-11-14",
+    "latitude": "32.1738588",
+    "longitude": "120.0466771",
+    "max_temp": 11.6,
+    "min_temp": 1.1
+  },
+  {
+    "city": "Vereeniging",
+    "date": "2023-11-14",
+    "latitude": "-26.6747222",
+    "longitude": "27.9261111",
+    "max_temp": 24.2,
+    "min_temp": 14.4
+  },
+  {
+    "city": "Gwalior",
+    "date": "2023-11-14",
+    "latitude": "26.2037247",
+    "longitude": "78.1573628",
+    "max_temp": 26.4,
+    "min_temp": 14.6
+  },
+  {
+    "city": "Zhongwei",
+    "date": "2023-11-14",
+    "latitude": "37.4999947",
+    "longitude": "105.1928783",
+    "max_temp": 10.5,
+    "min_temp": -3.3
+  },
+  {
+    "city": "Goyang",
+    "date": "2023-11-14",
+    "latitude": "37.6581862",
+    "longitude": "126.8319452",
+    "max_temp": 9.1,
+    "min_temp": -0.1
+  },
+  {
+    "city": "Oslo",
+    "date": "2023-11-14",
+    "latitude": "59.9133301",
+    "longitude": "10.7389701",
+    "max_temp": 1.3,
+    "min_temp": -1.5
+  },
+  {
+    "city": "Vijayav\u0101da",
+    "date": "2023-11-14",
+    "latitude": "17.3474246",
+    "longitude": "78.550018",
+    "max_temp": 30.2,
+    "min_temp": 21.3
+  },
+  {
+    "city": "Chand\u012bgarh",
+    "date": "2023-11-14",
+    "latitude": "30.7334421",
+    "longitude": "76.7797143",
+    "max_temp": 26.1,
+    "min_temp": 13.0
+  },
+  {
+    "city": "Edmonton",
+    "date": "2023-11-14",
+    "latitude": "53.5462055",
+    "longitude": "-113.491241",
+    "max_temp": 5.8,
+    "min_temp": -2.9
+  },
+  {
+    "city": "Sendai",
+    "date": "2023-11-14",
+    "latitude": "38.2677554",
+    "longitude": "140.8691498",
+    "max_temp": 11.9,
+    "min_temp": 4.9
+  },
+  {
+    "city": "Raleigh",
+    "date": "2023-11-14",
+    "latitude": "35.7803977",
+    "longitude": "-78.6390989",
+    "max_temp": 17.8,
+    "min_temp": 2.9
+  },
+  {
+    "city": "Mizhou",
+    "date": "2023-11-14",
+    "latitude": "35.9664112",
+    "longitude": "119.5090116",
+    "max_temp": 9.6,
+    "min_temp": 0.0
+  },
+  {
+    "city": "Tunis",
+    "date": "2023-11-14",
+    "latitude": "33.40060825",
+    "longitude": "44.37100506668824",
+    "max_temp": 29.4,
+    "min_temp": 16.5
+  },
+  {
+    "city": "Xishan",
+    "date": "2023-11-14",
+    "latitude": "38.0690562",
+    "longitude": "110.4026669",
+    "max_temp": 9.0,
+    "min_temp": -5.3
+  },
+  {
+    "city": "Barquisimeto",
+    "date": "2023-11-14",
+    "latitude": "10.0774374",
+    "longitude": "-69.3222293",
+    "max_temp": 30.2,
+    "min_temp": 23.7
+  },
+  {
+    "city": "Hegang",
+    "date": "2023-11-14",
+    "latitude": "47.328863",
+    "longitude": "130.2816917",
+    "max_temp": -3.0,
+    "min_temp": -12.5
+  },
+  {
+    "city": "Voronezh",
+    "date": "2023-11-14",
+    "latitude": "51.6605982",
+    "longitude": "39.2005858",
+    "max_temp": 6.5,
+    "min_temp": 2.2
+  },
+  {
+    "city": "Perm",
+    "date": "2023-11-14",
+    "latitude": "58.014965",
+    "longitude": "56.246723",
+    "max_temp": 6.0,
+    "min_temp": 3.3
+  },
+  {
+    "city": "Changwon",
+    "date": "2023-11-14",
+    "latitude": "35.227956",
+    "longitude": "128.6818586",
+    "max_temp": 11.2,
+    "min_temp": 2.7
+  },
+  {
+    "city": "Fangchenggang",
+    "date": "2023-11-14",
+    "latitude": "21.7023451",
+    "longitude": "108.3590243",
+    "max_temp": 19.2,
+    "min_temp": 13.4
+  },
+  {
+    "city": "Shouguang",
+    "date": "2023-11-14",
+    "latitude": "36.8762356",
+    "longitude": "118.7322549",
+    "max_temp": 10.8,
+    "min_temp": -0.6
+  },
+  {
+    "city": "Bogor",
+    "date": "2023-11-14",
+    "latitude": "-6.5962986",
+    "longitude": "106.7972421",
+    "max_temp": 31.4,
+    "min_temp": 22.9
+  },
+  {
+    "city": "Cartagena",
+    "date": "2023-11-14",
+    "latitude": "10.4266746",
+    "longitude": "-75.5443419",
+    "max_temp": 30.8,
+    "min_temp": 27.1
+  },
+  {
+    "city": "Matola",
+    "date": "2023-11-14",
+    "latitude": "-25.966917",
+    "longitude": "32.466956",
+    "max_temp": 20.1,
+    "min_temp": 17.4
+  },
+  {
+    "city": "Jodhpur",
+    "date": "2023-11-14",
+    "latitude": "26.2967719",
+    "longitude": "73.0351433",
+    "max_temp": 27.6,
+    "min_temp": 15.6
+  },
+  {
+    "city": "Memphis",
+    "date": "2023-11-14",
+    "latitude": "35.1460249",
+    "longitude": "-90.0517638",
+    "max_temp": 20.4,
+    "min_temp": 9.4
+  },
+  {
+    "city": "Ogbomoso",
+    "date": "2023-11-14",
+    "latitude": "8.133",
+    "longitude": "4.25",
+    "max_temp": 33.4,
+    "min_temp": 23.8
+  },
+  {
+    "city": "Managua",
+    "date": "2023-11-14",
+    "latitude": "12.1544035",
+    "longitude": "-86.2737642",
+    "max_temp": 31.9,
+    "min_temp": 25.3
+  },
+  {
+    "city": "Sanya",
+    "date": "2023-11-14",
+    "latitude": "-3.3402486",
+    "longitude": "37.1185237",
+    "max_temp": 28.4,
+    "min_temp": 20.2
+  },
+  {
+    "city": "Shymkent",
+    "date": "2023-11-14",
+    "latitude": "42.3146962",
+    "longitude": "69.5883282",
+    "max_temp": 15.9,
+    "min_temp": 0.7
+  },
+  {
+    "city": "Wutong",
+    "date": "2023-11-14",
+    "latitude": "55.9419896",
+    "longitude": "-4.3166045",
+    "max_temp": 7.9,
+    "min_temp": 6.6
+  },
+  {
+    "city": "Niamey",
+    "date": "2023-11-14",
+    "latitude": "13.524834",
+    "longitude": "2.109823",
+    "max_temp": 37.7,
+    "min_temp": 22.0
+  },
+  {
+    "city": "Shubr\u0101 al Khaymah",
+    "date": "2023-11-14",
+    "latitude": "30.1285988",
+    "longitude": "31.242218",
+    "max_temp": 27.2,
+    "min_temp": 18.3
+  },
+  {
+    "city": "Linhai",
+    "date": "2023-11-14",
+    "latitude": "28.8616886",
+    "longitude": "121.1402223",
+    "max_temp": 16.6,
+    "min_temp": 6.9
+  },
+  {
+    "city": "Denizli",
+    "date": "2023-11-14",
+    "latitude": "41.091764",
+    "longitude": "29.789462",
+    "max_temp": 17.2,
+    "min_temp": 8.0
+  },
+  {
+    "city": "Macei\u00f3",
+    "date": "2023-11-14",
+    "latitude": "-9.6476843",
+    "longitude": "-35.7339264",
+    "max_temp": 30.0,
+    "min_temp": 24.5
+  },
+  {
+    "city": "Monrovia",
+    "date": "2023-11-14",
+    "latitude": "6.328034",
+    "longitude": "-10.797788",
+    "max_temp": 31.0,
+    "min_temp": 26.1
+  },
+  {
+    "city": "Wafangdian",
+    "date": "2023-11-14",
+    "latitude": "39.6236752",
+    "longitude": "122.005039",
+    "max_temp": 9.1,
+    "min_temp": -2.2
+  },
+  {
+    "city": "Zhongxiang",
+    "date": "2023-11-14",
+    "latitude": "31.1702322",
+    "longitude": "112.5823331",
+    "max_temp": 14.6,
+    "min_temp": 4.9
+  },
+  {
+    "city": "Louisville",
+    "date": "2023-11-14",
+    "latitude": "38.2542376",
+    "longitude": "-85.759407",
+    "max_temp": 16.9,
+    "min_temp": 1.8
+  },
+  {
+    "city": "Odesa",
+    "date": "2023-11-14",
+    "latitude": "39.457334",
+    "longitude": "-75.6613184",
+    "max_temp": 13.2,
+    "min_temp": 1.6
+  },
+  {
+    "city": "Th\u1ee7 \u0110\u1ee9c",
+    "date": "2023-11-14",
+    "latitude": "10.8298295",
+    "longitude": "106.7617899",
+    "max_temp": 32.8,
+    "min_temp": 25.0
+  },
+  {
+    "city": "Volgograd",
+    "date": "2023-11-14",
+    "latitude": "48.7081906",
+    "longitude": "44.5153353",
+    "max_temp": 6.4,
+    "min_temp": 3.4
+  },
+  {
+    "city": "Islamabad",
+    "date": "2023-11-14",
+    "latitude": "31.60499265",
+    "longitude": "74.40148684774945",
+    "max_temp": 25.0,
+    "min_temp": 13.8
+  },
+  {
+    "city": "Port-au-Prince",
+    "date": "2023-11-14",
+    "latitude": "18.547327",
+    "longitude": "-72.3395928",
+    "max_temp": 34.0,
+    "min_temp": 22.5
+  },
+  {
+    "city": "Xinyi",
+    "date": "2023-11-14",
+    "latitude": "22.3580316",
+    "longitude": "110.942291",
+    "max_temp": 23.6,
+    "min_temp": 15.9
+  },
+  {
+    "city": "Raipur",
+    "date": "2023-11-14",
+    "latitude": "21.2380912",
+    "longitude": "81.6336993",
+    "max_temp": 30.0,
+    "min_temp": 19.0
+  },
+  {
+    "city": "Arequipa",
+    "date": "2023-11-14",
+    "latitude": "-16.0",
+    "longitude": "-72.25",
+    "max_temp": 37.6,
+    "min_temp": 31.1
+  },
+  {
+    "city": "Richmond",
+    "date": "2023-11-14",
+    "latitude": "37.5385087",
+    "longitude": "-77.43428",
+    "max_temp": 14.9,
+    "min_temp": 1.0
+  },
+  {
+    "city": "Zaoyang",
+    "date": "2023-11-14",
+    "latitude": "32.1307686",
+    "longitude": "112.7665716",
+    "max_temp": 14.6,
+    "min_temp": 4.3
+  },
+  {
+    "city": "Buffalo",
+    "date": "2023-11-14",
+    "latitude": "37.7097669",
+    "longitude": "-95.6974822",
+    "max_temp": 17.5,
+    "min_temp": 2.8
+  },
+  {
+    "city": "Shuizhai",
+    "date": "2023-11-14",
+    "latitude": "25.547752",
+    "longitude": "109.315191",
+    "max_temp": 12.5,
+    "min_temp": 9.2
+  },
+  {
+    "city": "Xingyi",
+    "date": "2023-11-14",
+    "latitude": "24.6581594",
+    "longitude": "116.9725672",
+    "max_temp": 17.8,
+    "min_temp": 12.5
+  },
+  {
+    "city": "Kota",
+    "date": "2023-11-14",
+    "latitude": "25.1737019",
+    "longitude": "75.8574194",
+    "max_temp": 27.5,
+    "min_temp": 17.0
+  },
+  {
+    "city": "Quetta",
+    "date": "2023-11-14",
+    "latitude": "-23.1360145",
+    "longitude": "146.95107755720153",
+    "max_temp": 35.7,
+    "min_temp": 22.3
+  },
+  {
+    "city": "Kathmandu",
+    "date": "2023-11-14",
+    "latitude": "27.708317",
+    "longitude": "85.3205817",
+    "max_temp": 24.6,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Ottawa",
+    "date": "2023-11-14",
+    "latitude": "45.4208777",
+    "longitude": "-75.6901106",
+    "max_temp": 5.2,
+    "min_temp": -0.9
+  },
+  {
+    "city": "Lilongwe",
+    "date": "2023-11-14",
+    "latitude": "-13.9875107",
+    "longitude": "33.768144",
+    "max_temp": 28.3,
+    "min_temp": 18.7
+  },
+  {
+    "city": "Asmara",
+    "date": "2023-11-14",
+    "latitude": "15.3389667",
+    "longitude": "38.9326763",
+    "max_temp": 19.4,
+    "min_temp": 13.5
+  },
+  {
+    "city": "Freetown",
+    "date": "2023-11-14",
+    "latitude": "8.479004",
+    "longitude": "-13.26795",
+    "max_temp": 31.2,
+    "min_temp": 26.5
+  },
+  {
+    "city": "Vientiane",
+    "date": "2023-11-14",
+    "latitude": "17.9640988",
+    "longitude": "102.6133707",
+    "max_temp": 30.2,
+    "min_temp": 21.1
+  },
+  {
+    "city": "Jerusalem",
+    "date": "2023-11-14",
+    "latitude": "31.78847185",
+    "longitude": "35.21879441094499",
+    "max_temp": 19.5,
+    "min_temp": 14.3
+  },
+  {
+    "city": "Riga",
+    "date": "2023-11-14",
+    "latitude": "56.9493977",
+    "longitude": "24.1051846",
+    "max_temp": 5.8,
+    "min_temp": 1.4
+  },
+  {
+    "city": "Bangui",
+    "date": "2023-11-14",
+    "latitude": "4.3635118",
+    "longitude": "18.5835913",
+    "max_temp": 30.3,
+    "min_temp": 23.8
+  },
+  {
+    "city": "Dushanbe",
+    "date": "2023-11-14",
+    "latitude": "38.5762709",
+    "longitude": "68.7863573",
+    "max_temp": 20.2,
+    "min_temp": 1.8
+  },
+  {
+    "city": "Lom\u00e9",
+    "date": "2023-11-14",
+    "latitude": "6.15803455",
+    "longitude": "1.2516823732466333",
+    "max_temp": 32.3,
+    "min_temp": 26.9
+  },
+  {
+    "city": "Ashgabat",
+    "date": "2023-11-14",
+    "latitude": "37.9404648",
+    "longitude": "58.3823487",
+    "max_temp": 22.3,
+    "min_temp": 8.0
+  },
+  {
+    "city": "Zagreb",
+    "date": "2023-11-14",
+    "latitude": "45.8130967",
+    "longitude": "15.9772795",
+    "max_temp": 17.5,
+    "min_temp": 9.6
+  },
+  {
+    "city": "Libreville",
+    "date": "2023-11-14",
+    "latitude": "0.4086518",
+    "longitude": "9.4418849",
+    "max_temp": 31.1,
+    "min_temp": 26.1
+  },
+  {
+    "city": "Cotonou",
+    "date": "2023-11-14",
+    "latitude": "6.3676953",
+    "longitude": "2.4252507",
+    "max_temp": 32.8,
+    "min_temp": 27.7
+  },
+  {
+    "city": "Pretoria",
+    "date": "2023-11-14",
+    "latitude": "-25.7459277",
+    "longitude": "28.1879101",
+    "max_temp": 21.0,
+    "min_temp": 13.2
+  },
+  {
+    "city": "Vilnius",
+    "date": "2023-11-14",
+    "latitude": "54.6870458",
+    "longitude": "25.2829111",
+    "max_temp": 5.0,
+    "min_temp": 2.2
+  },
+  {
+    "city": "Winnipeg",
+    "date": "2023-11-14",
+    "latitude": "49.8955367",
+    "longitude": "-97.1384584",
+    "max_temp": 11.6,
+    "min_temp": 1.8
+  },
+  {
+    "city": "Quebec City",
+    "date": "2023-11-14",
+    "latitude": "46.8137431",
+    "longitude": "-71.2084061",
+    "max_temp": 2.0,
+    "min_temp": -4.9
+  },
+  {
+    "city": "Chisinau",
+    "date": "2023-11-14",
+    "latitude": "47.0245117",
+    "longitude": "28.8322923",
+    "max_temp": 12.1,
+    "min_temp": 2.0
+  },
+  {
+    "city": "Port Moresby",
+    "date": "2023-11-14",
+    "latitude": "-9.4743301",
+    "longitude": "147.1599504",
+    "max_temp": 32.4,
+    "min_temp": 21.6
+  },
+  {
+    "city": "Skopje",
+    "date": "2023-11-14",
+    "latitude": "41.9961816",
+    "longitude": "21.4319213",
+    "max_temp": 14.8,
+    "min_temp": 5.1
+  },
+  {
+    "city": "Djibouti",
+    "date": "2023-11-14",
+    "latitude": "11.8145966",
+    "longitude": "42.8453061",
+    "max_temp": 32.3,
+    "min_temp": 25.8
+  },
+  {
+    "city": "Gaza",
+    "date": "2023-11-14",
+    "latitude": "-23.328398",
+    "longitude": "32.8066057",
+    "max_temp": 23.0,
+    "min_temp": 17.8
+  },
+  {
+    "city": "Kingston",
+    "date": "2023-11-14",
+    "latitude": "17.9712148",
+    "longitude": "-76.7928128",
+    "max_temp": 32.4,
+    "min_temp": 24.5
+  },
+  {
+    "city": "Rabat",
+    "date": "2023-11-14",
+    "latitude": "34.02236",
+    "longitude": "-6.8340222",
+    "max_temp": 26.2,
+    "min_temp": 12.5
+  },
+  {
+    "city": "San Salvador",
+    "date": "2023-11-14",
+    "latitude": "-0.26019000000000003",
+    "longitude": "-90.72254665048543",
+    "max_temp": 26.2,
+    "min_temp": 21.2
+  },
+  {
+    "city": "The Hague",
+    "date": "2023-11-14",
+    "latitude": "52.07494555",
+    "longitude": "4.2696802205364515",
+    "max_temp": 13.2,
+    "min_temp": 10.9
+  },
+  {
+    "city": "Asunci\u00f3n",
+    "date": "2023-11-14",
+    "latitude": "-25.2800459",
+    "longitude": "-57.6343814",
+    "max_temp": 27.7,
+    "min_temp": 24.6
+  },
+  {
+    "city": "Juba",
+    "date": "2023-11-14",
+    "latitude": "4.8459246",
+    "longitude": "31.5959173",
+    "max_temp": 30.8,
+    "min_temp": 24.1
+  },
+  {
+    "city": "Maseru",
+    "date": "2023-11-14",
+    "latitude": "-29.5816942",
+    "longitude": "27.8243208",
+    "max_temp": 16.8,
+    "min_temp": 3.6
+  },
+  {
+    "city": "Bissau",
+    "date": "2023-11-14",
+    "latitude": "11.87018055",
+    "longitude": "-15.607704564772728",
+    "max_temp": 35.1,
+    "min_temp": 23.6
+  },
+  {
+    "city": "Valletta",
+    "date": "2023-11-14",
+    "latitude": "35.8989818",
+    "longitude": "14.5136759",
+    "max_temp": 24.0,
+    "min_temp": 18.8
+  },
+  {
+    "city": "Bratislava",
+    "date": "2023-11-14",
+    "latitude": "48.15926025",
+    "longitude": "17.139658691421687",
+    "max_temp": 14.9,
+    "min_temp": 6.8
+  },
+  {
+    "city": "Kitchener",
+    "date": "2023-11-14",
+    "latitude": "43.451291",
+    "longitude": "-80.4927815",
+    "max_temp": 8.4,
+    "min_temp": 3.2
+  },
+  {
+    "city": "Manama",
+    "date": "2023-11-14",
+    "latitude": "-8.79691",
+    "longitude": "125.45785",
+    "max_temp": 28.1,
+    "min_temp": 16.3
+  },
+  {
+    "city": "Tallinn",
+    "date": "2023-11-14",
+    "latitude": "59.4372155",
+    "longitude": "24.7453688",
+    "max_temp": 2.9,
+    "min_temp": 1.8
+  },
+  {
+    "city": "Beirut",
+    "date": "2023-11-14",
+    "latitude": "33.88922645",
+    "longitude": "35.50255852895232",
+    "max_temp": 23.4,
+    "min_temp": 19.2
+  },
+  {
+    "city": "Cape Town",
+    "date": "2023-11-14",
+    "latitude": "-33.928992",
+    "longitude": "18.417396",
+    "max_temp": 31.9,
+    "min_temp": 15.6
+  },
+  {
+    "city": "Tirana",
+    "date": "2023-11-14",
+    "latitude": "41.3281482",
+    "longitude": "19.8184435",
+    "max_temp": 18.4,
+    "min_temp": 7.6
+  },
+  {
+    "city": "Sarajevo",
+    "date": "2023-11-14",
+    "latitude": "43.8519774",
+    "longitude": "18.3866868",
+    "max_temp": 17.3,
+    "min_temp": 5.8
+  },
+  {
+    "city": "Wellington",
+    "date": "2023-11-14",
+    "latitude": "-41.2887953",
+    "longitude": "174.7772114",
+    "max_temp": 18.1,
+    "min_temp": 13.4
+  },
+  {
+    "city": "Banjul",
+    "date": "2023-11-14",
+    "latitude": "13.4410165",
+    "longitude": "-16.56275092072591",
+    "max_temp": 38.6,
+    "min_temp": 23.4
+  },
+  {
+    "city": "Halifax",
+    "date": "2023-11-14",
+    "latitude": "44.648618",
+    "longitude": "-63.5859487",
+    "max_temp": 4.2,
+    "min_temp": -0.2
+  },
+  {
+    "city": "Canberra",
+    "date": "2023-11-14",
+    "latitude": "-35.2975906",
+    "longitude": "149.1012676",
+    "max_temp": 22.8,
+    "min_temp": 14.5
+  },
+  {
+    "city": "Yamoussoukro",
+    "date": "2023-11-14",
+    "latitude": "6.8200066",
+    "longitude": "-5.2776034",
+    "max_temp": 31.5,
+    "min_temp": 24.1
+  },
+  {
+    "city": "Victoria",
+    "date": "2023-11-14",
+    "latitude": "-36.5986096",
+    "longitude": "144.6780052",
+    "max_temp": 18.8,
+    "min_temp": 8.4
+  },
+  {
+    "city": "Nicosia",
+    "date": "2023-11-14",
+    "latitude": "37.747452",
+    "longitude": "14.397271",
+    "max_temp": 23.2,
+    "min_temp": 11.2
+  },
+  {
+    "city": "Windhoek",
+    "date": "2023-11-14",
+    "latitude": "-22.5776104",
+    "longitude": "17.0772739",
+    "max_temp": 33.9,
+    "min_temp": 19.6
+  },
+  {
+    "city": "Saint-Denis",
+    "date": "2023-11-14",
+    "latitude": "48.935773",
+    "longitude": "2.3580232",
+    "max_temp": 13.2,
+    "min_temp": 10.9
+  },
+  {
+    "city": "Porto-Novo",
+    "date": "2023-11-14",
+    "latitude": "6.4990718",
+    "longitude": "2.6253361",
+    "max_temp": 33.7,
+    "min_temp": 26.2
+  },
+  {
+    "city": "Sucre",
+    "date": "2023-11-14",
+    "latitude": "-19.0477251",
+    "longitude": "-65.2594306",
+    "max_temp": 25.6,
+    "min_temp": 12.1
+  },
+  {
+    "city": "Ljubljana",
+    "date": "2023-11-14",
+    "latitude": "46.0500268",
+    "longitude": "14.5069289",
+    "max_temp": 13.8,
+    "min_temp": 6.7
+  },
+  {
+    "city": "Nassau",
+    "date": "2023-11-14",
+    "latitude": "25.0782266",
+    "longitude": "-77.3383438",
+    "max_temp": 27.9,
+    "min_temp": 23.4
+  },
+  {
+    "city": "Bloemfontein",
+    "date": "2023-11-14",
+    "latitude": "-29.116395",
+    "longitude": "26.215496",
+    "max_temp": 28.8,
+    "min_temp": 10.5
+  },
+  {
+    "city": "Fort-de-France",
+    "date": "2023-11-14",
+    "latitude": "14.6027962",
+    "longitude": "-61.0676724",
+    "max_temp": 29.1,
+    "min_temp": 26.3
+  },
+  {
+    "city": "New Delhi",
+    "date": "2023-11-14",
+    "latitude": "28.6138954",
+    "longitude": "77.2090057",
+    "max_temp": 24.7,
+    "min_temp": 14.8
+  },
+  {
+    "city": "Gaborone",
+    "date": "2023-11-14",
+    "latitude": "-24.6581357",
+    "longitude": "25.9088474",
+    "max_temp": 30.3,
+    "min_temp": 18.4
+  },
+  {
+    "city": "Paramaribo",
+    "date": "2023-11-14",
+    "latitude": "5.8241764499999995",
+    "longitude": "-55.16628130970069",
+    "max_temp": 32.5,
+    "min_temp": 26.1
+  },
+  {
+    "city": "Dili",
+    "date": "2023-11-14",
+    "latitude": "-8.5536809",
+    "longitude": "125.5784093",
+    "max_temp": 32.9,
+    "min_temp": 28.1
+  },
+  {
+    "city": "Dodoma",
+    "date": "2023-11-14",
+    "latitude": "-6.1791181",
+    "longitude": "35.7468174",
+    "max_temp": 30.4,
+    "min_temp": 19.5
+  },
+  {
+    "city": "Georgetown",
+    "date": "2023-11-14",
+    "latitude": "6.8137426",
+    "longitude": "-58.1624465",
+    "max_temp": 32.9,
+    "min_temp": 25.0
+  },
+  {
+    "city": "Gibraltar",
+    "date": "2023-11-14",
+    "latitude": "36.1285933",
+    "longitude": "-5.3474761",
+    "max_temp": 22.1,
+    "min_temp": 11.6
+  },
+  {
+    "city": "Malabo",
+    "date": "2023-11-14",
+    "latitude": "3.741877",
+    "longitude": "8.7740663",
+    "max_temp": 30.7,
+    "min_temp": 26.0
+  },
+  {
+    "city": "Suva",
+    "date": "2023-11-14",
+    "latitude": "-18.1415884",
+    "longitude": "178.4421662",
+    "max_temp": 28.4,
+    "min_temp": 25.6
+  },
+  {
+    "city": "Noum\u00e9a",
+    "date": "2023-11-14",
+    "latitude": "-22.2745264",
+    "longitude": "166.442419",
+    "max_temp": 25.9,
+    "min_temp": 21.1
+  },
+  {
+    "city": "Pristina",
+    "date": "2023-11-14",
+    "latitude": "42.6638771",
+    "longitude": "21.1640849",
+    "max_temp": 15.5,
+    "min_temp": 2.8
+  },
+  {
+    "city": "Male",
+    "date": "2023-11-14",
+    "latitude": "8.1476927",
+    "longitude": "-10.904009",
+    "max_temp": 32.5,
+    "min_temp": 23.8
+  },
+  {
+    "city": "Port Louis",
+    "date": "2023-11-14",
+    "latitude": "-20.1624522",
+    "longitude": "57.5028044",
+    "max_temp": 29.3,
+    "min_temp": 21.6
+  },
+  {
+    "city": "Podgorica",
+    "date": "2023-11-14",
+    "latitude": "42.4415238",
+    "longitude": "19.2621081",
+    "max_temp": 16.0,
+    "min_temp": 6.4
+  },
+  {
+    "city": "Willemstad",
+    "date": "2023-11-14",
+    "latitude": "12.110006949999999",
+    "longitude": "-68.9370850600204",
+    "max_temp": 29.3,
+    "min_temp": 27.8
+  },
+  {
+    "city": "Bern",
+    "date": "2023-11-14",
+    "latitude": "46.9484742",
+    "longitude": "7.4521749",
+    "max_temp": 14.5,
+    "min_temp": 9.5
+  },
+  {
+    "city": "Gitega",
+    "date": "2023-11-14",
+    "latitude": "-3.5382336",
+    "longitude": "29.910701",
+    "max_temp": 22.4,
+    "min_temp": 15.5
+  },
+  {
+    "city": "Reykjav\u00edk",
+    "date": "2023-11-14",
+    "latitude": "64.145981",
+    "longitude": "-21.9422367",
+    "max_temp": 6.6,
+    "min_temp": 4.2
+  },
+  {
+    "city": "Luxembourg",
+    "date": "2023-11-14",
+    "latitude": "49.6112768",
+    "longitude": "6.129799",
+    "max_temp": 11.1,
+    "min_temp": 9.0
+  },
+  {
+    "city": "Papeete",
+    "date": "2023-11-14",
+    "latitude": "-17.5373835",
+    "longitude": "-149.5659964",
+    "max_temp": 27.5,
+    "min_temp": 26.7
+  },
+  {
+    "city": "Praia",
+    "date": "2023-11-14",
+    "latitude": "14.9162811",
+    "longitude": "-23.5095095",
+    "max_temp": 30.6,
+    "min_temp": 25.8
+  },
+  {
+    "city": "Sri Jayewardenepura Kotte",
+    "date": "2023-11-14",
+    "latitude": "6.8883219",
+    "longitude": "79.9187415",
+    "max_temp": 29.6,
+    "min_temp": 24.9
+  },
+  {
+    "city": "Bridgetown",
+    "date": "2023-11-14",
+    "latitude": "13.0977832",
+    "longitude": "-59.6184184",
+    "max_temp": 29.6,
+    "min_temp": 26.8
+  },
+  {
+    "city": "Moroni",
+    "date": "2023-11-14",
+    "latitude": "-11.6931255",
+    "longitude": "43.2543044",
+    "max_temp": 29.7,
+    "min_temp": 25.8
+  },
+  {
+    "city": "Thimphu",
+    "date": "2023-11-14",
+    "latitude": "27.4781469",
+    "longitude": "89.62627973726109",
+    "max_temp": 15.9,
+    "min_temp": 6.0
+  },
+  {
+    "city": "Mbabane",
+    "date": "2023-11-14",
+    "latitude": "-26.325745",
+    "longitude": "31.144663",
+    "max_temp": 13.2,
+    "min_temp": 11.2
+  },
+  {
+    "city": "Honiara",
+    "date": "2023-11-14",
+    "latitude": "-9.437797549999999",
+    "longitude": "159.9624174786047",
+    "max_temp": 29.5,
+    "min_temp": 23.0
+  },
+  {
+    "city": "Port of Spain",
+    "date": "2023-11-14",
+    "latitude": "10.6572678",
+    "longitude": "-61.5180173",
+    "max_temp": 29.6,
+    "min_temp": 24.9
+  },
+  {
+    "city": "Castries",
+    "date": "2023-11-14",
+    "latitude": "43.6779101",
+    "longitude": "3.9868904",
+    "max_temp": 22.3,
+    "min_temp": 12.2
+  },
+  {
+    "city": "Putrajaya",
+    "date": "2023-11-14",
+    "latitude": "2.9140567",
+    "longitude": "101.6838531",
+    "max_temp": 29.1,
+    "min_temp": 24.8
+  },
+  {
+    "city": "Cayenne",
+    "date": "2023-11-14",
+    "latitude": "4.9371143",
+    "longitude": "-52.3258307",
+    "max_temp": 30.7,
+    "min_temp": 25.9
+  },
+  {
+    "city": "S\u00e3o Tom\u00e9",
+    "date": "2023-11-14",
+    "latitude": "0.3389242",
+    "longitude": "6.7313031",
+    "max_temp": 29.4,
+    "min_temp": 25.6
+  },
+  {
+    "city": "Port-Vila",
+    "date": "2023-11-14",
+    "latitude": "-17.7414972",
+    "longitude": "168.3150163",
+    "max_temp": 25.7,
+    "min_temp": 22.6
+  },
+  {
+    "city": "Bandar Seri Begawan",
+    "date": "2023-11-14",
+    "latitude": "4.8895453",
+    "longitude": "114.9417574",
+    "max_temp": 32.0,
+    "min_temp": 24.8
+  },
+  {
+    "city": "Monaco",
+    "date": "2023-11-14",
+    "latitude": "43.7323492",
+    "longitude": "7.4276832",
+    "max_temp": 23.0,
+    "min_temp": 14.5
+  },
+  {
+    "city": "Apia",
+    "date": "2023-11-14",
+    "latitude": "-13.8344639",
+    "longitude": "-171.7649144",
+    "max_temp": 33.1,
+    "min_temp": 26.5
+  },
+  {
+    "city": "Tarawa",
+    "date": "2023-11-14",
+    "latitude": "1.4845541999999998",
+    "longitude": "172.96896482000938",
+    "max_temp": 29.2,
+    "min_temp": 28.2
+  },
+  {
+    "city": "Oranjestad",
+    "date": "2023-11-14",
+    "latitude": "12.5268736",
+    "longitude": "-70.0356845",
+    "max_temp": 30.1,
+    "min_temp": 27.9
+  },
+  {
+    "city": "Saint Helier",
+    "date": "2023-11-14",
+    "latitude": "47.3843871",
+    "longitude": "4.6833254",
+    "max_temp": 13.8,
+    "min_temp": 9.5
+  },
+  {
+    "city": "Mamoudzou",
+    "date": "2023-11-14",
+    "latitude": "-12.7804136",
+    "longitude": "45.2279761",
+    "max_temp": 31.3,
+    "min_temp": 26.6
+  },
+  {
+    "city": "Majuro",
+    "date": "2023-11-14",
+    "latitude": "7.0909924",
+    "longitude": "171.3816354",
+    "max_temp": 28.8,
+    "min_temp": 27.8
+  },
+  {
+    "city": "Douglas",
+    "date": "2023-11-14",
+    "latitude": "39.7628415",
+    "longitude": "-88.2170516",
+    "max_temp": 16.6,
+    "min_temp": -3.0
+  },
+  {
+    "city": "George Town",
+    "date": "2023-11-14",
+    "latitude": "5.4141619",
+    "longitude": "100.3287352",
+    "max_temp": 31.0,
+    "min_temp": 26.4
+  },
+  {
+    "city": "Victoria",
+    "date": "2023-11-14",
+    "latitude": "-36.5986096",
+    "longitude": "144.6780052",
+    "max_temp": 18.8,
+    "min_temp": 8.4
+  },
+  {
+    "city": "Kingstown",
+    "date": "2023-11-14",
+    "latitude": "13.1561864",
+    "longitude": "-61.2279621",
+    "max_temp": 28.7,
+    "min_temp": 27.6
+  },
+  {
+    "city": "Andorra la Vella",
+    "date": "2023-11-14",
+    "latitude": "42.5069391",
+    "longitude": "1.5212467",
+    "max_temp": 17.9,
+    "min_temp": 10.6
+  },
+  {
+    "city": "Saint John\u2019s",
+    "date": "2023-11-14",
+    "latitude": "17.1184569",
+    "longitude": "-61.8448509",
+    "max_temp": 28.5,
+    "min_temp": 26.5
+  },
+  {
+    "city": "Nuku\u2018alofa",
+    "date": "2023-11-14",
+    "latitude": "-21.1343401",
+    "longitude": "-175.201808",
+    "max_temp": 25.6,
+    "min_temp": 23.7
+  },
+  {
+    "city": "Nuuk",
+    "date": "2023-11-14",
+    "latitude": "64.1766835",
+    "longitude": "-51.7359356",
+    "max_temp": -2.2,
+    "min_temp": -5.2
+  },
+  {
+    "city": "Belmopan",
+    "date": "2023-11-14",
+    "latitude": "17.250199",
+    "longitude": "-88.770018",
+    "max_temp": 28.2,
+    "min_temp": 23.6
+  },
+  {
+    "city": "Roseau",
+    "date": "2023-11-14",
+    "latitude": "48.7710371",
+    "longitude": "-95.7697882",
+    "max_temp": 11.7,
+    "min_temp": 2.5
+  },
+  {
+    "city": "Basseterre",
+    "date": "2023-11-14",
+    "latitude": "17.2960919",
+    "longitude": "-62.722301",
+    "max_temp": 28.1,
+    "min_temp": 26.1
+  },
+  {
+    "city": "T\u00f3rshavn",
+    "date": "2023-11-14",
+    "latitude": "62.012",
+    "longitude": "-6.768",
+    "max_temp": 6.8,
+    "min_temp": 5.9
+  },
+  {
+    "city": "Road Town",
+    "date": "2023-11-14",
+    "latitude": "18.4257128",
+    "longitude": "-64.6232227",
+    "max_temp": 28.3,
+    "min_temp": 27.0
+  },
+  {
+    "city": "Pago Pago",
+    "date": "2023-11-14",
+    "latitude": "-14.2754786",
+    "longitude": "-170.7048298",
+    "max_temp": 29.8,
+    "min_temp": 27.3
+  },
+  {
+    "city": "Grand Turk",
+    "date": "2023-11-14",
+    "latitude": "21.467964000000002",
+    "longitude": "-71.13872175290959",
+    "max_temp": 27.6,
+    "min_temp": 27.0
+  },
+  {
+    "city": "Marigot",
+    "date": "2023-11-14",
+    "latitude": "18.0668544",
+    "longitude": "-63.0848869",
+    "max_temp": 28.3,
+    "min_temp": 26.8
+  },
+  {
+    "city": "Palikir",
+    "date": "2023-11-14",
+    "latitude": "6.920744",
+    "longitude": "158.1627143",
+    "max_temp": 27.4,
+    "min_temp": 26.2
+  },
+  {
+    "city": "Funafuti",
+    "date": "2023-11-14",
+    "latitude": "-8.5199633",
+    "longitude": "179.1982548",
+    "max_temp": 29.8,
+    "min_temp": 28.6
+  },
+  {
+    "city": "Vaduz",
+    "date": "2023-11-14",
+    "latitude": "47.1392862",
+    "longitude": "9.5227962",
+    "max_temp": 14.6,
+    "min_temp": 9.5
+  },
+  {
+    "city": "Lobamba",
+    "date": "2023-11-14",
+    "latitude": "-26.4462848",
+    "longitude": "31.2083781",
+    "max_temp": 16.7,
+    "min_temp": 13.2
+  },
+  {
+    "city": "Avarua",
+    "date": "2023-11-14",
+    "latitude": "-21.2074736",
+    "longitude": "-159.7708145",
+    "max_temp": 22.8,
+    "min_temp": 20.6
+  },
+  {
+    "city": "Saint George\u2019s",
+    "date": "2023-11-14",
+    "latitude": "12.0535331",
+    "longitude": "-61.751805",
+    "max_temp": 28.0,
+    "min_temp": 26.1
+  },
+  {
+    "city": "San Marino",
+    "date": "2023-11-14",
+    "latitude": "43.9458623",
+    "longitude": "12.458306",
+    "max_temp": 19.0,
+    "min_temp": 13.2
+  },
+  {
+    "city": "Tifariti",
+    "date": "2023-11-14",
+    "latitude": "26.159504",
+    "longitude": "-10.558991",
+    "max_temp": 32.8,
+    "min_temp": 21.4
+  },
+  {
+    "city": "Philipsburg",
+    "date": "2023-11-14",
+    "latitude": "18.0250713",
+    "longitude": "-63.0483073",
+    "max_temp": 28.3,
+    "min_temp": 26.8
+  },
+  {
+    "city": "Capitol Hill",
+    "date": "2023-11-14",
+    "latitude": "38.8890009",
+    "longitude": "-77.0002537",
+    "max_temp": 14.4,
+    "min_temp": 3.2
+  },
+  {
+    "city": "Stanley",
+    "date": "2023-11-14",
+    "latitude": "-51.6930616",
+    "longitude": "-57.856525",
+    "max_temp": 7.4,
+    "min_temp": 4.9
+  },
+  {
+    "city": "Hamilton",
+    "date": "2023-11-14",
+    "latitude": "43.2560802",
+    "longitude": "-79.8728583",
+    "max_temp": 9.8,
+    "min_temp": 5.1
+  },
+  {
+    "city": "Vatican City",
+    "date": "2023-11-14",
+    "latitude": "41.903411",
+    "longitude": "12.4528527",
+    "max_temp": 20.8,
+    "min_temp": 17.6
+  },
+  {
+    "city": "Alofi",
+    "date": "2023-11-14",
+    "latitude": "-19.0534159",
+    "longitude": "-169.919199",
+    "max_temp": 26.6,
+    "min_temp": 25.8
+  },
+  {
+    "city": "Basse-Terre",
+    "date": "2023-11-14",
+    "latitude": "16.0000778",
+    "longitude": "-61.7333373",
+    "max_temp": 29.6,
+    "min_temp": 25.0
+  },
+  {
+    "city": "Hag\u00e5t\u00f1a",
+    "date": "2023-11-14",
+    "latitude": "13.4727446",
+    "longitude": "144.75201822544284",
+    "max_temp": 30.3,
+    "min_temp": 27.5
+  },
+  {
+    "city": "Jamestown",
+    "date": "2023-11-14",
+    "latitude": "37.2089184",
+    "longitude": "-76.7783003",
+    "max_temp": 14.9,
+    "min_temp": 3.6
+  },
+  {
+    "city": "Brades",
+    "date": "2023-11-14",
+    "latitude": "16.7890601",
+    "longitude": "-62.208731",
+    "max_temp": 27.7,
+    "min_temp": 26.8
+  },
+  {
+    "city": "Yaren",
+    "date": "2023-11-14",
+    "latitude": "-0.5469030500000001",
+    "longitude": "166.92235277906863",
+    "max_temp": 28.9,
+    "min_temp": 27.3
+  },
+  {
+    "city": "Gustavia",
+    "date": "2023-11-14",
+    "latitude": "17.8957043",
+    "longitude": "-62.8508372",
+    "max_temp": 28.1,
+    "min_temp": 27.1
+  },
+  {
+    "city": "Ngerulmud",
+    "date": "2023-11-14",
+    "latitude": "7.5006446",
+    "longitude": "134.6242864",
+    "max_temp": 29.1,
+    "min_temp": 26.5
+  },
+  {
+    "city": "Saint-Pierre",
+    "date": "2023-11-14",
+    "latitude": "48.3832725",
+    "longitude": "7.4718731",
+    "max_temp": 14.4,
+    "min_temp": 9.7
+  },
+  {
+    "city": "The Valley",
+    "date": "2023-11-14",
+    "latitude": "51.486391499999996",
+    "longitude": "0.03615848943681707",
+    "max_temp": 13.4,
+    "min_temp": 9.6
+  },
+  {
+    "city": "Mata-Utu",
+    "date": "2023-11-14",
+    "latitude": "-13.2820419",
+    "longitude": "-176.1740224",
+    "max_temp": 29.2,
+    "min_temp": 28.6
+  },
+  {
+    "city": "Kingston",
+    "date": "2023-11-14",
+    "latitude": "17.9712148",
+    "longitude": "-76.7928128",
+    "max_temp": 32.4,
+    "min_temp": 24.5
+  },
+  {
+    "city": "Longyearbyen",
+    "date": "2023-11-14",
+    "latitude": "78.2231558",
+    "longitude": "15.6463656",
+    "max_temp": -12.9,
+    "min_temp": -18.3
+  },
+  {
+    "city": "Adamstown",
+    "date": "2023-11-14",
+    "latitude": "-25.066667",
+    "longitude": "-130.100205",
+    "max_temp": 23.6,
+    "min_temp": 23.2
+  },
+  {
+    "city": "Flying Fish Cove",
+    "date": "2023-11-14",
+    "latitude": "-10.4213344",
+    "longitude": "105.674413",
+    "max_temp": 27.8,
+    "min_temp": 26.2
+  },
+  {
+    "city": "King Edward Point",
+    "date": "2023-11-14",
+    "latitude": "-54.283545",
+    "longitude": "-36.4946355",
+    "max_temp": 5.5,
+    "min_temp": 2.0
+  },
+  {
+    "city": "Bareilly",
+    "date": "2023-11-14",
+    "latitude": "28.416667",
+    "longitude": "79.383333",
+    "max_temp": 25.6,
+    "min_temp": 14.5
+  },
+  {
+    "city": "Qu\u1ea3ng H\u00e0",
+    "date": "2023-11-14",
+    "latitude": "10.6508333",
+    "longitude": "107.3177778",
+    "max_temp": 31.8,
+    "min_temp": 23.6
+  },
+  {
+    "city": "Oklahoma City",
+    "date": "2023-11-14",
+    "latitude": "35.4729886",
+    "longitude": "-97.5170536",
+    "max_temp": 19.1,
+    "min_temp": 5.0
+  },
+  {
+    "city": "Xingcheng",
+    "date": "2023-11-14",
+    "latitude": "40.5621218",
+    "longitude": "120.4793038",
+    "max_temp": 7.2,
+    "min_temp": -4.6
+  },
+  {
+    "city": "Dongtai",
+    "date": "2023-11-14",
+    "latitude": "32.8536216",
+    "longitude": "120.3122464",
+    "max_temp": 11.4,
+    "min_temp": 2.8
+  },
+  {
+    "city": "Yingcheng",
+    "date": "2023-11-14",
+    "latitude": "30.9333642",
+    "longitude": "113.5664812",
+    "max_temp": 14.6,
+    "min_temp": 3.9
+  },
+  {
+    "city": "Chiba",
+    "date": "2023-11-14",
+    "latitude": "-0.6833",
+    "longitude": "37.3333",
+    "max_temp": 26.9,
+    "min_temp": 18.8
+  },
+  {
+    "city": "Al Mijlad",
+    "date": "2023-11-14",
+    "latitude": "11.033333",
+    "longitude": "27.733333",
+    "max_temp": 38.0,
+    "min_temp": 26.9
+  },
+  {
+    "city": "Pekanbaru",
+    "date": "2023-11-14",
+    "latitude": "0.5262455",
+    "longitude": "101.4515727",
+    "max_temp": 27.8,
+    "min_temp": 23.9
+  },
+  {
+    "city": "Luocheng",
+    "date": "2023-11-14",
+    "latitude": "24.7809847",
+    "longitude": "108.901036",
+    "max_temp": 12.4,
+    "min_temp": 8.7
+  },
+  {
+    "city": "Dnipro",
+    "date": "2023-11-14",
+    "latitude": "51.9191343",
+    "longitude": "30.8243039",
+    "max_temp": 5.4,
+    "min_temp": 1.1
+  },
+  {
+    "city": "Danyang",
+    "date": "2023-11-14",
+    "latitude": "-7.1119277",
+    "longitude": "110.9094715",
+    "max_temp": 35.6,
+    "min_temp": 25.8
+  },
+  {
+    "city": "God\u0113",
+    "date": "2023-11-14",
+    "latitude": "11.970546",
+    "longitude": "-2.370804",
+    "max_temp": 38.2,
+    "min_temp": 19.6
+  },
+  {
+    "city": "Natal",
+    "date": "2023-11-14",
+    "latitude": "-5.805398",
+    "longitude": "-35.2080905",
+    "max_temp": 30.0,
+    "min_temp": 25.7
+  },
+  {
+    "city": "Nada",
+    "date": "2023-11-14",
+    "latitude": "17.1215253",
+    "longitude": "76.0988939",
+    "max_temp": 30.8,
+    "min_temp": 21.7
+  },
+  {
+    "city": "Zamboanga City",
+    "date": "2023-11-14",
+    "latitude": "6.9046909",
+    "longitude": "122.076462",
+    "max_temp": 30.4,
+    "min_temp": 25.5
+  },
+  {
+    "city": "Kirkuk",
+    "date": "2023-11-14",
+    "latitude": "35.4719308",
+    "longitude": "44.3953896",
+    "max_temp": 26.5,
+    "min_temp": 17.6
+  },
+  {
+    "city": "Bridgeport",
+    "date": "2023-11-14",
+    "latitude": "41.1670412",
+    "longitude": "-73.2048348",
+    "max_temp": 10.5,
+    "min_temp": 1.4
+  },
+  {
+    "city": "Naples",
+    "date": "2023-11-14",
+    "latitude": "40.8358846",
+    "longitude": "14.2487679",
+    "max_temp": 20.3,
+    "min_temp": 17.2
+  },
+  {
+    "city": "Wuchuan",
+    "date": "2023-11-14",
+    "latitude": "21.4442923",
+    "longitude": "110.7736603",
+    "max_temp": 24.1,
+    "min_temp": 15.9
+  },
+  {
+    "city": "Huilong",
+    "date": "2023-11-14",
+    "latitude": "32.7019019",
+    "longitude": "115.4757064",
+    "max_temp": 13.3,
+    "min_temp": 1.7
+  },
+  {
+    "city": "Morelia",
+    "date": "2023-11-14",
+    "latitude": "19.7027116",
+    "longitude": "-101.1923818",
+    "max_temp": 24.7,
+    "min_temp": 13.0
+  },
+  {
+    "city": "M\u00e1laga",
+    "date": "2023-11-14",
+    "latitude": "36.7213028",
+    "longitude": "-4.4216366",
+    "max_temp": 25.1,
+    "min_temp": 12.8
+  },
+  {
+    "city": "Cebu City",
+    "date": "2023-11-14",
+    "latitude": "10.2931062",
+    "longitude": "123.9020773",
+    "max_temp": 31.3,
+    "min_temp": 27.3
+  },
+  {
+    "city": "Al Man\u015f\u016brah",
+    "date": "2023-11-14",
+    "latitude": "31.037566",
+    "longitude": "31.38649",
+    "max_temp": 25.6,
+    "min_temp": 16.9
+  },
+  {
+    "city": "Coimbatore",
+    "date": "2023-11-14",
+    "latitude": "11.0018115",
+    "longitude": "76.9628425",
+    "max_temp": 28.6,
+    "min_temp": 20.6
+  },
+  {
+    "city": "Santo Domingo Este",
+    "date": "2023-11-14",
+    "latitude": "18.4936515",
+    "longitude": "-69.8383703",
+    "max_temp": 30.6,
+    "min_temp": 23.0
+  },
+  {
+    "city": "Setagaya",
+    "date": "2023-11-14",
+    "latitude": "35.646096",
+    "longitude": "139.65627",
+    "max_temp": 17.0,
+    "min_temp": 9.1
+  },
+  {
+    "city": "S\u014fngnam",
+    "date": "2023-11-14",
+    "latitude": "37.4201556",
+    "longitude": "127.1262092",
+    "max_temp": 8.1,
+    "min_temp": -0.6
+  },
+  {
+    "city": "Taishan",
+    "date": "2023-11-14",
+    "latitude": "22.2541202",
+    "longitude": "112.7884998",
+    "max_temp": 20.5,
+    "min_temp": 14.7
+  },
+  {
+    "city": "Teresina",
+    "date": "2023-11-14",
+    "latitude": "-5.0874608",
+    "longitude": "-42.8049571",
+    "max_temp": 40.3,
+    "min_temp": 25.1
+  },
+  {
+    "city": "Sol\u0101pur",
+    "date": "2023-11-14",
+    "latitude": "17.84990665",
+    "longitude": "75.27632027348457",
+    "max_temp": 31.2,
+    "min_temp": 20.7
+  },
+  {
+    "city": "Tangier",
+    "date": "2023-11-14",
+    "latitude": "35.7642313",
+    "longitude": "-5.842961427833071",
+    "max_temp": 26.1,
+    "min_temp": 12.8
+  },
+  {
+    "city": "Kerm\u0101nsh\u0101h",
+    "date": "2023-11-14",
+    "latitude": "34.3239414",
+    "longitude": "47.0735891",
+    "max_temp": 20.2,
+    "min_temp": 7.3
+  },
+  {
+    "city": "Krasnodar",
+    "date": "2023-11-14",
+    "latitude": "45.0351532",
+    "longitude": "38.9772396",
+    "max_temp": 10.3,
+    "min_temp": 7.2
+  },
+  {
+    "city": "Baidoa",
+    "date": "2023-11-14",
+    "latitude": "3.1549999499999997",
+    "longitude": "43.584009230208295",
+    "max_temp": 27.5,
+    "min_temp": 22.4
+  },
+  {
+    "city": "Gaalkacyo",
+    "date": "2023-11-14",
+    "latitude": "6.769726",
+    "longitude": "47.430826",
+    "max_temp": 31.4,
+    "min_temp": 23.9
+  },
+  {
+    "city": "Anqiu",
+    "date": "2023-11-14",
+    "latitude": "36.4794705",
+    "longitude": "119.2129818",
+    "max_temp": 10.2,
+    "min_temp": -2.8
+  },
+  {
+    "city": "Feicheng",
+    "date": "2023-11-14",
+    "latitude": "36.1841443",
+    "longitude": "116.7653466",
+    "max_temp": 9.5,
+    "min_temp": 1.1
+  },
+  {
+    "city": "Seberang Jaya",
+    "date": "2023-11-14",
+    "latitude": "5.3949534",
+    "longitude": "100.4024633",
+    "max_temp": 31.0,
+    "min_temp": 26.4
+  },
+  {
+    "city": "El Alto",
+    "date": "2023-11-14",
+    "latitude": "-16.5048228",
+    "longitude": "-68.1624337",
+    "max_temp": 18.4,
+    "min_temp": 1.4
+  },
+  {
+    "city": "Kitaky\u016bsh\u016b",
+    "date": "2023-11-14",
+    "latitude": "33.8829996",
+    "longitude": "130.8749015",
+    "max_temp": 14.6,
+    "min_temp": 11.2
+  },
+  {
+    "city": "Meishan",
+    "date": "2023-11-14",
+    "latitude": "29.9866838",
+    "longitude": "103.7790009",
+    "max_temp": 12.2,
+    "min_temp": 9.7
+  },
+  {
+    "city": "Khartoum North",
+    "date": "2023-11-14",
+    "latitude": "15.6478476",
+    "longitude": "32.5345797",
+    "max_temp": 38.6,
+    "min_temp": 26.8
+  },
+  {
+    "city": "Kisangani",
+    "date": "2023-11-14",
+    "latitude": "0.5184021",
+    "longitude": "25.2057292",
+    "max_temp": 28.5,
+    "min_temp": 23.3
+  },
+  {
+    "city": "Aguascalientes",
+    "date": "2023-11-14",
+    "latitude": "22.0000001",
+    "longitude": "-102.5000001",
+    "max_temp": 18.5,
+    "min_temp": 10.9
+  },
+  {
+    "city": "Marrakech",
+    "date": "2023-11-14",
+    "latitude": "31.6258257",
+    "longitude": "-7.9891608",
+    "max_temp": 31.5,
+    "min_temp": 13.0
+  },
+  {
+    "city": "Donetsk",
+    "date": "2023-11-14",
+    "latitude": "48.0158753",
+    "longitude": "37.8013407",
+    "max_temp": 9.1,
+    "min_temp": 3.3
+  },
+  {
+    "city": "Trujillo",
+    "date": "2023-11-14",
+    "latitude": "39.4605657",
+    "longitude": "-5.8816626",
+    "max_temp": 18.3,
+    "min_temp": 10.0
+  },
+  {
+    "city": "New Orleans",
+    "date": "2023-11-14",
+    "latitude": "29.9759983",
+    "longitude": "-90.0782127",
+    "max_temp": 17.5,
+    "min_temp": 14.6
+  },
+  {
+    "city": "Taihe",
+    "date": "2023-11-14",
+    "latitude": "33.3345163",
+    "longitude": "115.6446639",
+    "max_temp": 13.2,
+    "min_temp": 1.9
+  },
+  {
+    "city": "Trichinopoly",
+    "date": "2023-11-14",
+    "latitude": "10.804973",
+    "longitude": "78.6870296",
+    "max_temp": 25.4,
+    "min_temp": 23.0
+  },
+  {
+    "city": "Xin\u2019an",
+    "date": "2023-11-14",
+    "latitude": "34.7274992",
+    "longitude": "112.1259282",
+    "max_temp": 14.9,
+    "min_temp": 0.6
+  },
+  {
+    "city": "Taihecun",
+    "date": "2023-11-14",
+    "latitude": "46.4434578",
+    "longitude": "123.8870607",
+    "max_temp": 0.2,
+    "min_temp": -8.6
+  },
+  {
+    "city": "Kashgar",
+    "date": "2023-11-14",
+    "latitude": "37.8714865",
+    "longitude": "77.1915562",
+    "max_temp": 14.5,
+    "min_temp": 2.4
+  },
+  {
+    "city": "Naucalpan de Ju\u00e1rez",
+    "date": "2023-11-14",
+    "latitude": "19.4788356",
+    "longitude": "-99.2327986",
+    "max_temp": 21.7,
+    "min_temp": 13.2
+  },
+  {
+    "city": "\u00c7ankaya",
+    "date": "2023-11-14",
+    "latitude": "39.8853321",
+    "longitude": "32.8554966",
+    "max_temp": 12.4,
+    "min_temp": 4.2
+  },
+  {
+    "city": "Santiago de Cuba",
+    "date": "2023-11-14",
+    "latitude": "20.0214637",
+    "longitude": "-75.8294928",
+    "max_temp": 32.1,
+    "min_temp": 25.1
+  },
+  {
+    "city": "Owerri",
+    "date": "2023-11-14",
+    "latitude": "5.489736",
+    "longitude": "7.0341973",
+    "max_temp": 29.3,
+    "min_temp": 25.1
+  },
+  {
+    "city": "Padang",
+    "date": "2023-11-14",
+    "latitude": "-0.9247587",
+    "longitude": "100.3632561",
+    "max_temp": 27.6,
+    "min_temp": 26.2
+  },
+  {
+    "city": "Qingzhou",
+    "date": "2023-11-14",
+    "latitude": "36.6843271",
+    "longitude": "118.4738118",
+    "max_temp": 11.0,
+    "min_temp": -0.2
+  },
+  {
+    "city": "Lichuan",
+    "date": "2023-11-14",
+    "latitude": "30.2937431",
+    "longitude": "108.9322926",
+    "max_temp": 8.7,
+    "min_temp": 4.4
+  },
+  {
+    "city": "Santiago del Estero",
+    "date": "2023-11-14",
+    "latitude": "-27.6431016",
+    "longitude": "-63.5408542",
+    "max_temp": 26.8,
+    "min_temp": 19.9
+  },
+  {
+    "city": "Daye",
+    "date": "2023-11-14",
+    "latitude": "15.3576907",
+    "longitude": "-7.2542671",
+    "max_temp": 37.7,
+    "min_temp": 23.6
+  },
+  {
+    "city": "Hengzhou",
+    "date": "2023-11-14",
+    "latitude": "22.773994",
+    "longitude": "109.171195",
+    "max_temp": 14.7,
+    "min_temp": 11.5
+  },
+  {
+    "city": "Fort Worth",
+    "date": "2023-11-14",
+    "latitude": "32.753177",
+    "longitude": "-97.3327459",
+    "max_temp": 18.9,
+    "min_temp": 10.4
+  },
+  {
+    "city": "Hartford",
+    "date": "2023-11-14",
+    "latitude": "41.764582",
+    "longitude": "-72.6908547",
+    "max_temp": 9.2,
+    "min_temp": -0.3
+  },
+  {
+    "city": "Esenyurt",
+    "date": "2023-11-14",
+    "latitude": "41.0342862",
+    "longitude": "28.6801113",
+    "max_temp": 16.2,
+    "min_temp": 7.3
+  },
+  {
+    "city": "Campo Grande",
+    "date": "2023-11-14",
+    "latitude": "-20.4640173",
+    "longitude": "-54.6162947",
+    "max_temp": 37.4,
+    "min_temp": 26.8
+  },
+  {
+    "city": "Zhuanghe",
+    "date": "2023-11-14",
+    "latitude": "39.6972967",
+    "longitude": "122.9708389",
+    "max_temp": 8.4,
+    "min_temp": -3.0
+  },
+  {
+    "city": "Bobo-Dioulasso",
+    "date": "2023-11-14",
+    "latitude": "11.1765796",
+    "longitude": "-4.2961436",
+    "max_temp": 36.5,
+    "min_temp": 23.3
+  },
+  {
+    "city": "Ad Damm\u0101m",
+    "date": "2023-11-14",
+    "latitude": "26.4367824",
+    "longitude": "50.1039991",
+    "max_temp": 30.8,
+    "min_temp": 20.2
+  },
+  {
+    "city": "Quzhou",
+    "date": "2023-11-14",
+    "latitude": "36.7698986",
+    "longitude": "114.9585243",
+    "max_temp": 11.5,
+    "min_temp": -0.4
+  },
+  {
+    "city": "Lhasa",
+    "date": "2023-11-14",
+    "latitude": "25.23642485",
+    "longitude": "55.178613753619956",
+    "max_temp": 33.0,
+    "min_temp": 22.3
+  },
+  {
+    "city": "Jiaozhou",
+    "date": "2023-11-14",
+    "latitude": "36.2640866",
+    "longitude": "120.0284928",
+    "max_temp": 9.4,
+    "min_temp": -1.2
+  },
+  {
+    "city": "Bunia",
+    "date": "2023-11-14",
+    "latitude": "1.5620529",
+    "longitude": "30.2478844",
+    "max_temp": 25.1,
+    "min_temp": 17.9
+  },
+  {
+    "city": "Taguig City",
+    "date": "2023-11-14",
+    "latitude": "14.5270538",
+    "longitude": "121.0744942",
+    "max_temp": 32.4,
+    "min_temp": 27.0
+  },
+  {
+    "city": "Canc\u00fan",
+    "date": "2023-11-14",
+    "latitude": "21.1617854",
+    "longitude": "-86.8510468",
+    "max_temp": 27.3,
+    "min_temp": 25.3
+  },
+  {
+    "city": "M\u00e9rida",
+    "date": "2023-11-14",
+    "latitude": "38.9174665",
+    "longitude": "-6.3443977",
+    "max_temp": 19.6,
+    "min_temp": 11.7
+  },
+  {
+    "city": "Yangchun",
+    "date": "2023-11-14",
+    "latitude": "22.2518472",
+    "longitude": "111.6936609",
+    "max_temp": 22.1,
+    "min_temp": 14.2
+  },
+  {
+    "city": "Mor\u0101d\u0101b\u0101d",
+    "date": "2023-11-14",
+    "latitude": "28.8334982",
+    "longitude": "78.7732864",
+    "max_temp": 25.2,
+    "min_temp": 13.7
+  },
+  {
+    "city": "Antipolo",
+    "date": "2023-11-14",
+    "latitude": "14.5871972",
+    "longitude": "121.1759246",
+    "max_temp": 31.0,
+    "min_temp": 26.2
+  },
+  {
+    "city": "Abeokuta",
+    "date": "2023-11-14",
+    "latitude": "7.1547129",
+    "longitude": "3.3467344",
+    "max_temp": 34.1,
+    "min_temp": 24.4
+  },
+  {
+    "city": "Bucheon",
+    "date": "2023-11-14",
+    "latitude": "37.5014422",
+    "longitude": "126.7660139",
+    "max_temp": 8.8,
+    "min_temp": 0.8
+  },
+  {
+    "city": "Zhoushan",
+    "date": "2023-11-14",
+    "latitude": "29.9873344",
+    "longitude": "122.2030363",
+    "max_temp": 14.9,
+    "min_temp": 9.9
+  },
+  {
+    "city": "Tirupp\u016br",
+    "date": "2023-11-14",
+    "latitude": "11.1017815",
+    "longitude": "77.345192",
+    "max_temp": 27.8,
+    "min_temp": 21.8
+  },
+  {
+    "city": "Natal",
+    "date": "2023-11-14",
+    "latitude": "-5.805398",
+    "longitude": "-35.2080905",
+    "max_temp": 30.0,
+    "min_temp": 25.7
+  },
+  {
+    "city": "Chihuahua",
+    "date": "2023-11-14",
+    "latitude": "28.5000001",
+    "longitude": "-106.0000001",
+    "max_temp": 18.2,
+    "min_temp": 8.7
+  }
+]

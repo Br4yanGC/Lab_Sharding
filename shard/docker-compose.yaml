@@ -1,0 +1,72 @@
+version: '3'
+services:
+  shard1s1:
+    container_name: shard1s1
+    image: mongo
+    command: mongod --shardsvr --replSet shard1rs --port 27017 --dbpath /data/db
+    ports:
+      - 20001:27017
+    volumes:
+      - shard1s1:/data/db
+  shard1s2:
+    container_name: shard1s2
+    image: mongo
+    command: mongod --shardsvr --replSet shard1rs --port 27017 --dbpath /data/db
+    ports:
+      - 50002:27017
+    volumes:
+      - shard1s2:/data/db
+  shard1s3:
+    container_name: shard1s3
+    image: mongo
+    command: mongod --shardsvr --replSet shard1rs --port 27017 --dbpath /data/db
+    ports:
+      - 50003:27017
+    volumes:
+      - shard1s3:/data/db
+volumes:
+  shard1s1: {}
+  shard1s2: {}
+  shard1s3: {}
+
+#ShardSet 1: 20001, 50002, 50003 
+#ShardSet 1: 20002, 50004, 50005 
+#ShardSet 1: 20003, 50006, 50007 
+
+
+#rs.initiate(
+#  {
+#    _id: "shard3rs",
+#    members: [
+#      { _id : 0, host : "192.168.0.102:20003" },
+#      { _id : 1, host : "192.168.0.102:50006" },
+#      { _id : 2, host : "192.168.0.102:50007" }
+#    ]
+#  }
+#)
+
+#sh.addShard("shard1rs/192.168.0.102:20001,192.168.0.102:50002,192.168.0.102:50003")
+
+#sh.addShard("shard2rs/192.168.0.102:20002,192.168.0.102:50004,192.168.0.102:50005")
+
+#sh.addShard("shard3rs/192.168.0.102:20003,192.168.0.102:50006,192.168.0.102:50007")
+
+# Moving chunks for cities starting with A-C to shard1rs
+# sh.moveChunk("lab16.weather", { "city": { "$gte": "A", "$lt": "D" }}, "shard1rs");
+# sh.moveChunk("lab16.weather", { "city": { "$gte": "A", "$lt": "D" }, "city": 1 }, "shard1rs");
+
+# Moving chunks for cities starting with D-G to shard2rs
+# sh.moveChunk("lab16.weather", { "city": { "$gte": "D", "$lt": "H" }, "city": 1 }, "shard2rs");
+
+# Moving chunks for cities starting with H-Z to shard3rs
+# sh.moveChunk("lab16.weather", { "city": { "$gte": "H", "$lt": "Z" }, "city": 1 }, "shard3rs");
+
+# sh.moveChunk("lab16.weather", { "city": { "$gte": "H", "$lt": "Z" }, "city": 1 }, "shard3rs", { maxTimeMS: 600000 });
+
+#sh.addShardTag("shard1rs", "cKey1")
+#sh.addShardTag("shard2rs", "cKey2")
+#sh.addShardTag("shard3rs", "cKey3")
+
+#sh.addTagRange("shard1rs", {min_temp:0}, {min_temp:15}, "cKey1")
+#sh.addTagRange(shard2rs, "min_temp":15, min_temp:20, cKey2)
+#sh.addTagRange(shard3rs, min_temp:20, min_temp:30, cKey3)
